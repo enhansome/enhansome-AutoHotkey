@@ -1,6 +1,6 @@
 # Awesome AutoHotkey with stars
 
-A curated list of awesome [AutoHotkey](https://autohotkey.com/) libraries, library distributions, scripts, tools and resources. Inspired by the other [awesome lists](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,608 | 🐛 60 | 🌐 Ruby | 📅 2024-06-02. Please read [CONTRIBUTING.md](https://github.com/ahkscript/awesome-AutoHotkey/blob/master/.github/CONTRIBUTING.md) ⭐ 3,066 | 🐛 26 | 📅 2023-01-24 before contributing.
+A curated list of awesome [AutoHotkey](https://autohotkey.com/) libraries, library distributions, scripts, tools and resources. Inspired by the other [awesome lists](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,610 | 🐛 60 | 🌐 Ruby | 📅 2024-06-02. Please read [CONTRIBUTING.md](https://github.com/ahkscript/awesome-AutoHotkey/blob/master/.github/CONTRIBUTING.md) ⭐ 3,066 | 🐛 26 | 📅 2023-01-24 before contributing.
 
 Out-of-date or discontinued, but nonetheless historically relevant items can be found on [Historical.md](https://github.com/ahkscript/awesome-AutoHotkey/blob/master/Historical.md) ⭐ 3,066 | 🐛 26 | 📅 2023-01-24
 
@@ -255,7 +255,7 @@ Development state:
 
 ### Typing
 
-* [KeyPress OSD](https://github.com/marius-sucan/KeyPress-OSD) ⭐ 412 | 🐛 2 | 🌐 AutoHotkey | 📅 2026-04-02 - On-Screen Display which displays every key or mouse button press at a clearly visible text size. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6\&t=225)
+* [KeyPress OSD](https://github.com/marius-sucan/KeyPress-OSD) ⭐ 413 | 🐛 2 | 🌐 AutoHotkey | 📅 2026-04-02 - On-Screen Display which displays every key or mouse button press at a clearly visible text size. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6\&t=225)
 * [AutoComplete](https://github.com/Uberi/Autocomplete) ⭐ 218 | 🐛 9 | 🌐 AutoHotkey | 📅 2022-12-12 - Suggests and completes words as you type. Forum thread: [link](https://autohotkey.com/board/topic/60998-autocomplete/).
 * [TypingAid](https://github.com/ManiacDC/TypingAid/releases) ⭐ 157 | 🐛 56 | 🌐 AutoHotkey | 📅 2018-07-11 - Suggests and completes words as you type. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6\&t=5644) GitHub [link](https://github.com/ManiacDC/TypingAid) ⭐ 157 | 🐛 56 | 🌐 AutoHotkey | 📅 2018-07-11.
 * [Static Hands](https://github.com/almogtavor/static-hands) ⭐ 77 | 🐛 0 | 🌐 Shell | 📅 2026-03-13 - Super useful shortcuts with the CapsLock key that spare the need to move hands while typing. Super simple. No learning curve.
@@ -393,7 +393,7 @@ Development state:
 
 ### Documentation
 
-* [Official documentation](https://autohotkey.com/docs/AutoHotkey.htm) - Official uptodate AutoHotkey documentation. GitHub [link](https://github.com/Lexikos/AutoHotkey_L-Docs) ⭐ 490 | 🐛 0 | 🌐 AutoHotkey | 📅 2026-08-08.
+* [Official documentation](https://autohotkey.com/docs/AutoHotkey.htm) - Official uptodate AutoHotkey documentation. GitHub [link](https://github.com/Lexikos/AutoHotkey_L-Docs) ⭐ 490 | 🐛 0 | 🌐 AutoHotkey | 📅 2026-08-16.
 
 ### Books
 
@@ -425,4 +425,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
