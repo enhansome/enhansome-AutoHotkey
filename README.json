@@ -1187,7 +1187,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-07-25T07:30:12Z",
+            "last_commit": "2026-08-17T21:04:54Z",
             "owner": "spyoungtech",
             "repo": "ahk",
             "stars": 1030
@@ -1246,7 +1246,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T19:16:07.105Z",
+    "last_updated": "2026-08-18T19:17:00.018Z",
     "original_repository": "ahkscript/awesome-AutoHotkey",
     "original_repository_sha": "a46e9a2072a74742ad2386f48a907beb0e2515d1",
     "enhanced_repository": "enhansome/enhansome-AutoHotkey",
