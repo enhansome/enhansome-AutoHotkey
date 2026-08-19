@@ -2,695 +2,753 @@
   "items": [
     {
       "description": "List of useful AutoHotkey libraries. Library is code that has some reusable functionality that can be combined with your own code in order to create new functionality.",
-      "items": [],
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "LibCon",
+              "description": "by joedf - AutoHotkey Library For Console Support. This library enables you to write console applications and interact with other console instances. Basically, this library facilitates anything that has to do with writing and interacting with consoles. Forum thread: link.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 12500342,
+                "language": "AutoHotkey",
+                "last_commit": "2025-10-31T20:37:21Z",
+                "owner": "joedf",
+                "repo": "LibCon.ahk",
+                "stars": 61
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "AHKonsole",
+              "description": "by G33kdude - Class based AutoHotkey library for console support. This library enables you to create an object representing a console to interact with, as well as multiple console buffer objects to facilitate in double buffering. Forum thread: link.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 25636252,
+                "language": "AutoHotkey",
+                "last_commit": "2015-03-19T17:00:32Z",
+                "owner": "G33kDude",
+                "repo": "Console",
+                "stars": 33
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Console"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "AutoHotkey-JSON",
+              "description": "by cocobelgica - JSON lib for AutoHotkey. Forum thread: link.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 14264940,
+                "language": "AutoHotkey",
+                "last_commit": "2020-10-26T17:25:25Z",
+                "owner": "cocobelgica",
+                "repo": "AutoHotkey-JSON",
+                "stars": 287
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CSV",
+              "description": "by trueski/kdoske - Library to work with CSV files and Listview functions. Forum thread: link.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 98017356,
+                "language": "AutoHotkey",
+                "last_commit": "2022-09-25T14:59:14Z",
+                "owner": "hi5",
+                "repo": "CSV",
+                "stars": 58
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ObjCSV",
+              "description": "by JnLlnd - Library to load/save CSV files to Objects and and Listview functions. Forum thread: link.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 12328646,
+                "language": "AutoHotkey",
+                "last_commit": "2022-10-24T15:06:47Z",
+                "owner": "JnLlnd",
+                "repo": "ObjCSV",
+                "stars": 32
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SerDes",
+              "description": "by cocobelgica - Serialize / de-serialize an AutoHotkey object structure. Forum thread: link.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 22570471,
+                "language": "AutoHotkey",
+                "last_commit": "2014-09-18T13:17:47Z",
+                "owner": "cocobelgica",
+                "repo": "AutoHotkey-SerDes",
+                "stars": 15
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "XA",
+              "description": "by trueski/hi5 - Serialize/deserialize array to/from XML. Forum thread: link.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 98015541,
+                "language": "AutoHotkey",
+                "last_commit": "2020-09-06T12:51:58Z",
+                "owner": "hi5",
+                "repo": "XA",
+                "stars": 14
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "AHK_ctable",
+              "description": "by hoppfrosch - Library to handle strings in tabular format - Forum thread: link.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 2794469,
+                "language": "AutoHotkey",
+                "last_commit": "2016-04-04T12:13:36Z",
+                "owner": "hoppfrosch",
+                "repo": "AHK_cTable",
+                "stars": 10
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Table",
+              "description": "by VxE - Library to manipulate strings in tabular (TSV) format and Listview functions. Forum thread: link.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 11186874,
+                "language": "AutoHotkey",
+                "last_commit": "2013-08-01T16:58:45Z",
+                "owner": "Jim-VxE",
+                "repo": "AHK-Lib-Table",
+                "stars": 5
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Data format"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "LibCrypt",
+              "description": "by different authors - A collection of crypting and encoding functions.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 25994242,
+                "language": "AutoHotkey",
+                "last_commit": "2021-03-03T14:25:54Z",
+                "owner": "ahkscript",
+                "repo": "libcrypt.ahk",
+                "stars": 73
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Facade",
+              "description": "by Shambles - A Set of Functional Programming Libraries. - Forum thread: link",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 132136626,
+                "language": "AutoHotkey",
+                "last_commit": "2021-11-26T15:23:43Z",
+                "owner": "Shambles-Dev",
+                "repo": "AutoHotkey-Facade",
+                "stars": 30
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "HashTable",
+              "description": "by Shambles - A Hash Table Implementation for AutoHotkey.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 53643801,
+                "language": "AutoHotkey",
+                "last_commit": "2021-11-26T15:24:39Z",
+                "owner": "Shambles-Dev",
+                "repo": "AutoHotkey-HashTable",
+                "stars": 8
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Type_Checking",
+              "description": "by Shambles - Type Checking for AutoHotkey - Forum thread: link",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 161359410,
+                "language": "AutoHotkey",
+                "last_commit": "2021-11-26T15:23:18Z",
+                "owner": "Shambles-Dev",
+                "repo": "AutoHotkey-Type_Checking",
+                "stars": 8
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Data Structures and Algorithms"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Class_SQLiteDB",
+              "description": "by just Me - AHK SQLite API wrapper class. Forum thread: link.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 15330423,
+                "language": "AutoHotkey",
+                "last_commit": "2022-10-03T10:34:41Z",
+                "owner": "AHK-just-me",
+                "repo": "Class_SQLiteDB",
+                "stars": 110
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ahkDBA",
+              "description": "by IsNull - An OOP-SQL database access framework. Forum thread: link.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 4055674,
+                "language": "AutoHotkey",
+                "last_commit": "2021-09-21T18:08:18Z",
+                "owner": "IsNull",
+                "repo": "ahkDBA",
+                "stars": 50
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "AHKDb",
+              "description": "by AHKDb - A database library for tab-separated data.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 235028443,
+                "language": "AutoHotkey",
+                "last_commit": "2020-04-04T04:21:35Z",
+                "owner": "AHKDb",
+                "repo": "AHKDb",
+                "stars": 32
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Leya - MySQL API",
+              "description": "by kevgk - Work with MySQL databases in autohotkey, without exposing server credentials to the client.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 10941071,
+                "language": "PHP",
+                "last_commit": "2020-04-30T18:02:57Z",
+                "owner": "kevgk",
+                "repo": "Leya",
+                "stars": 18
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Database"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ImagePut",
+              "description": "by iseahound - Image library for converting to files, streams, windows, base64, urls, cursors, screen coordinates, clipboard, pointers, handles, and more. Supports AutoHotkey v1 and v2. - Forum thread: link",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 266191907,
+                "language": "AutoHotkey",
+                "last_commit": "2026-06-16T22:54:22Z",
+                "owner": "iseahound",
+                "repo": "ImagePut",
+                "stars": 228
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GDIp_ImageSearch",
+              "description": "by tic - Library using gdiplus.dll for searching image instances on the screen. See the end of that thread for MasterFocus' improved version, or see his GitHub repo here",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 5279228,
+                "language": "AutoHotkey",
+                "last_commit": "2025-04-21T05:42:15Z",
+                "owner": "MasterFocus",
+                "repo": "AutoHotkey",
+                "stars": 213
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GDIp",
+              "description": "by tic - Full featured library that helps in interaction with Microsoft's gdiplus.dll - Forum thread: link.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 31276035,
+                "language": "AutoHotkey",
+                "last_commit": "2019-03-05T22:07:27Z",
+                "owner": "tariqporter",
+                "repo": "Gdip",
+                "stars": 158
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "AHKv2-GDIP",
+              "description": "Update of the above GDI+ library compatiable with both AHK v1.1 and AHK v2 - Forum thread: link.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 73879327,
+                "language": "AutoHotkey",
+                "last_commit": "2021-10-17T02:04:31Z",
+                "owner": "mmikeww",
+                "repo": "AHKv2-Gdip",
+                "stars": 157
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Particle System",
+              "description": "by tidbit - A simple class to add particles to your GUI or onto your screen, using GDI+. Forum thread: link.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 78038687,
+                "language": "AutoHotkey",
+                "last_commit": "2017-01-17T16:49:32Z",
+                "owner": "acorns",
+                "repo": "Particle-System",
+                "stars": 17
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Graphics"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Toolbar",
+                  "description": "by Pulover - AHK Class for AutoHotkey Toolbar custom controls. Forum thread: link",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 53907982,
+                    "language": "AutoHotkey",
+                    "last_commit": "2020-09-14T14:44:52Z",
+                    "owner": "Pulover",
+                    "repo": "Class_Toolbar",
+                    "stars": 38
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Rebar",
+                  "description": "by Pulover - AHK class for AutoHotkey Rebar custom controls. Forum thread: link",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 53908684,
+                    "language": "AutoHotkey",
+                    "last_commit": "2016-04-04T05:15:12Z",
+                    "owner": "Pulover",
+                    "repo": "Class_Rebar",
+                    "stars": 16
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Custom Controls"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "OnWin",
+                  "description": "by cocobelgica - Call function on window event (WinWaitXXX async). Forum thread: link",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 23083759,
+                    "language": "AutoHotkey",
+                    "last_commit": "2016-05-16T14:02:42Z",
+                    "owner": "cocobelgica",
+                    "repo": "AutoHotkey-Util",
+                    "stars": 104
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Class_ScrollGUI",
+                  "description": "by just me - Creates a scrollable GUI as a parent for AHK GUI windows. Forum thread: link",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 30546566,
+                    "language": "AutoHotkey",
+                    "last_commit": "2015-03-13T13:53:12Z",
+                    "owner": "AHK-just-me",
+                    "repo": "Class_ScrollGUI",
+                    "stars": 22
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "CGUI",
+                  "description": "by ChrisS85 - An object-oriented GUI library for AutoHotkey. Forum thread: link",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 79153402,
+                    "language": "AutoHotkey",
+                    "last_commit": "2017-01-17T09:26:11Z",
+                    "owner": "lipkau",
+                    "repo": "CGUI",
+                    "stars": 19
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "TaskDialog",
+                  "description": "by just Me - enhanced MsgBox for Win Vista+ - link",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 24488142,
+                    "language": "AutoHotkey",
+                    "last_commit": "2014-09-26T06:06:10Z",
+                    "owner": "AHK-just-me",
+                    "repo": "TaskDialog",
+                    "stars": 11
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "General"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "LBEX",
+                  "description": "by just me - a collection of utility functions for ListBoxes. Forum thread: link",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 24672434,
+                    "language": "AutoHotkey",
+                    "last_commit": "2020-08-19T10:09:17Z",
+                    "owner": "AHK-just-me",
+                    "repo": "LBEX",
+                    "stars": 20
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "TransparentListBox",
+                  "description": "by just Me - Provides transparent listbox controls for AHK GUIs. Forum thread: link",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 29385772,
+                    "language": "AutoHotkey",
+                    "last_commit": "2015-01-17T11:33:58Z",
+                    "owner": "AHK-just-me",
+                    "repo": "Class_TransparentListBox",
+                    "stars": 15
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "ListBox"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "LV_Colors",
+                  "description": "by just Me - Individual background and/or text colours for a GUI ListView's cells or rows. Forum thread: link",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 15336721,
+                    "language": "AutoHotkey",
+                    "last_commit": "2024-03-16T10:40:07Z",
+                    "owner": "AHK-just-me",
+                    "repo": "Class_LV_Colors",
+                    "stars": 30
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "LV_Rows",
+                  "description": "by Pulover - Additional functions for AHK ListView controls. Forum thread: link",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 53980301,
+                    "language": "AutoHotkey",
+                    "last_commit": "2020-12-28T23:51:06Z",
+                    "owner": "Pulover",
+                    "repo": "Class_LV_Rows",
+                    "stars": 17
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "LV_EX",
+                  "description": "by just me - Some additional functions for AHK GUI ListView controls. Forum thread: link",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 15605369,
+                    "language": "AutoHotkey",
+                    "last_commit": "2022-10-07T08:36:19Z",
+                    "owner": "AHK-just-me",
+                    "repo": "LV_EX",
+                    "stars": 16
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "LV_InCellEdit",
+                  "description": "by just Me - In-cell editing for ListView controls. Forum thread: link",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 15332723,
+                    "language": "AutoHotkey",
+                    "last_commit": "2015-12-15T07:42:35Z",
+                    "owner": "AHK-just-me",
+                    "repo": "Class_LV_InCellEdit",
+                    "stars": 13
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "ListView"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "GUI"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Chrome.ahk",
+              "description": "by G33kDude - Automate Google Chrome using native AutoHotkey - Forum link",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 117497616,
+                "language": "AutoHotkey",
+                "last_commit": "2023-05-03T17:10:42Z",
+                "owner": "G33kDude",
+                "repo": "Chrome.ahk",
+                "stars": 394
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "WebSocket.ahk",
+              "description": "by GeekDude - Class based WebSocket library - Forum link",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 95403568,
+                "language": "AutoHotkey",
+                "last_commit": "2023-03-24T16:27:45Z",
+                "owner": "G33kDude",
+                "repo": "WebSocket.ahk",
+                "stars": 86
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "AHKhttp",
+              "description": "Basic HTTP Server. Forum link",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 25332501,
+                "language": "AutoHotkey",
+                "last_commit": "2023-11-22T08:46:19Z",
+                "owner": "zhamlin",
+                "repo": "AHKhttp",
+                "stars": 85
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "AHKsock",
+              "description": "by TheGood - Function based sockets library. Supports TCP. Forum link",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 7983554,
+                "language": "AutoHotkey",
+                "last_commit": "2016-12-04T20:58:11Z",
+                "owner": "jleb",
+                "repo": "AHKsock",
+                "stars": 83
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Socket.ahk",
+              "description": "by GeekDude - Socket library based on Bentschi's - Forum link",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 57306609,
+                "language": "AutoHotkey",
+                "last_commit": "2017-06-26T05:14:27Z",
+                "owner": "G33kDude",
+                "repo": "Socket.ahk",
+                "stars": 71
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Rufaydium WebDriver",
+              "description": "by Xeo786 - Webdriver Library to support any Chromium based browser only requiring webdriver (no selenium/websocket) - Forum link",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 744517761,
+                "language": "AutoHotkey",
+                "last_commit": "2024-03-05T17:53:01Z",
+                "owner": "Xeo786",
+                "repo": "Rufaydium-Webdriver",
+                "stars": 30
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "WinSCP.ahk",
+              "description": "by Lipkau - Lib allows the use of WinSCP in AHK",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 37584791,
+                "language": "AutoHotkey",
+                "last_commit": "2020-03-13T11:31:53Z",
+                "owner": "lipkau",
+                "repo": "WinSCP.ahk",
+                "stars": 17
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "FTP",
+              "description": "by jNizM - AutoHotkey wrapper for FTP Sessions (Class) - Forum link",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 282894414,
+                "language": "AutoHotkey",
+                "last_commit": "2020-08-27T13:33:35Z",
+                "owner": "jNizM",
+                "repo": "Class_FTP",
+                "stars": 7
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Networking"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "gdiChartLib",
+              "description": "by nnnik - a gdip chart lib for autohotkey. Forum link",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 90404830,
+                "language": "AutoHotkey",
+                "last_commit": "2017-06-02T17:03:01Z",
+                "owner": "nnnik",
+                "repo": "gdiChartLib",
+                "stars": 12
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SVGraph",
+              "description": "by CapnOdin - SVGraph bringing graphing and charting to AutoHotkey. Forum link",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 72784570,
+                "language": "JavaScript",
+                "last_commit": "2018-01-11T12:15:31Z",
+                "owner": "CapnOdin",
+                "repo": "SVGraph",
+                "stars": 10
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Plotting (graphs, bars, charts and etc)"
+        }
+      ],
       "title": "Libraries"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "LibCon",
-          "description": "by joedf - AutoHotkey Library For Console Support. This library enables you to write console applications and interact with other console instances. Basically, this library facilitates anything that has to do with writing and interacting with consoles. Forum thread: link.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "AutoHotkey",
-            "last_commit": "2025-10-31T20:37:21Z",
-            "owner": "joedf",
-            "repo": "LibCon.ahk",
-            "stars": 61
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "AHKonsole",
-          "description": "by G33kdude - Class based AutoHotkey library for console support. This library enables you to create an object representing a console to interact with, as well as multiple console buffer objects to facilitate in double buffering. Forum thread: link.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "AutoHotkey",
-            "last_commit": "2015-03-19T17:00:32Z",
-            "owner": "G33kDude",
-            "repo": "Console",
-            "stars": 33
-          }
-        }
-      ],
-      "title": "Console"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "AutoHotkey-JSON",
-          "description": "by cocobelgica - JSON lib for AutoHotkey. Forum thread: link.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "AutoHotkey",
-            "last_commit": "2020-10-26T17:25:25Z",
-            "owner": "cocobelgica",
-            "repo": "AutoHotkey-JSON",
-            "stars": 287
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "CSV",
-          "description": "by trueski/kdoske - Library to work with CSV files and Listview functions. Forum thread: link.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "AutoHotkey",
-            "last_commit": "2022-09-25T14:59:14Z",
-            "owner": "hi5",
-            "repo": "CSV",
-            "stars": 58
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ObjCSV",
-          "description": "by JnLlnd - Library to load/save CSV files to Objects and and Listview functions. Forum thread: link.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "AutoHotkey",
-            "last_commit": "2022-10-24T15:06:47Z",
-            "owner": "JnLlnd",
-            "repo": "ObjCSV",
-            "stars": 32
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "SerDes",
-          "description": "by cocobelgica - Serialize / de-serialize an AutoHotkey object structure. Forum thread: link.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "AutoHotkey",
-            "last_commit": "2014-09-18T13:17:47Z",
-            "owner": "cocobelgica",
-            "repo": "AutoHotkey-SerDes",
-            "stars": 15
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "XA",
-          "description": "by trueski/hi5 - Serialize/deserialize array to/from XML. Forum thread: link.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "AutoHotkey",
-            "last_commit": "2020-09-06T12:51:58Z",
-            "owner": "hi5",
-            "repo": "XA",
-            "stars": 14
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "AHK_ctable",
-          "description": "by hoppfrosch - Library to handle strings in tabular format - Forum thread: link.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "AutoHotkey",
-            "last_commit": "2016-04-04T12:13:36Z",
-            "owner": "hoppfrosch",
-            "repo": "AHK_cTable",
-            "stars": 10
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Table",
-          "description": "by VxE - Library to manipulate strings in tabular (TSV) format and Listview functions. Forum thread: link.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "AutoHotkey",
-            "last_commit": "2013-08-01T16:58:45Z",
-            "owner": "Jim-VxE",
-            "repo": "AHK-Lib-Table",
-            "stars": 5
-          }
-        }
-      ],
-      "title": "Data format"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "LibCrypt",
-          "description": "by different authors - A collection of crypting and encoding functions.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "AutoHotkey",
-            "last_commit": "2021-03-03T14:25:54Z",
-            "owner": "ahkscript",
-            "repo": "libcrypt.ahk",
-            "stars": 73
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Facade",
-          "description": "by Shambles - A Set of Functional Programming Libraries. - Forum thread: link",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "AutoHotkey",
-            "last_commit": "2021-11-26T15:23:43Z",
-            "owner": "Shambles-Dev",
-            "repo": "AutoHotkey-Facade",
-            "stars": 30
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "HashTable",
-          "description": "by Shambles - A Hash Table Implementation for AutoHotkey.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "AutoHotkey",
-            "last_commit": "2021-11-26T15:24:39Z",
-            "owner": "Shambles-Dev",
-            "repo": "AutoHotkey-HashTable",
-            "stars": 8
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Type_Checking",
-          "description": "by Shambles - Type Checking for AutoHotkey - Forum thread: link",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "AutoHotkey",
-            "last_commit": "2021-11-26T15:23:18Z",
-            "owner": "Shambles-Dev",
-            "repo": "AutoHotkey-Type_Checking",
-            "stars": 8
-          }
-        }
-      ],
-      "title": "Data Structures and Algorithms"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Class_SQLiteDB",
-          "description": "by just Me - AHK SQLite API wrapper class. Forum thread: link.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "AutoHotkey",
-            "last_commit": "2022-10-03T10:34:41Z",
-            "owner": "AHK-just-me",
-            "repo": "Class_SQLiteDB",
-            "stars": 110
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ahkDBA",
-          "description": "by IsNull - An OOP-SQL database access framework. Forum thread: link.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "AutoHotkey",
-            "last_commit": "2021-09-21T18:08:18Z",
-            "owner": "IsNull",
-            "repo": "ahkDBA",
-            "stars": 50
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "AHKDb",
-          "description": "by AHKDb - A database library for tab-separated data.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "AutoHotkey",
-            "last_commit": "2020-04-04T04:21:35Z",
-            "owner": "AHKDb",
-            "repo": "AHKDb",
-            "stars": 32
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Leya - MySQL API",
-          "description": "by kevgk - Work with MySQL databases in autohotkey, without exposing server credentials to the client.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2020-04-30T18:02:57Z",
-            "owner": "kevgk",
-            "repo": "Leya",
-            "stars": 18
-          }
-        }
-      ],
-      "title": "Database"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "ImagePut",
-          "description": "by iseahound - Image library for converting to files, streams, windows, base64, urls, cursors, screen coordinates, clipboard, pointers, handles, and more. Supports AutoHotkey v1 and v2. - Forum thread: link",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "AutoHotkey",
-            "last_commit": "2026-06-16T22:54:22Z",
-            "owner": "iseahound",
-            "repo": "ImagePut",
-            "stars": 228
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "GDIp_ImageSearch",
-          "description": "by tic - Library using gdiplus.dll for searching image instances on the screen. See the end of that thread for MasterFocus' improved version, or see his GitHub repo here",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "AutoHotkey",
-            "last_commit": "2025-04-21T05:42:15Z",
-            "owner": "MasterFocus",
-            "repo": "AutoHotkey",
-            "stars": 213
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "GDIp",
-          "description": "by tic - Full featured library that helps in interaction with Microsoft's gdiplus.dll - Forum thread: link.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "AutoHotkey",
-            "last_commit": "2019-03-05T22:07:27Z",
-            "owner": "tariqporter",
-            "repo": "Gdip",
-            "stars": 158
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "AHKv2-GDIP",
-          "description": "Update of the above GDI+ library compatiable with both AHK v1.1 and AHK v2 - Forum thread: link.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "AutoHotkey",
-            "last_commit": "2021-10-17T02:04:31Z",
-            "owner": "mmikeww",
-            "repo": "AHKv2-Gdip",
-            "stars": 157
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Particle System",
-          "description": "by tidbit - A simple class to add particles to your GUI or onto your screen, using GDI+. Forum thread: link.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "AutoHotkey",
-            "last_commit": "2017-01-17T16:49:32Z",
-            "owner": "acorns",
-            "repo": "Particle-System",
-            "stars": 17
-          }
-        }
-      ],
-      "title": "Graphics"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "GUI"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Toolbar",
-          "description": "by Pulover - AHK Class for AutoHotkey Toolbar custom controls. Forum thread: link",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "AutoHotkey",
-            "last_commit": "2020-09-14T14:44:52Z",
-            "owner": "Pulover",
-            "repo": "Class_Toolbar",
-            "stars": 38
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Rebar",
-          "description": "by Pulover - AHK class for AutoHotkey Rebar custom controls. Forum thread: link",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "AutoHotkey",
-            "last_commit": "2016-04-04T05:15:12Z",
-            "owner": "Pulover",
-            "repo": "Class_Rebar",
-            "stars": 16
-          }
-        }
-      ],
-      "title": "Custom Controls"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "OnWin",
-          "description": "by cocobelgica - Call function on window event (WinWaitXXX async). Forum thread: link",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "AutoHotkey",
-            "last_commit": "2016-05-16T14:02:42Z",
-            "owner": "cocobelgica",
-            "repo": "AutoHotkey-Util",
-            "stars": 104
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Class_ScrollGUI",
-          "description": "by just me - Creates a scrollable GUI as a parent for AHK GUI windows. Forum thread: link",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "AutoHotkey",
-            "last_commit": "2015-03-13T13:53:12Z",
-            "owner": "AHK-just-me",
-            "repo": "Class_ScrollGUI",
-            "stars": 22
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "CGUI",
-          "description": "by ChrisS85 - An object-oriented GUI library for AutoHotkey. Forum thread: link",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "AutoHotkey",
-            "last_commit": "2017-01-17T09:26:11Z",
-            "owner": "lipkau",
-            "repo": "CGUI",
-            "stars": 19
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "TaskDialog",
-          "description": "by just Me - enhanced MsgBox for Win Vista+ - link",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "AutoHotkey",
-            "last_commit": "2014-09-26T06:06:10Z",
-            "owner": "AHK-just-me",
-            "repo": "TaskDialog",
-            "stars": 11
-          }
-        }
-      ],
-      "title": "General"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "LBEX",
-          "description": "by just me - a collection of utility functions for ListBoxes. Forum thread: link",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "AutoHotkey",
-            "last_commit": "2020-08-19T10:09:17Z",
-            "owner": "AHK-just-me",
-            "repo": "LBEX",
-            "stars": 20
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "TransparentListBox",
-          "description": "by just Me - Provides transparent listbox controls for AHK GUIs. Forum thread: link",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "AutoHotkey",
-            "last_commit": "2015-01-17T11:33:58Z",
-            "owner": "AHK-just-me",
-            "repo": "Class_TransparentListBox",
-            "stars": 15
-          }
-        }
-      ],
-      "title": "ListBox"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "LV_Colors",
-          "description": "by just Me - Individual background and/or text colours for a GUI ListView's cells or rows. Forum thread: link",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "AutoHotkey",
-            "last_commit": "2024-03-16T10:40:07Z",
-            "owner": "AHK-just-me",
-            "repo": "Class_LV_Colors",
-            "stars": 30
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "LV_Rows",
-          "description": "by Pulover - Additional functions for AHK ListView controls. Forum thread: link",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "AutoHotkey",
-            "last_commit": "2020-12-28T23:51:06Z",
-            "owner": "Pulover",
-            "repo": "Class_LV_Rows",
-            "stars": 17
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "LV_EX",
-          "description": "by just me - Some additional functions for AHK GUI ListView controls. Forum thread: link",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "AutoHotkey",
-            "last_commit": "2022-10-07T08:36:19Z",
-            "owner": "AHK-just-me",
-            "repo": "LV_EX",
-            "stars": 16
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "LV_InCellEdit",
-          "description": "by just Me - In-cell editing for ListView controls. Forum thread: link",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "AutoHotkey",
-            "last_commit": "2015-12-15T07:42:35Z",
-            "owner": "AHK-just-me",
-            "repo": "Class_LV_InCellEdit",
-            "stars": 13
-          }
-        }
-      ],
-      "title": "ListView"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Chrome.ahk",
-          "description": "by G33kDude - Automate Google Chrome using native AutoHotkey - Forum link",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "AutoHotkey",
-            "last_commit": "2023-05-03T17:10:42Z",
-            "owner": "G33kDude",
-            "repo": "Chrome.ahk",
-            "stars": 394
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "WebSocket.ahk",
-          "description": "by GeekDude - Class based WebSocket library - Forum link",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "AutoHotkey",
-            "last_commit": "2023-03-24T16:27:45Z",
-            "owner": "G33kDude",
-            "repo": "WebSocket.ahk",
-            "stars": 86
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "AHKhttp",
-          "description": "Basic HTTP Server. Forum link",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "AutoHotkey",
-            "last_commit": "2023-11-22T08:46:19Z",
-            "owner": "zhamlin",
-            "repo": "AHKhttp",
-            "stars": 85
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "AHKsock",
-          "description": "by TheGood - Function based sockets library. Supports TCP. Forum link",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "AutoHotkey",
-            "last_commit": "2016-12-04T20:58:11Z",
-            "owner": "jleb",
-            "repo": "AHKsock",
-            "stars": 83
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Socket.ahk",
-          "description": "by GeekDude - Socket library based on Bentschi's - Forum link",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "AutoHotkey",
-            "last_commit": "2017-06-26T05:14:27Z",
-            "owner": "G33kDude",
-            "repo": "Socket.ahk",
-            "stars": 71
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Rufaydium WebDriver",
-          "description": "by Xeo786 - Webdriver Library to support any Chromium based browser only requiring webdriver (no selenium/websocket) - Forum link",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "AutoHotkey",
-            "last_commit": "2024-03-05T17:53:01Z",
-            "owner": "Xeo786",
-            "repo": "Rufaydium-Webdriver",
-            "stars": 30
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "WinSCP.ahk",
-          "description": "by Lipkau - Lib allows the use of WinSCP in AHK",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "AutoHotkey",
-            "last_commit": "2020-03-13T11:31:53Z",
-            "owner": "lipkau",
-            "repo": "WinSCP.ahk",
-            "stars": 17
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "FTP",
-          "description": "by jNizM - AutoHotkey wrapper for FTP Sessions (Class) - Forum link",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "AutoHotkey",
-            "last_commit": "2020-08-27T13:33:35Z",
-            "owner": "jNizM",
-            "repo": "Class_FTP",
-            "stars": 7
-          }
-        }
-      ],
-      "title": "Networking"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "gdiChartLib",
-          "description": "by nnnik - a gdip chart lib for autohotkey. Forum link",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "AutoHotkey",
-            "last_commit": "2017-06-02T17:03:01Z",
-            "owner": "nnnik",
-            "repo": "gdiChartLib",
-            "stars": 12
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "SVGraph",
-          "description": "by CapnOdin - SVGraph bringing graphing and charting to AutoHotkey. Forum link",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2018-01-11T12:15:31Z",
-            "owner": "CapnOdin",
-            "repo": "SVGraph",
-            "stars": 10
-          }
-        }
-      ],
-      "title": "Plotting (graphs, bars, charts and etc)"
     },
     {
       "description": "List of useful AutoHotkey library distributions. Library Distribution is a system that is made for distributing libraries.",
@@ -702,6 +760,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 3665211,
             "language": "AutoHotkey",
             "last_commit": "2018-11-26T03:42:52Z",
             "owner": "rshipp",
@@ -716,6 +775,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 16428966,
             "language": "AutoHotkey",
             "last_commit": "2018-11-12T17:10:44Z",
             "owner": "ahkscript",
@@ -730,6 +790,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 15566719,
             "language": "AutoHotkey",
             "last_commit": "2015-10-20T21:24:22Z",
             "owner": "hi5",
@@ -742,512 +803,534 @@
     },
     {
       "description": "List of useful AutoHotkey scripts. Script is code that is intended to be used as standalone programs, and is not meant to be integrated with other code.",
-      "items": [],
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Clipjump",
+              "description": "is a Multiple-Clipboard management utility for Windows. Source code: GitHub. Forum threads: link 1, link 2.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 9261833,
+                "language": "AutoHotkey",
+                "last_commit": "2021-04-06T21:42:43Z",
+                "owner": "aviaryan",
+                "repo": "Clipjump",
+                "stars": 397
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CL3",
+              "description": "A clipboard manager (text only) with plugins (Search, predefined Slots, ClipChain, FIFO, Editor and more). Forum thread link.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 14818943,
+                "language": "AutoHotkey",
+                "last_commit": "2026-02-21T10:54:57Z",
+                "owner": "hi5",
+                "repo": "CL3",
+                "stars": 101
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ClipBoardMonitor",
+              "description": "Monitor clipboard changes, show tooltip of word count for text or a temporary GUI for pictures.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 562401299,
+                "language": "AutoHotkey",
+                "last_commit": "2024-04-29T12:52:06Z",
+                "owner": "536",
+                "repo": "my-startup-ahk-scripts",
+                "stars": 1
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Clipboard"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Belvedere",
+              "description": "sets up rules for taking actions on files (move, copy, delete, etc) based on the name of a file, its extension, size, age, and more. More info link.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 167194,
+                "language": "AutoHotkey",
+                "last_commit": "2013-12-01T21:02:05Z",
+                "owner": "adampash",
+                "repo": "belvedere",
+                "stars": 170
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "QuickAccessPopup",
+              "description": "Multi purpose launcher and file switcher. Website link.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 34996106,
+                "language": "AutoHotkey",
+                "last_commit": "2026-05-21T20:54:47Z",
+                "owner": "JnLlnd",
+                "repo": "QuickAccessPopup",
+                "stars": 6
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Filesystem"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "KeyPress OSD",
+              "description": "On-Screen Display which displays every key or mouse button press at a clearly visible text size. Forum thread: link",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 116165887,
+                "language": "AutoHotkey",
+                "last_commit": "2026-04-02T19:54:47Z",
+                "owner": "marius-sucan",
+                "repo": "KeyPress-OSD",
+                "stars": 413
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "AutoComplete",
+              "description": "Suggests and completes words as you type. Forum thread: link.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 12199957,
+                "language": "AutoHotkey",
+                "last_commit": "2022-12-12T13:33:43Z",
+                "owner": "Uberi",
+                "repo": "Autocomplete",
+                "stars": 218
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "TypingAid",
+              "description": "Suggests and completes words as you type. Forum thread: link GitHub link.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 24893823,
+                "language": "AutoHotkey",
+                "last_commit": "2018-07-11T08:18:17Z",
+                "owner": "ManiacDC",
+                "repo": "TypingAid",
+                "stars": 157
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Static Hands",
+              "description": "Super useful shortcuts with the CapsLock key that spare the need to move hands while typing. Super simple. No learning curve.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 362348464,
+                "language": "Shell",
+                "last_commit": "2026-03-13T11:22:17Z",
+                "owner": "almogtavor",
+                "repo": "static-hands",
+                "stars": 77
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DateHotkey",
+              "description": "Hotkey to easily receive current, past or upcomming date strings. Forum thread: link",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 208288887,
+                "language": "AutoHotkey",
+                "last_commit": "2023-07-05T21:49:38Z",
+                "owner": "tiuub",
+                "repo": "DateHotkey",
+                "stars": 23
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Typing"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "bug.n",
+              "description": "Tiling Window Manager. Forum thread: link",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 17386571,
+                "language": "AutoHotkey",
+                "last_commit": "2023-01-05T16:21:58Z",
+                "owner": "fuhsjr00",
+                "repo": "bug.n",
+                "stars": 3435
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "WindowPadX",
+              "description": "tool which provides some useful functionality within multi monitor environments. WindowPadX is an enhancement of WindowPad, originally released by Lexikos, see original forum thread: link",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 3160403,
+                "language": "AutoHotkey",
+                "last_commit": "2024-02-29T06:25:34Z",
+                "owner": "hoppfrosch",
+                "repo": "WindowPadX",
+                "stars": 233
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Open-Show-Apps",
+              "description": "Open, restore or minimize the desired Window's or Chrome's Apps. Forum thread: link",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 179618966,
+                "language": "AutoHotkey",
+                "last_commit": "2025-07-06T17:18:56Z",
+                "owner": "JuanmaMenendez",
+                "repo": "AutoHotkey-script-Open-Show-Apps",
+                "stars": 148
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SnapX",
+              "description": "Enhances Windows/Aero Snap by taking over its hotkeys (Win+Left/Right, etc) and providing more fine-grained control over snap location and size. Works with multiple monitors, resolutions, and DPI levels.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 48122025,
+                "language": "AutoHotkey",
+                "last_commit": "2020-08-12T21:52:33Z",
+                "owner": "benallred",
+                "repo": "SnapX",
+                "stars": 43
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Window Management"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Achromatic - ProgressPlatformer",
+              "description": "Platform game. Forum thread: link, GitHub: link",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 2716875,
+                "language": "AutoHotkey",
+                "last_commit": "2014-06-18T15:50:57Z",
+                "owner": "Uberi",
+                "repo": "ProgressPlatformer",
+                "stars": 17
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Out of the Sea",
+              "description": "Try to avoid being fished by evolving. GitHub: link",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 5543358,
+                "language": "AutoHotkey",
+                "last_commit": "2012-08-27T19:16:50Z",
+                "owner": "Uberi",
+                "repo": "Ludum-Dare-24",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Ishido",
+              "description": "Retro puzzle game. Forum thread: link, GitHub: link",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 91562497,
+                "language": "AutoHotkey",
+                "last_commit": "2017-06-05T14:48:19Z",
+                "owner": "flibioahk",
+                "repo": "ishido",
+                "stars": 3
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PABI Logical",
+              "description": "Remake of the amiga game Logical. Forum thread: link, GitHub: link",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 94461398,
+                "language": "AutoHotkey",
+                "last_commit": "2018-02-18T19:42:50Z",
+                "owner": "bichlepa",
+                "repo": "PABI-Logical",
+                "stars": 2
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Games"
+        }
+      ],
       "title": "Scripts"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Clipjump",
-          "description": "is a Multiple-Clipboard management utility for Windows. Source code: GitHub. Forum threads: link 1, link 2.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "AutoHotkey",
-            "last_commit": "2021-04-06T21:42:43Z",
-            "owner": "aviaryan",
-            "repo": "Clipjump",
-            "stars": 397
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "CL3",
-          "description": "A clipboard manager (text only) with plugins (Search, predefined Slots, ClipChain, FIFO, Editor and more). Forum thread link.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "AutoHotkey",
-            "last_commit": "2026-02-21T10:54:57Z",
-            "owner": "hi5",
-            "repo": "CL3",
-            "stars": 101
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ClipBoardMonitor",
-          "description": "Monitor clipboard changes, show tooltip of word count for text or a temporary GUI for pictures.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "AutoHotkey",
-            "last_commit": "2024-04-29T12:52:06Z",
-            "owner": "536",
-            "repo": "my-startup-ahk-scripts",
-            "stars": 1
-          }
-        }
-      ],
-      "title": "Clipboard"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Belvedere",
-          "description": "sets up rules for taking actions on files (move, copy, delete, etc) based on the name of a file, its extension, size, age, and more. More info link.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "AutoHotkey",
-            "last_commit": "2013-12-01T21:02:05Z",
-            "owner": "adampash",
-            "repo": "belvedere",
-            "stars": 170
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "QuickAccessPopup",
-          "description": "Multi purpose launcher and file switcher. Website link.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "AutoHotkey",
-            "last_commit": "2026-05-21T20:54:47Z",
-            "owner": "JnLlnd",
-            "repo": "QuickAccessPopup",
-            "stars": 6
-          }
-        }
-      ],
-      "title": "Filesystem"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "KeyPress OSD",
-          "description": "On-Screen Display which displays every key or mouse button press at a clearly visible text size. Forum thread: link",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "AutoHotkey",
-            "last_commit": "2026-04-02T19:54:47Z",
-            "owner": "marius-sucan",
-            "repo": "KeyPress-OSD",
-            "stars": 413
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "AutoComplete",
-          "description": "Suggests and completes words as you type. Forum thread: link.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "AutoHotkey",
-            "last_commit": "2022-12-12T13:33:43Z",
-            "owner": "Uberi",
-            "repo": "Autocomplete",
-            "stars": 218
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "TypingAid",
-          "description": "Suggests and completes words as you type. Forum thread: link GitHub link.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "AutoHotkey",
-            "last_commit": "2018-07-11T08:18:17Z",
-            "owner": "ManiacDC",
-            "repo": "TypingAid",
-            "stars": 157
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Static Hands",
-          "description": "Super useful shortcuts with the CapsLock key that spare the need to move hands while typing. Super simple. No learning curve.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2026-03-13T11:22:17Z",
-            "owner": "almogtavor",
-            "repo": "static-hands",
-            "stars": 77
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "DateHotkey",
-          "description": "Hotkey to easily receive current, past or upcomming date strings. Forum thread: link",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "AutoHotkey",
-            "last_commit": "2023-07-05T21:49:38Z",
-            "owner": "tiuub",
-            "repo": "DateHotkey",
-            "stars": 23
-          }
-        }
-      ],
-      "title": "Typing"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "bug.n",
-          "description": "Tiling Window Manager. Forum thread: link",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "AutoHotkey",
-            "last_commit": "2023-01-05T16:21:58Z",
-            "owner": "fuhsjr00",
-            "repo": "bug.n",
-            "stars": 3435
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "WindowPadX",
-          "description": "tool which provides some useful functionality within multi monitor environments. WindowPadX is an enhancement of WindowPad, originally released by Lexikos, see original forum thread: link",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "AutoHotkey",
-            "last_commit": "2024-02-29T06:25:34Z",
-            "owner": "hoppfrosch",
-            "repo": "WindowPadX",
-            "stars": 233
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Open-Show-Apps",
-          "description": "Open, restore or minimize the desired Window's or Chrome's Apps. Forum thread: link",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "AutoHotkey",
-            "last_commit": "2025-07-06T17:18:56Z",
-            "owner": "JuanmaMenendez",
-            "repo": "AutoHotkey-script-Open-Show-Apps",
-            "stars": 148
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "SnapX",
-          "description": "Enhances Windows/Aero Snap by taking over its hotkeys (Win+Left/Right, etc) and providing more fine-grained control over snap location and size. Works with multiple monitors, resolutions, and DPI levels.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "AutoHotkey",
-            "last_commit": "2020-08-12T21:52:33Z",
-            "owner": "benallred",
-            "repo": "SnapX",
-            "stars": 43
-          }
-        }
-      ],
-      "title": "Window Management"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Achromatic - ProgressPlatformer",
-          "description": "Platform game. Forum thread: link, GitHub: link",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "AutoHotkey",
-            "last_commit": "2014-06-18T15:50:57Z",
-            "owner": "Uberi",
-            "repo": "ProgressPlatformer",
-            "stars": 17
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Out of the Sea",
-          "description": "Try to avoid being fished by evolving. GitHub: link",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "AutoHotkey",
-            "last_commit": "2012-08-27T19:16:50Z",
-            "owner": "Uberi",
-            "repo": "Ludum-Dare-24",
-            "stars": 4
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Ishido",
-          "description": "Retro puzzle game. Forum thread: link, GitHub: link",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "AutoHotkey",
-            "last_commit": "2017-06-05T14:48:19Z",
-            "owner": "flibioahk",
-            "repo": "ishido",
-            "stars": 3
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "PABI Logical",
-          "description": "Remake of the amiga game Logical. Forum thread: link, GitHub: link",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "AutoHotkey",
-            "last_commit": "2018-02-18T19:42:50Z",
-            "owner": "bichlepa",
-            "repo": "PABI-Logical",
-            "stars": 2
-          }
-        }
-      ],
-      "title": "Games"
-    },
-    {
       "description": "List of useful AutoHotkey tools. Tools made for AutoHotkey",
-      "items": [],
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "AHK_X11",
+              "description": "A rudimentary but functional implementation of AutoHotkey v1.0.24 for Linux by phil294. Forum",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 507449738,
+                "language": "Crystal",
+                "last_commit": "2026-01-03T19:01:14Z",
+                "owner": "phil294",
+                "repo": "AHK_X11",
+                "stars": 1020
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "IronAHK",
+              "description": "Cross platform .NET rewrite - unfinished.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 982373,
+                "language": "C#",
+                "last_commit": "2018-01-26T15:24:30Z",
+                "owner": "Paris",
+                "repo": "IronAHK",
+                "stars": 415
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "AutoHotkey DLL",
+              "description": "AutoHotkey.dll opens the world of AutoHotkey to other programming and scripting languages. Forum thread: link. Documentation link.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 30116304,
+                "language": "AutoHotkey",
+                "last_commit": "2022-02-11T14:09:20Z",
+                "owner": "HotKeyIt",
+                "repo": "ahkdll-v1-release",
+                "stars": 69
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Interpreter"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Yunit",
+              "description": "by Uberi and infogulch - Simple unit testing framework for AutoHotkey.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 6480877,
+                "language": "AutoHotkey",
+                "last_commit": "2022-08-03T05:30:59Z",
+                "owner": "Uberi",
+                "repo": "Yunit",
+                "stars": 56
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[Class] Console",
+              "description": "This class is meant to simplify debugging for scripts from simple text handling, to outputting and logging data & arrays. GitHub link.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 16818608,
+                "language": "AutoHotkey",
+                "last_commit": "2014-03-15T00:10:34Z",
+                "owner": "AfterLemon",
+                "repo": "Class_Console",
+                "stars": 19
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Debugging"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "SublimeAutoHotkey",
+              "description": "AutoHotkey AHK language package for SublimeText including syntax highlighting, comments toggling, auto-completions, build system definitions, commands for ahkrun, ahkcompile, ahkrunpiped.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 9074430,
+                "language": "Python",
+                "last_commit": "2022-05-05T06:16:17Z",
+                "owner": "ahkscript",
+                "repo": "SublimeAutoHotkey",
+                "stars": 212
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "AutoHotFlow",
+              "description": "Draw your applications. Forum thread: link. GitHub link.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 32202707,
+                "language": "AutoHotkey",
+                "last_commit": "2024-02-24T19:19:42Z",
+                "owner": "bichlepa",
+                "repo": "AutoHotFlow",
+                "stars": 73
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "vim-AHKcomplete",
+              "description": "Vim plugin to add auto-completion. (omni-completion)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 38531194,
+                "language": "Python",
+                "last_commit": "2018-06-27T13:38:40Z",
+                "owner": "huleiak47",
+                "repo": "vim-AHKcomplete",
+                "stars": 14
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Vim autohotkey-ahk",
+              "description": "Vim plugin to add syntax highlighting for AutoHotkey.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1002803,
+                "language": "VimL",
+                "last_commit": "2010-10-19T00:39:42Z",
+                "owner": "vim-scripts",
+                "repo": "autohotkey-ahk",
+                "stars": 14
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Integrated Development Environment"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ahk",
+              "description": "A Python wrapper for AutoHotkey - Forum thread: link",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 158650053,
+                "language": "Python",
+                "last_commit": "2026-08-17T21:04:54Z",
+                "owner": "spyoungtech",
+                "repo": "ahk",
+                "stars": 1030
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Exo-Javascript",
+              "description": "Write AHK with JavaScript - Forum thread: link, Exo-CLI (Interactive Command-line) link.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 27283873,
+                "language": "AutoHotkey",
+                "last_commit": "2021-08-31T21:14:19Z",
+                "owner": "Aurelain",
+                "repo": "Exo",
+                "stars": 116
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "AutoHotkey.py",
+              "description": "Write AutoHotkey scripts in Python - Forum thread: link",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 266047131,
+                "language": "Python",
+                "last_commit": "2023-04-29T19:00:07Z",
+                "owner": "Perlence",
+                "repo": "AutoHotkey.py",
+                "stars": 82
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "(Use in) other programming languages"
+        }
+      ],
       "title": "Tools"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "AHK_X11",
-          "description": "A rudimentary but functional implementation of AutoHotkey v1.0.24 for Linux by phil294. Forum",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Crystal",
-            "last_commit": "2026-01-03T19:01:14Z",
-            "owner": "phil294",
-            "repo": "AHK_X11",
-            "stars": 1020
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "IronAHK",
-          "description": "Cross platform .NET rewrite - unfinished.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "C#",
-            "last_commit": "2018-01-26T15:24:30Z",
-            "owner": "Paris",
-            "repo": "IronAHK",
-            "stars": 415
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "AutoHotkey DLL",
-          "description": "AutoHotkey.dll opens the world of AutoHotkey to other programming and scripting languages. Forum thread: link. Documentation link.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "AutoHotkey",
-            "last_commit": "2022-02-11T14:09:20Z",
-            "owner": "HotKeyIt",
-            "repo": "ahkdll-v1-release",
-            "stars": 69
-          }
-        }
-      ],
-      "title": "Interpreter"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Yunit",
-          "description": "by Uberi and infogulch - Simple unit testing framework for AutoHotkey.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "AutoHotkey",
-            "last_commit": "2022-08-03T05:30:59Z",
-            "owner": "Uberi",
-            "repo": "Yunit",
-            "stars": 56
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "[Class] Console",
-          "description": "This class is meant to simplify debugging for scripts from simple text handling, to outputting and logging data & arrays. GitHub link.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "AutoHotkey",
-            "last_commit": "2014-03-15T00:10:34Z",
-            "owner": "AfterLemon",
-            "repo": "Class_Console",
-            "stars": 19
-          }
-        }
-      ],
-      "title": "Debugging"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "SublimeAutoHotkey",
-          "description": "AutoHotkey AHK language package for SublimeText including syntax highlighting, comments toggling, auto-completions, build system definitions, commands for ahkrun, ahkcompile, ahkrunpiped.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-05-05T06:16:17Z",
-            "owner": "ahkscript",
-            "repo": "SublimeAutoHotkey",
-            "stars": 212
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "AutoHotFlow",
-          "description": "Draw your applications. Forum thread: link. GitHub link.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "AutoHotkey",
-            "last_commit": "2024-02-24T19:19:42Z",
-            "owner": "bichlepa",
-            "repo": "AutoHotFlow",
-            "stars": 73
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "vim-AHKcomplete",
-          "description": "Vim plugin to add auto-completion. (omni-completion)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2018-06-27T13:38:40Z",
-            "owner": "huleiak47",
-            "repo": "vim-AHKcomplete",
-            "stars": 14
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Vim autohotkey-ahk",
-          "description": "Vim plugin to add syntax highlighting for AutoHotkey.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "VimL",
-            "last_commit": "2010-10-19T00:39:42Z",
-            "owner": "vim-scripts",
-            "repo": "autohotkey-ahk",
-            "stars": 14
-          }
-        }
-      ],
-      "title": "Integrated Development Environment"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "ahk",
-          "description": "A Python wrapper for AutoHotkey - Forum thread: link",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-17T21:04:54Z",
-            "owner": "spyoungtech",
-            "repo": "ahk",
-            "stars": 1030
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Exo-Javascript",
-          "description": "Write AHK with JavaScript - Forum thread: link, Exo-CLI (Interactive Command-line) link.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "AutoHotkey",
-            "last_commit": "2021-08-31T21:14:19Z",
-            "owner": "Aurelain",
-            "repo": "Exo",
-            "stars": 116
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "AutoHotkey.py",
-          "description": "Write AutoHotkey scripts in Python - Forum thread: link",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-04-29T19:00:07Z",
-            "owner": "Perlence",
-            "repo": "AutoHotkey.py",
-            "stars": 82
-          }
-        }
-      ],
-      "title": "(Use in) other programming languages"
-    },
-    {
-      "description": "List of useful AutoHotkey tutorials.",
-      "items": [],
-      "title": "Tutorials"
-    },
-    {
-      "description": "List of useful AutoHotkey resources. Various websites, documentation, guides, videos and articles related to AutoHotkey.",
-      "items": [],
-      "title": "Resources"
-    },
-    {
-      "description": "Forks of AHK which add new features to the core language",
-      "items": [],
-      "title": "Forks"
-    },
-    {
-      "description": "This work is licensed under a Creative Commons Attribution 4.0 International License.",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T19:17:00.018Z",
+    "last_updated": "2026-08-19T12:06:05.418Z",
     "original_repository": "ahkscript/awesome-AutoHotkey",
+    "original_repository_id": 22615356,
     "original_repository_sha": "a46e9a2072a74742ad2386f48a907beb0e2515d1",
     "enhanced_repository": "enhansome/enhansome-AutoHotkey",
     "enhanced_repository_description": null,
