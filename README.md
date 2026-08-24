@@ -1,6 +1,6 @@
 # Awesome AutoHotkey with stars
 
-A curated list of awesome [AutoHotkey](https://autohotkey.com/) libraries, library distributions, scripts, tools and resources. Inspired by the other [awesome lists](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,618 | 🐛 61 | 🌐 Ruby | 📅 2024-06-02. Please read [CONTRIBUTING.md](https://github.com/ahkscript/awesome-AutoHotkey/blob/master/.github/CONTRIBUTING.md) ⭐ 3,071 | 🐛 26 | 📅 2023-01-24 before contributing.
+A curated list of awesome [AutoHotkey](https://autohotkey.com/) libraries, library distributions, scripts, tools and resources. Inspired by the other [awesome lists](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,620 | 🐛 61 | 🌐 Ruby | 📅 2024-06-02. Please read [CONTRIBUTING.md](https://github.com/ahkscript/awesome-AutoHotkey/blob/master/.github/CONTRIBUTING.md) ⭐ 3,071 | 🐛 26 | 📅 2023-01-24 before contributing.
 
 Out-of-date or discontinued, but nonetheless historically relevant items can be found on [Historical.md](https://github.com/ahkscript/awesome-AutoHotkey/blob/master/Historical.md) ⭐ 3,071 | 🐛 26 | 📅 2023-01-24
 
@@ -171,8 +171,8 @@ Development state:
 
 ### Maths
 
-* [calc()](https://autohotkey.com/board/topic/59087-func-calc-math-expression-evaluation-incl-brackets/?p=655135) - math expression evaluation incl brackets.
 * [Eval](https://github.com/pulover/eval) ⭐ 31 | 🐛 0 | 🌐 AutoHotkey | 📅 2020-12-28 - by Pulover - Evaluate expressions in strings. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6\&t=13565)
+* [calc()](https://autohotkey.com/board/topic/59087-func-calc-math-expression-evaluation-incl-brackets/?p=655135) - math expression evaluation incl brackets.
 * [Scientific Maths](https://autohotkey.com/board/topic/93516-) - by Avi - Library facilitating high precision mathematics.
 * [Time()](https://autohotkey.com/board/topic/42668-time-count-days-hours-minutes-seconds-between-dates/) - by HotkeyIt - Count Days, hours, minutes, seconds between dates. Forum thread: [link](https://autohotkey.com/board/topic/42668-time-count-days-hours-minutes-seconds-between-dates/)
 
@@ -202,13 +202,13 @@ Development state:
 
 ### <a name="libraries-system"></a>System
 
-* [RunAsTask](https://autohotkey.com/boards/viewtopic.php?t=4334) - by SKAN - Auto-elevates script without UAC prompt.
 * [Vista Audio Control Functions](https://github.com/ahkscript/VistaAudio) ⭐ 26 | 🐛 3 | 🌐 HTML | 📅 2017-07-30 - by Lexikos - Provides alternatives to some SoundSet/SoundGet subcommands, as well as some additional features that SoundSet/SoundGet do not support. Forum thread: [Link](https://autohotkey.com/board/topic/21984-vista-audio-control-functions/?p=143564)
+* [RunAsTask](https://autohotkey.com/boards/viewtopic.php?t=4334) - by SKAN - Auto-elevates script without UAC prompt.
 
 ### Text manipulation
 
-* [String Things](https://autohotkey.com/boards/viewtopic.php?f=6\&t=53) - by tidbit - Stand-alone string manipulation functions.
 * [TF](https://github.com/hi5/TF) ⭐ 143 | 🐛 0 | 🌐 AutoHotkey | 📅 2020-12-12 - by hi5 - Functions for manipulation of text files such as \*.txt, \*.ahk, \*.html, \*.css etc and Strings (or variables). Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6\&t=576).
+* [String Things](https://autohotkey.com/boards/viewtopic.php?f=6\&t=53) - by tidbit - Stand-alone string manipulation functions.
 
 ## Library Distributions
 
@@ -337,19 +337,19 @@ Development state:
 
 ### Web Syntax Highlighters
 
+* [Syntax Highlighter](https://github.com/aviaryan/highlighter-ahk-zenburn) ⭐ 8 | 🐛 0 | 🌐 CSS | 📅 2014-08-05 - Legacy syntax highlighter for AutoHotkey with default support for line numbers.
 * [highlight.js](https://highlightjs.org/) - A syntax highlighter written in JavaScript supporting more than 130 languages (including AutoHotkey).
 * [PrismJs](https://autohotkey.com/boards/viewtopic.php?f=22\&t=3942) - Lightweight minimal AutoHotkey syntax highlighting.
-* [Syntax Highlighter](https://github.com/aviaryan/highlighter-ahk-zenburn) ⭐ 8 | 🐛 0 | 🌐 CSS | 📅 2014-08-05 - Legacy syntax highlighter for AutoHotkey with default support for line numbers.
 
 ### <a name="tools-others"></a>Others
 
+* [AEI](https://github.com/joedf/AEI.ahk) ⭐ 17 | 🐛 0 | 🌐 AutoHotkey | 📅 2024-10-17 - by joedf - Displays AutoHotkey Environment Information and AHK support relevant System Information with a fancy update checker that auto-downloads with a progress bar. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6\&t=5825).
 * [GoTo](https://autohotkey.com/board/topic/95009-) - Addon for any text editor that helps you jump to labels, hotkeys, hotstrings and functions in the active file.
 * [GoToTilla](https://gist.github.com/hoppfrosch/4b4943b1311fd6a92f02) - Addon which allows jumping to tokens within AHK source code.
 * [Context sensitive help in any editor](https://autohotkey.com/board/topic/94493-) - Addon for any text editor that provides context sensitive help by pressing F1.
 * [CodeQuickTester](https://autohotkey.com/boards/viewtopic.php?f=6\&t=6113) - by GeekDude - A lightweight dynamic code tester.
 * [iWB2 Learner](https://sourceforge.net/projects/ahkcn/files/Recommended/iWB2%20Learner/) - by jethrow -  iWB2 Learner is a tool for gathering information about Internet Explorer webpages. Forum thread: [link](https://autohotkey.com/board/topic/84258-iwb2-learner-iwebbrowser2/)
 * [AHK-EXE-Swapper](https://autohotkey.com/boards/viewtopic.php?f=6\&t=6310) - by evilC - Swap AHK version quickly! Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6\&t=6310).
-* [AEI](https://github.com/joedf/AEI.ahk) ⭐ 17 | 🐛 0 | 🌐 AutoHotkey | 📅 2024-10-17 - by joedf - Displays AutoHotkey Environment Information and AHK support relevant System Information with a fancy update checker that auto-downloads with a progress bar. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6\&t=5825).
 * [WinSpy](https://autohotkey.com/boards/viewtopic.php?f=6\&t=28220) - by Alguimist - Useful window spy / information tool written in AHK.
 
 ### (Use in) other programming languages
@@ -425,4 +425,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._

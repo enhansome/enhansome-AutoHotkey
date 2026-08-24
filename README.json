@@ -374,6 +374,28 @@
               "children": [
                 {
                   "node_type": "item",
+                  "title": "CbAutoComplete",
+                  "description": "by Pulover - Auto-completes typed values in an AHK ComboBox. Forum thread: link",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 54046829,
+                    "language": "AutoHotkey",
+                    "last_commit": "2016-03-16T19:23:24Z",
+                    "owner": "Pulover",
+                    "repo": "CbAutoComplete",
+                    "stars": 27
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Combobox"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
                   "title": "Toolbar",
                   "description": "by Pulover - AHK Class for AutoHotkey Toolbar custom controls. Forum thread: link",
                   "children": [],
@@ -577,11 +599,77 @@
               "description": null,
               "node_type": "group",
               "title": "ListView"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Neutron",
+                  "description": "by G33kDude - Set of tools for build HTML-based user interfaces with AutoHotkey. Forum thread: link",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 264495288,
+                    "language": "AutoHotkey",
+                    "last_commit": "2023-12-15T11:13:01Z",
+                    "owner": "G33kDude",
+                    "repo": "Neutron.ahk",
+                    "stars": 242
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Web"
             }
           ],
           "description": null,
           "node_type": "group",
           "title": "GUI"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Eval",
+              "description": "by Pulover - Evaluate expressions in strings. Forum thread: link",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 53463623,
+                "language": "AutoHotkey",
+                "last_commit": "2020-12-28T22:43:10Z",
+                "owner": "Pulover",
+                "repo": "Eval",
+                "stars": 31
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Maths"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "classMemory",
+              "description": "by RHCP (Kalamity) - An AHK memory reading/writing class with pattern scans. Forum thread: link",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 64184157,
+                "language": "AutoHotkey",
+                "last_commit": "2022-03-14T19:17:21Z",
+                "owner": "Kalamity",
+                "repo": "classMemory",
+                "stars": 71
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Memory"
         },
         {
           "children": [
@@ -746,6 +834,50 @@
           "description": null,
           "node_type": "group",
           "title": "Plotting (graphs, bars, charts and etc)"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Vista Audio Control Functions",
+              "description": "by Lexikos - Provides alternatives to some SoundSet/SoundGet subcommands, as well as some additional features that SoundSet/SoundGet do not support. Forum thread: Link",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 98823242,
+                "language": "HTML",
+                "last_commit": "2017-07-30T22:13:45Z",
+                "owner": "ahkscript",
+                "repo": "VistaAudio",
+                "stars": 26
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "System"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "TF",
+              "description": "by hi5 - Functions for manipulation of text files such as *.txt, *.ahk, *.html, *.css etc and Strings (or variables). Forum thread: link.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 14275217,
+                "language": "AutoHotkey",
+                "last_commit": "2020-12-12T22:26:08Z",
+                "owner": "hi5",
+                "repo": "TF",
+                "stars": 143
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Text manipulation"
         }
       ],
       "title": "Libraries"
@@ -1275,6 +1407,72 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Pulover’s Macro Creator",
+              "description": "a Free Automation Tool and Script Generator. Recommended for beginners. Forum thread: link. GitHub link.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 10030222,
+                "language": "AutoHotkey",
+                "last_commit": "2022-07-25T14:05:26Z",
+                "owner": "Pulover",
+                "repo": "PuloversMacroCreator",
+                "stars": 2017
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Script Recorders and Writers"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Syntax Highlighter",
+              "description": "Legacy syntax highlighter for AutoHotkey with default support for line numbers.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 12295302,
+                "language": "CSS",
+                "last_commit": "2014-08-05T08:50:13Z",
+                "owner": "aviaryan",
+                "repo": "highlighter-ahk-zenburn",
+                "stars": 8
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Web Syntax Highlighters"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "AEI",
+              "description": "by joedf - Displays AutoHotkey Environment Information and AHK support relevant System Information with a fancy update checker that auto-downloads with a progress bar. Forum thread: link.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 28926720,
+                "language": "AutoHotkey",
+                "last_commit": "2024-10-17T15:08:35Z",
+                "owner": "joedf",
+                "repo": "AEI.ahk",
+                "stars": 17
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Others"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "ahk",
               "description": "A Python wrapper for AutoHotkey - Forum thread: link",
               "children": [],
@@ -1328,7 +1526,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T19:04:21.715Z",
+    "last_updated": "2026-08-24T14:00:48.414Z",
     "original_repository": "ahkscript/awesome-AutoHotkey",
     "original_repository_id": 22615356,
     "original_repository_sha": "a46e9a2072a74742ad2386f48a907beb0e2515d1",
