@@ -263,7 +263,7 @@
                 "last_commit": "2020-04-04T04:21:35Z",
                 "owner": "AHKDb",
                 "repo": "AHKDb",
-                "stars": 32
+                "stars": 31
               }
             },
             {
@@ -614,7 +614,7 @@
                     "last_commit": "2023-12-15T11:13:01Z",
                     "owner": "G33kDude",
                     "repo": "Neutron.ahk",
-                    "stars": 242
+                    "stars": 240
                   }
                 }
               ],
@@ -1526,7 +1526,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:58:11.633Z",
+    "last_updated": "2026-08-25T19:18:24.087Z",
     "original_repository": "ahkscript/awesome-AutoHotkey",
     "original_repository_id": 22615356,
     "original_repository_sha": "a46e9a2072a74742ad2386f48a907beb0e2515d1",

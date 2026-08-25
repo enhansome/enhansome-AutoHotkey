@@ -1,6 +1,6 @@
 # Awesome AutoHotkey with stars
 
-A curated list of awesome [AutoHotkey](https://autohotkey.com/) libraries, library distributions, scripts, tools and resources. Inspired by the other [awesome lists](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,625 | 🐛 61 | 🌐 Ruby | 📅 2024-06-02. Please read [CONTRIBUTING.md](https://github.com/ahkscript/awesome-AutoHotkey/blob/master/.github/CONTRIBUTING.md) ⭐ 3,071 | 🐛 26 | 📅 2023-01-24 before contributing.
+A curated list of awesome [AutoHotkey](https://autohotkey.com/) libraries, library distributions, scripts, tools and resources. Inspired by the other [awesome lists](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,624 | 🐛 61 | 🌐 Ruby | 📅 2024-06-02. Please read [CONTRIBUTING.md](https://github.com/ahkscript/awesome-AutoHotkey/blob/master/.github/CONTRIBUTING.md) ⭐ 3,071 | 🐛 26 | 📅 2023-01-24 before contributing.
 
 Out-of-date or discontinued, but nonetheless historically relevant items can be found on [Historical.md](https://github.com/ahkscript/awesome-AutoHotkey/blob/master/Historical.md) ⭐ 3,071 | 🐛 26 | 📅 2023-01-24
 
@@ -99,7 +99,7 @@ Development state:
 
 * [Class\_SQLiteDB](https://github.com/AHK-just-me/Class_SQLiteDB) ⭐ 110 | 🐛 3 | 🌐 AutoHotkey | 📅 2022-10-03 - by just Me - AHK SQLite API wrapper class. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?t=1064).
 * [ahkDBA](https://github.com/IsNull/ahkDBA) ⭐ 50 | 🐛 4 | 🌐 AutoHotkey | 📅 2021-09-21 - by IsNull - An OOP-SQL database access framework. Forum thread: [link](https://autohotkey.com/board/topic/71179).
-* [AHKDb](https://github.com/AHKDb/AHKDb) ⭐ 32 | 🐛 1 | 🌐 AutoHotkey | 📅 2020-04-04 - by AHKDb - A database library for tab-separated data.
+* [AHKDb](https://github.com/AHKDb/AHKDb) ⭐ 31 | 🐛 1 | 🌐 AutoHotkey | 📅 2020-04-04 - by AHKDb - A database library for tab-separated data.
 * [Leya - MySQL API](https://github.com/kevgk/Leya) ⭐ 18 | 🐛 3 | 🌐 PHP | 📅 2020-04-30 - by kevgk - Work with MySQL databases in autohotkey, without exposing server credentials to the client.
 
 ### Filesystem
@@ -156,7 +156,7 @@ Development state:
 
 #### Web
 
-* [Neutron](https://github.com/G33kDude/Neutron.ahk/) ⭐ 242 | 🐛 21 | 🌐 AutoHotkey | 📅 2023-12-15 - by G33kDude - Set of tools for build HTML-based user interfaces with AutoHotkey. Forum thread: [link](https://www.autohotkey.com/boards/viewtopic.php?f=6\&t=76865)
+* [Neutron](https://github.com/G33kDude/Neutron.ahk/) ⭐ 240 | 🐛 21 | 🌐 AutoHotkey | 📅 2023-12-15 - by G33kDude - Set of tools for build HTML-based user interfaces with AutoHotkey. Forum thread: [link](https://www.autohotkey.com/boards/viewtopic.php?f=6\&t=76865)
 
 ### Hotkeys
 
