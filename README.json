@@ -300,7 +300,7 @@
                 "last_commit": "2026-06-16T22:54:22Z",
                 "owner": "iseahound",
                 "repo": "ImagePut",
-                "stars": 228
+                "stars": 229
               }
             },
             {
@@ -1261,7 +1261,7 @@
                 "last_commit": "2026-01-03T19:01:14Z",
                 "owner": "phil294",
                 "repo": "AHK_X11",
-                "stars": 1020
+                "stars": 1021
               }
             },
             {
@@ -1526,7 +1526,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T19:18:02.090Z",
+    "last_updated": "2026-08-25T05:58:11.633Z",
     "original_repository": "ahkscript/awesome-AutoHotkey",
     "original_repository_id": 22615356,
     "original_repository_sha": "a46e9a2072a74742ad2386f48a907beb0e2515d1",
