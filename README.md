@@ -1,6 +1,6 @@
 # Awesome AutoHotkey with stars
 
-A curated list of awesome [AutoHotkey](https://autohotkey.com/) libraries, library distributions, scripts, tools and resources. Inspired by the other [awesome lists](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,624 | 🐛 61 | 🌐 Ruby | 📅 2024-06-02. Please read [CONTRIBUTING.md](https://github.com/ahkscript/awesome-AutoHotkey/blob/master/.github/CONTRIBUTING.md) ⭐ 3,071 | 🐛 26 | 📅 2023-01-24 before contributing.
+A curated list of awesome [AutoHotkey](https://autohotkey.com/) libraries, library distributions, scripts, tools and resources. Inspired by the other [awesome lists](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,625 | 🐛 61 | 🌐 Ruby | 📅 2024-06-02. Please read [CONTRIBUTING.md](https://github.com/ahkscript/awesome-AutoHotkey/blob/master/.github/CONTRIBUTING.md) ⭐ 3,071 | 🐛 26 | 📅 2023-01-24 before contributing.
 
 Out-of-date or discontinued, but nonetheless historically relevant items can be found on [Historical.md](https://github.com/ahkscript/awesome-AutoHotkey/blob/master/Historical.md) ⭐ 3,071 | 🐛 26 | 📅 2023-01-24
 
@@ -108,7 +108,7 @@ Development state:
 
 ### <a name="libraries-graphics"></a>Graphics
 
-* [ImagePut](https://github.com/iseahound/ImagePut) ⭐ 229 | 🐛 13 | 🌐 AutoHotkey | 📅 2026-06-16 - by iseahound - Image library for converting to files, streams, windows, base64, urls, cursors, screen coordinates, clipboard, pointers, handles, and more. Supports AutoHotkey v1 and v2. - Forum thread: [link](https://www.autohotkey.com/boards/viewtopic.php?f=6\&t=76301\&p=330615)
+* [ImagePut](https://github.com/iseahound/ImagePut) ⭐ 230 | 🐛 13 | 🌐 AutoHotkey | 📅 2026-06-16 - by iseahound - Image library for converting to files, streams, windows, base64, urls, cursors, screen coordinates, clipboard, pointers, handles, and more. Supports AutoHotkey v1 and v2. - Forum thread: [link](https://www.autohotkey.com/boards/viewtopic.php?f=6\&t=76301\&p=330615)
 * [GDIp\_ImageSearch](https://autohotkey.com/board/topic/71100-) - by tic - Library using gdiplus.dll for searching image instances on the screen. See the end of that thread for MasterFocus' improved version, or see his [GitHub repo here](https://github.com/MasterFocus/AutoHotkey/tree/master/Functions/Gdip_ImageSearch) ⭐ 213 | 🐛 0 | 🌐 AutoHotkey | 📅 2025-04-21
 * [GDIp](https://github.com/tariqporter/Gdip/) ⭐ 158 | 🐛 5 | 🌐 AutoHotkey | 📅 2019-03-05 - by tic - Full featured library that helps in interaction with Microsoft's gdiplus.dll - Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6\&t=6517).
 * [AHKv2-GDIP](https://github.com/mmikeww/AHKv2-Gdip) ⭐ 158 | 🐛 9 | 🌐 AutoHotkey | 📅 2021-10-17 - Update of the above GDI+ library compatiable with both AHK v1.1 and AHK v2 - Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6\&t=6517).
@@ -425,4 +425,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._
