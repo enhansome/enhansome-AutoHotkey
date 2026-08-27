@@ -849,7 +849,7 @@
                 "last_commit": "2017-07-30T22:13:45Z",
                 "owner": "ahkscript",
                 "repo": "VistaAudio",
-                "stars": 26
+                "stars": 27
               }
             }
           ],
@@ -1483,7 +1483,7 @@
                 "last_commit": "2026-08-17T21:04:54Z",
                 "owner": "spyoungtech",
                 "repo": "ahk",
-                "stars": 1030
+                "stars": 1031
               }
             },
             {
@@ -1526,9 +1526,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T21:15:24.830Z",
-    "original_repository": "ahkscript/awesome-AutoHotkey",
-    "original_repository_id": 22615356,
+    "last_updated": "2026-08-27T11:20:28.186Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 22615356,
+      "language": null,
+      "last_commit": "2023-01-24T23:51:33Z",
+      "owner": "ahkscript",
+      "repo": "awesome-AutoHotkey",
+      "stars": 3071
+    },
     "original_repository_sha": "a46e9a2072a74742ad2386f48a907beb0e2515d1",
     "enhanced_repository": "enhansome/enhansome-AutoHotkey",
     "enhanced_repository_description": null,
