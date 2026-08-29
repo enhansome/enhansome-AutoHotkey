@@ -960,7 +960,7 @@
                 "open_issues": 17,
                 "owner": "G33kDude",
                 "repo": "Chrome.ahk",
-                "stars": 394,
+                "stars": 393,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:54:56.890Z"
@@ -1825,7 +1825,7 @@
                 "open_issues": 40,
                 "owner": "phil294",
                 "repo": "AHK_X11",
-                "stars": 1022,
+                "stars": 1023,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:54:56.890Z"
@@ -2206,7 +2206,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:19:38.171Z",
+    "last_updated": "2026-08-29T21:16:29.112Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome AutoHotkey libraries, library distributions, scripts, tools and resources.",
