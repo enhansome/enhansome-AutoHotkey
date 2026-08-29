@@ -12,12 +12,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "LibCon - AutoHotkey Library For Console Support",
+                "homepage": "http://joedf.github.io/libcon/",
                 "id": 12500342,
                 "language": "AutoHotkey",
+                "license": "NOASSERTION",
                 "last_commit": "2025-10-31T20:37:21Z",
+                "open_issues": 3,
                 "owner": "joedf",
                 "repo": "LibCon.ahk",
-                "stars": 61
+                "stars": 61,
+                "topics": [
+                  "autohotkey",
+                  "autohotkey-library",
+                  "console",
+                  "console-application",
+                  "library"
+                ]
               },
               "first_seen": "2026-08-29T01:54:56.890Z"
             },
@@ -28,12 +39,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AutoHotkey Win32 console wrapper",
+                "homepage": "https://www.autohotkey.com/boards/viewtopic.php?f=6&t=4955",
                 "id": 25636252,
                 "language": "AutoHotkey",
+                "license": null,
                 "last_commit": "2015-03-19T17:00:32Z",
+                "open_issues": 1,
                 "owner": "G33kDude",
                 "repo": "Console",
-                "stars": 33
+                "stars": 33,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:54:56.890Z"
             }
@@ -51,12 +67,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "JSON module for AutoHotkey",
+                "homepage": null,
                 "id": 14264940,
                 "language": "AutoHotkey",
+                "license": null,
                 "last_commit": "2020-10-26T17:25:25Z",
+                "open_issues": 24,
                 "owner": "cocobelgica",
                 "repo": "AutoHotkey-JSON",
-                "stars": 287
+                "stars": 287,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:54:56.890Z"
             },
@@ -67,12 +88,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CSV - AutoHotkey library for working with CSV Files",
+                "homepage": "https://autohotkey.com/boards/viewtopic.php?f=6&t=34853",
                 "id": 98017356,
                 "language": "AutoHotkey",
+                "license": null,
                 "last_commit": "2022-09-25T14:59:14Z",
+                "open_issues": 2,
                 "owner": "hi5",
                 "repo": "CSV",
-                "stars": 58
+                "stars": 58,
+                "topics": [
+                  "autohotkey",
+                  "csv"
+                ]
               },
               "first_seen": "2026-08-29T01:54:56.890Z"
             },
@@ -83,12 +112,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AutoHotkey_L (AHK) functions to load from CSV files, sort, display and save as CSV collections of records using the Object data type. Files can be read and saved in any delimited format (CSV, semi-colon, tab delimited, single-line or multi-line, etc.). Collections can also be displayed, edited and read in GUI ListView objects.",
+                "homepage": null,
                 "id": 12328646,
                 "language": "AutoHotkey",
+                "license": null,
                 "last_commit": "2022-10-24T15:06:47Z",
+                "open_issues": 3,
                 "owner": "JnLlnd",
                 "repo": "ObjCSV",
-                "stars": 32
+                "stars": 32,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:54:56.890Z"
             },
@@ -99,12 +133,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Serialize / de-serialize an AutoHotkey object structure",
+                "homepage": null,
                 "id": 22570471,
                 "language": "AutoHotkey",
+                "license": null,
                 "last_commit": "2014-09-18T13:17:47Z",
+                "open_issues": 2,
                 "owner": "cocobelgica",
                 "repo": "AutoHotkey-SerDes",
-                "stars": 15
+                "stars": 15,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:54:56.890Z"
             },
@@ -115,12 +154,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "XA - Save/Load AutoHotkey Arrays in XML format",
+                "homepage": "https://autohotkey.com/boards/viewtopic.php?f=6&t=34849",
                 "id": 98015541,
                 "language": "AutoHotkey",
+                "license": null,
                 "last_commit": "2020-09-06T12:51:58Z",
+                "open_issues": 0,
                 "owner": "hi5",
                 "repo": "XA",
-                "stars": 14
+                "stars": 14,
+                "topics": [
+                  "arrays",
+                  "autohotkey",
+                  "autohotkey-arrays",
+                  "data",
+                  "objects",
+                  "xml"
+                ]
               },
               "first_seen": "2026-08-29T01:54:56.890Z"
             },
@@ -131,12 +182,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AutoHotkey-Class for handling of tables",
+                "homepage": null,
                 "id": 2794469,
                 "language": "AutoHotkey",
+                "license": null,
                 "last_commit": "2016-04-04T12:13:36Z",
+                "open_issues": 0,
                 "owner": "hoppfrosch",
                 "repo": "AHK_cTable",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:54:56.890Z"
             },
@@ -147,12 +203,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "For AutoHotkey. Manipulate strings in tabular (TSV) format. Library-style collection of functions.",
+                "homepage": null,
                 "id": 11186874,
                 "language": "AutoHotkey",
+                "license": null,
                 "last_commit": "2013-08-01T16:58:45Z",
+                "open_issues": 0,
                 "owner": "Jim-VxE",
                 "repo": "AHK-Lib-Table",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:54:56.890Z"
             }
@@ -170,12 +231,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of crypting and encoding functions from the community",
+                "homepage": null,
                 "id": 25994242,
                 "language": "AutoHotkey",
+                "license": "MIT",
                 "last_commit": "2021-03-03T14:25:54Z",
+                "open_issues": 11,
                 "owner": "ahkscript",
                 "repo": "libcrypt.ahk",
-                "stars": 73
+                "stars": 73,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:54:56.890Z"
             },
@@ -186,12 +252,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Set of Functional Programming Libraries",
+                "homepage": null,
                 "id": 132136626,
                 "language": "AutoHotkey",
+                "license": "LGPL-3.0",
                 "last_commit": "2021-11-26T15:23:43Z",
+                "open_issues": 0,
                 "owner": "Shambles-Dev",
                 "repo": "AutoHotkey-Facade",
-                "stars": 30
+                "stars": 30,
+                "topics": [
+                  "ahk",
+                  "autohotkey",
+                  "functional-programming"
+                ]
               },
               "first_seen": "2026-08-29T01:54:56.890Z"
             },
@@ -202,12 +277,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Hash Table Implementation for AutoHotkey",
+                "homepage": null,
                 "id": 53643801,
                 "language": "AutoHotkey",
+                "license": "LGPL-3.0",
                 "last_commit": "2021-11-26T15:24:39Z",
+                "open_issues": 0,
                 "owner": "Shambles-Dev",
                 "repo": "AutoHotkey-HashTable",
-                "stars": 8
+                "stars": 8,
+                "topics": [
+                  "ahk",
+                  "autohotkey",
+                  "hash-tables"
+                ]
               },
               "first_seen": "2026-08-29T01:54:56.890Z"
             },
@@ -218,12 +302,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Type Checking for AutoHotkey",
+                "homepage": null,
                 "id": 161359410,
                 "language": "AutoHotkey",
+                "license": "LGPL-3.0",
                 "last_commit": "2021-11-26T15:23:18Z",
+                "open_issues": 0,
                 "owner": "Shambles-Dev",
                 "repo": "AutoHotkey-Type_Checking",
-                "stars": 8
+                "stars": 8,
+                "topics": [
+                  "ahk",
+                  "autohotkey",
+                  "type-checking",
+                  "typechecking"
+                ]
               },
               "first_seen": "2026-08-29T01:54:56.890Z"
             }
@@ -241,12 +335,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AHK SQLite API wrapper class",
+                "homepage": null,
                 "id": 15330423,
                 "language": "AutoHotkey",
+                "license": "Unlicense",
                 "last_commit": "2022-10-03T10:34:41Z",
+                "open_issues": 3,
                 "owner": "AHK-just-me",
                 "repo": "Class_SQLiteDB",
-                "stars": 110
+                "stars": 110,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:54:56.890Z"
             },
@@ -257,12 +356,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AutoHotkey DBA  is an OOP-SQL DataBase access framework. It currently supports  SQLite, MySQL and ADO.",
+                "homepage": null,
                 "id": 4055674,
                 "language": "AutoHotkey",
+                "license": "NOASSERTION",
                 "last_commit": "2021-09-21T18:08:18Z",
+                "open_issues": 4,
                 "owner": "IsNull",
                 "repo": "ahkDBA",
-                "stars": 50
+                "stars": 50,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:54:56.890Z"
             },
@@ -273,12 +377,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A database library for AutoHotkey.",
+                "homepage": null,
                 "id": 235028443,
                 "language": "AutoHotkey",
+                "license": "AGPL-3.0",
                 "last_commit": "2020-04-04T04:21:35Z",
+                "open_issues": 1,
                 "owner": "AHKDb",
                 "repo": "AHKDb",
-                "stars": 31
+                "stars": 31,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:54:56.890Z"
             },
@@ -289,12 +398,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Work with MySQL databases in autohotkey, without exposing server credentials.",
+                "homepage": null,
                 "id": 10941071,
                 "language": "PHP",
+                "license": null,
                 "last_commit": "2020-04-30T18:02:57Z",
+                "open_issues": 3,
                 "owner": "kevgk",
                 "repo": "Leya",
-                "stars": 18
+                "stars": 18,
+                "topics": [
+                  "ahk",
+                  "api",
+                  "autohotkey",
+                  "database",
+                  "improv3d",
+                  "mysql",
+                  "php"
+                ]
               },
               "first_seen": "2026-08-29T01:54:56.890Z"
             }
@@ -312,12 +434,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A core library for images in AutoHotkey. Supports AutoHotkey v1 and v2. ",
+                "homepage": "https://www.autohotkey.com/boards/viewtopic.php?f=83&t=76633",
                 "id": 266191907,
                 "language": "AutoHotkey",
+                "license": "MIT",
                 "last_commit": "2026-06-16T22:54:22Z",
+                "open_issues": 13,
                 "owner": "iseahound",
                 "repo": "ImagePut",
-                "stars": 230
+                "stars": 230,
+                "topics": [
+                  "image-processing",
+                  "pixelsearch",
+                  "productivity",
+                  "screen-capture",
+                  "screenshot"
+                ]
               },
               "first_seen": "2026-08-29T01:54:56.890Z"
             },
@@ -328,12 +461,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "My AHK libraries, functions, templates, etc.",
+                "homepage": "https://github.com/MasterFocus/AutoHotkey",
                 "id": 5279228,
                 "language": "AutoHotkey",
+                "license": null,
                 "last_commit": "2025-04-21T05:42:15Z",
+                "open_issues": 0,
                 "owner": "MasterFocus",
                 "repo": "AutoHotkey",
-                "stars": 213
+                "stars": 213,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:54:56.890Z"
             },
@@ -344,12 +482,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official GDI+ library for Autohotkey",
+                "homepage": null,
                 "id": 31276035,
                 "language": "AutoHotkey",
+                "license": null,
                 "last_commit": "2019-03-05T22:07:27Z",
+                "open_issues": 5,
                 "owner": "tariqporter",
                 "repo": "Gdip",
-                "stars": 158
+                "stars": 158,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:54:56.890Z"
             },
@@ -360,12 +503,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Gdip library compatiable with both AHK v1.1 and AHK v2",
+                "homepage": "https://autohotkey.com/boards/viewtopic.php?t=6517",
                 "id": 73879327,
                 "language": "AutoHotkey",
+                "license": null,
                 "last_commit": "2021-10-17T02:04:31Z",
+                "open_issues": 9,
                 "owner": "mmikeww",
                 "repo": "AHKv2-Gdip",
-                "stars": 158
+                "stars": 158,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:54:56.890Z"
             },
@@ -376,12 +524,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "It makes pretties",
+                "homepage": null,
                 "id": 78038687,
                 "language": "AutoHotkey",
+                "license": null,
                 "last_commit": "2017-01-17T16:49:32Z",
+                "open_issues": 1,
                 "owner": "acorns",
                 "repo": "Particle-System",
-                "stars": 17
+                "stars": 17,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:54:56.890Z"
             }
@@ -401,12 +554,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Auto-completes typed values in an AHK ComboBox.",
+                    "homepage": null,
                     "id": 54046829,
                     "language": "AutoHotkey",
+                    "license": "Unlicense",
                     "last_commit": "2016-03-16T19:23:24Z",
+                    "open_issues": 0,
                     "owner": "Pulover",
                     "repo": "CbAutoComplete",
-                    "stars": 27
+                    "stars": 27,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:54:56.890Z"
                 }
@@ -424,12 +582,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "AHK Class for AutoHotkey Toolbar custom controls",
+                    "homepage": "https://autohotkey.com/boards/viewtopic.php?f=6&t=138",
                     "id": 53907982,
                     "language": "AutoHotkey",
+                    "license": "Unlicense",
                     "last_commit": "2020-09-14T14:44:52Z",
+                    "open_issues": 0,
                     "owner": "Pulover",
                     "repo": "Class_Toolbar",
-                    "stars": 38
+                    "stars": 38,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:54:56.890Z"
                 },
@@ -440,12 +603,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "AHK class for AutoHotkey Rebar custom controls",
+                    "homepage": "https://autohotkey.com/boards/viewtopic.php?f=6&t=139",
                     "id": 53908684,
                     "language": "AutoHotkey",
+                    "license": "Unlicense",
                     "last_commit": "2016-04-04T05:15:12Z",
+                    "open_issues": 0,
                     "owner": "Pulover",
                     "repo": "Class_Rebar",
-                    "stars": 16
+                    "stars": 16,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:54:56.890Z"
                 }
@@ -463,12 +631,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Utility functions for AutoHotkey. Works on both AHK v1.1 and v2.0-a builds.",
+                    "homepage": null,
                     "id": 23083759,
                     "language": "AutoHotkey",
+                    "license": null,
                     "last_commit": "2016-05-16T14:02:42Z",
+                    "open_issues": 4,
                     "owner": "cocobelgica",
                     "repo": "AutoHotkey-Util",
-                    "stars": 104
+                    "stars": 104,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:54:56.890Z"
                 },
@@ -479,12 +652,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Creates a scrollable GUI as a parent for AHK GUI windows.",
+                    "homepage": null,
                     "id": 30546566,
                     "language": "AutoHotkey",
+                    "license": "Unlicense",
                     "last_commit": "2015-03-13T13:53:12Z",
+                    "open_issues": 0,
                     "owner": "AHK-just-me",
                     "repo": "Class_ScrollGUI",
-                    "stars": 22
+                    "stars": 22,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:54:56.890Z"
                 },
@@ -495,12 +673,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An object-oriented GUI library for AutoHotkey",
+                    "homepage": null,
                     "id": 79153402,
                     "language": "AutoHotkey",
+                    "license": null,
                     "last_commit": "2017-01-17T09:26:11Z",
+                    "open_issues": 5,
                     "owner": "lipkau",
                     "repo": "CGUI",
-                    "stars": 19
+                    "stars": 19,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:54:56.890Z"
                 },
@@ -511,12 +694,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The other MsgBox for Win Vista+.",
+                    "homepage": null,
                     "id": 24488142,
                     "language": "AutoHotkey",
+                    "license": null,
                     "last_commit": "2014-09-26T06:06:10Z",
+                    "open_issues": 0,
                     "owner": "AHK-just-me",
                     "repo": "TaskDialog",
-                    "stars": 11
+                    "stars": 11,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:54:56.890Z"
                 }
@@ -534,12 +722,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Some functions for AHK ListBoxes.",
+                    "homepage": null,
                     "id": 24672434,
                     "language": "AutoHotkey",
+                    "license": null,
                     "last_commit": "2020-08-19T10:09:17Z",
+                    "open_issues": 0,
                     "owner": "AHK-just-me",
                     "repo": "LBEX",
-                    "stars": 20
+                    "stars": 20,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:54:56.890Z"
                 },
@@ -550,12 +743,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Provides transparent listbox controls for AHK GUIs.",
+                    "homepage": null,
                     "id": 29385772,
                     "language": "AutoHotkey",
+                    "license": "Unlicense",
                     "last_commit": "2015-01-17T11:33:58Z",
+                    "open_issues": 0,
                     "owner": "AHK-just-me",
                     "repo": "Class_TransparentListBox",
-                    "stars": 15
+                    "stars": 15,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:54:56.890Z"
                 }
@@ -573,12 +771,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "AHK class providing individual colors for ListView items/subitems.",
+                    "homepage": null,
                     "id": 15336721,
                     "language": "AutoHotkey",
+                    "license": "Unlicense",
                     "last_commit": "2024-03-16T10:40:07Z",
+                    "open_issues": 1,
                     "owner": "AHK-just-me",
                     "repo": "Class_LV_Colors",
-                    "stars": 30
+                    "stars": 30,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:54:56.890Z"
                 },
@@ -589,12 +792,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Additional functions for AHK ListView controls",
+                    "homepage": "https://autohotkey.com/boards/viewtopic.php?f=6&t=137",
                     "id": 53980301,
                     "language": "AutoHotkey",
+                    "license": "Unlicense",
                     "last_commit": "2020-12-28T23:51:06Z",
+                    "open_issues": 0,
                     "owner": "Pulover",
                     "repo": "Class_LV_Rows",
-                    "stars": 17
+                    "stars": 17,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:54:56.890Z"
                 },
@@ -605,12 +813,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Some additional functions for AHK GUI ListView controls.",
+                    "homepage": null,
                     "id": 15605369,
                     "language": "AutoHotkey",
+                    "license": "Unlicense",
                     "last_commit": "2022-10-07T08:36:19Z",
+                    "open_issues": 2,
                     "owner": "AHK-just-me",
                     "repo": "LV_EX",
-                    "stars": 16
+                    "stars": 16,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:54:56.890Z"
                 },
@@ -621,12 +834,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "AHK class supporting in-cell editing for ListView controls",
+                    "homepage": null,
                     "id": 15332723,
                     "language": "AutoHotkey",
+                    "license": null,
                     "last_commit": "2015-12-15T07:42:35Z",
+                    "open_issues": 0,
                     "owner": "AHK-just-me",
                     "repo": "Class_LV_InCellEdit",
-                    "stars": 13
+                    "stars": 13,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:54:56.890Z"
                 }
@@ -644,12 +862,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "AutoHotkey Web GUIs on Steroids",
+                    "homepage": "https://www.autohotkey.com/boards/viewtopic.php?f=6&t=76865",
                     "id": 264495288,
                     "language": "AutoHotkey",
+                    "license": "MIT",
                     "last_commit": "2023-12-15T11:13:01Z",
+                    "open_issues": 21,
                     "owner": "G33kDude",
                     "repo": "Neutron.ahk",
-                    "stars": 240
+                    "stars": 240,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:54:56.890Z"
                 }
@@ -672,12 +895,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AHK Function to evaluate expressions dynamically in strings.",
+                "homepage": "https://autohotkey.com/boards/viewtopic.php?f=6&t=13565",
                 "id": 53463623,
                 "language": "AutoHotkey",
+                "license": "Unlicense",
                 "last_commit": "2020-12-28T22:43:10Z",
+                "open_issues": 0,
                 "owner": "Pulover",
                 "repo": "Eval",
-                "stars": 31
+                "stars": 31,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:54:56.890Z"
             }
@@ -695,12 +923,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An AHK memory reading/writing class with pattern scans.",
+                "homepage": null,
                 "id": 64184157,
                 "language": "AutoHotkey",
+                "license": null,
                 "last_commit": "2022-03-14T19:17:21Z",
+                "open_issues": 5,
                 "owner": "Kalamity",
                 "repo": "classMemory",
-                "stars": 71
+                "stars": 71,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:54:56.890Z"
             }
@@ -718,12 +951,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Automate Google Chrome using native AutoHotkey",
+                "homepage": "https://autohotkey.com/boards/viewtopic.php?t=42890",
                 "id": 117497616,
                 "language": "AutoHotkey",
+                "license": "MIT",
                 "last_commit": "2023-05-03T17:10:42Z",
+                "open_issues": 17,
                 "owner": "G33kDude",
                 "repo": "Chrome.ahk",
-                "stars": 394
+                "stars": 394,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:54:56.890Z"
             },
@@ -734,12 +972,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Connect to a WebSocket server using AutoHotkey",
+                "homepage": "https://autohotkey.com/boards/viewtopic.php?f=6&t=35117",
                 "id": 95403568,
                 "language": "AutoHotkey",
+                "license": "CC0-1.0",
                 "last_commit": "2023-03-24T16:27:45Z",
+                "open_issues": 5,
                 "owner": "G33kDude",
                 "repo": "WebSocket.ahk",
-                "stars": 86
+                "stars": 86,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:54:56.890Z"
             },
@@ -750,12 +993,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "HTTP Server",
+                "homepage": null,
                 "id": 25332501,
                 "language": "AutoHotkey",
+                "license": "GPL-2.0",
                 "last_commit": "2023-11-22T08:46:19Z",
+                "open_issues": 8,
                 "owner": "zhamlin",
                 "repo": "AHKhttp",
-                "stars": 85
+                "stars": 85,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:54:56.890Z"
             },
@@ -766,12 +1014,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple AHK implementation of Winsock (TCP/IP)",
+                "homepage": null,
                 "id": 7983554,
                 "language": "AutoHotkey",
+                "license": null,
                 "last_commit": "2016-12-04T20:58:11Z",
+                "open_issues": 4,
                 "owner": "jleb",
                 "repo": "AHKsock",
-                "stars": 83
+                "stars": 83,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:54:56.890Z"
             },
@@ -782,12 +1035,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AutoHotkey socket class based on Bentschi's",
+                "homepage": "https://autohotkey.com/boards/viewtopic.php?f=6&t=35120",
                 "id": 57306609,
                 "language": "AutoHotkey",
+                "license": null,
                 "last_commit": "2017-06-26T05:14:27Z",
+                "open_issues": 5,
                 "owner": "G33kDude",
                 "repo": "Socket.ahk",
-                "stars": 71
+                "stars": 71,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:54:56.890Z"
             },
@@ -798,12 +1056,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 744517761,
                 "language": "AutoHotkey",
+                "license": "GPL-3.0",
                 "last_commit": "2024-03-05T17:53:01Z",
+                "open_issues": 6,
                 "owner": "Xeo786",
                 "repo": "Rufaydium-Webdriver",
-                "stars": 30
+                "stars": 30,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:54:56.890Z"
             },
@@ -814,12 +1077,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Lib allows the use of WinSCP in AHK",
+                "homepage": "http://lipkau.github.io/WinSCP.ahk",
                 "id": 37584791,
                 "language": "AutoHotkey",
+                "license": "GPL-2.0",
                 "last_commit": "2020-03-13T11:31:53Z",
+                "open_issues": 2,
                 "owner": "lipkau",
                 "repo": "WinSCP.ahk",
-                "stars": 17
+                "stars": 17,
+                "topics": [
+                  "ahk",
+                  "ftp",
+                  "winscp"
+                ]
               },
               "first_seen": "2026-08-29T01:54:56.890Z"
             },
@@ -830,12 +1102,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AutoHotkey wrapper for FTP Sessions",
+                "homepage": null,
                 "id": 282894414,
                 "language": "AutoHotkey",
+                "license": "Unlicense",
                 "last_commit": "2020-08-27T13:33:35Z",
+                "open_issues": 1,
                 "owner": "jNizM",
                 "repo": "Class_FTP",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:54:56.890Z"
             }
@@ -853,12 +1130,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "a gdip chart lib for autohotkey",
+                "homepage": null,
                 "id": 90404830,
                 "language": "AutoHotkey",
+                "license": null,
                 "last_commit": "2017-06-02T17:03:01Z",
+                "open_issues": 0,
                 "owner": "nnnik",
                 "repo": "gdiChartLib",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:54:56.890Z"
             },
@@ -869,12 +1151,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SVGraph bringing graphing and charting to AutoHotkey",
+                "homepage": null,
                 "id": 72784570,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2018-01-11T12:15:31Z",
+                "open_issues": 0,
                 "owner": "CapnOdin",
                 "repo": "SVGraph",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:54:56.890Z"
             }
@@ -892,12 +1179,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "https://autohotkey.com/board/topic/21984-vista-audio-control-functions/?p=143564",
+                "homepage": "https://ahkscript.github.io/VistaAudio/",
                 "id": 98823242,
                 "language": "HTML",
+                "license": "NOASSERTION",
                 "last_commit": "2017-07-30T22:13:45Z",
+                "open_issues": 3,
                 "owner": "ahkscript",
                 "repo": "VistaAudio",
-                "stars": 27
+                "stars": 27,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:54:56.890Z"
             }
@@ -915,12 +1207,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AutoHotkey library for Text files & Variables (strings)",
+                "homepage": "https://autohotkey.com/boards/viewtopic.php?f=6&t=576",
                 "id": 14275217,
                 "language": "AutoHotkey",
+                "license": "GPL-2.0",
                 "last_commit": "2020-12-12T22:26:08Z",
+                "open_issues": 0,
                 "owner": "hi5",
                 "repo": "TF",
-                "stars": 143
+                "stars": 143,
+                "topics": [
+                  "autohotkey",
+                  "find",
+                  "join",
+                  "merge",
+                  "read",
+                  "regexreplace",
+                  "remove-lines",
+                  "reverse-lines",
+                  "sort",
+                  "split",
+                  "tail",
+                  "text-manipulation",
+                  "texttools",
+                  "trim",
+                  "wrap"
+                ]
               },
               "first_seen": "2026-08-29T01:54:56.890Z"
             }
@@ -942,12 +1255,29 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "AutoHotkey library archive.",
+            "homepage": "https://github.com/rshipp/ahk-libs#readme",
             "id": 3665211,
             "language": "AutoHotkey",
+            "license": null,
             "last_commit": "2018-11-26T03:42:52Z",
+            "open_issues": 0,
             "owner": "rshipp",
             "repo": "ahk-libs",
-            "stars": 161
+            "stars": 161,
+            "topics": [
+              "ahk",
+              "ahk-library",
+              "ahkscript",
+              "archive",
+              "autohotkey",
+              "autohotkey-script",
+              "library",
+              "meta",
+              "stdlib",
+              "submodule",
+              "wrapper"
+            ]
           },
           "first_seen": "2026-08-29T01:54:56.890Z"
         },
@@ -958,12 +1288,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AHKScript.org's Package/StdLib Distribution and Management",
+            "homepage": "http://aspdm.ahkscript.org/",
             "id": 16428966,
             "language": "AutoHotkey",
+            "license": null,
             "last_commit": "2018-11-12T17:10:44Z",
+            "open_issues": 8,
             "owner": "ahkscript",
             "repo": "ASPDM",
-            "stars": 67
+            "stars": 67,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:54:56.890Z"
         },
@@ -974,12 +1309,19 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Your Lightweight Guide to AutoHotkey libraries, classes, functions and tools",
+            "homepage": "http://ahkscript.org/boards/viewtopic.php?f=6&t=1241",
             "id": 15566719,
             "language": "AutoHotkey",
+            "license": "MIT",
             "last_commit": "2015-10-20T21:24:22Z",
+            "open_issues": 1,
             "owner": "hi5",
             "repo": "pAHKlight",
-            "stars": 40
+            "stars": 40,
+            "topics": [
+              "autohotkey"
+            ]
           },
           "first_seen": "2026-08-29T01:54:56.890Z"
         }
@@ -998,12 +1340,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":clipboard: Clipboard Manager for Windows, built in AutoHotkey",
+                "homepage": "http://clipjump.sourceforge.net/",
                 "id": 9261833,
                 "language": "AutoHotkey",
+                "license": null,
                 "last_commit": "2021-04-06T21:42:43Z",
+                "open_issues": 46,
                 "owner": "aviaryan",
                 "repo": "Clipjump",
-                "stars": 397
+                "stars": 397,
+                "topics": [
+                  "autohotkey",
+                  "clipboard",
+                  "clipboard-manager",
+                  "clipjump",
+                  "multiple-clipboards"
+                ]
               },
               "first_seen": "2026-08-29T01:54:56.890Z"
             },
@@ -1014,12 +1367,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Minimal clipboard caching utility inspired by CLCL 📋",
+                "homepage": "https://autohotkey.com/boards/viewtopic.php?f=6&t=814",
                 "id": 14818943,
                 "language": "AutoHotkey",
+                "license": "MIT",
                 "last_commit": "2026-02-21T10:54:57Z",
+                "open_issues": 5,
                 "owner": "hi5",
                 "repo": "CL3",
-                "stars": 101
+                "stars": 101,
+                "topics": [
+                  "autohotkey",
+                  "clipboard",
+                  "clipboard-history",
+                  "clipboard-management",
+                  "clipboard-manager"
+                ]
               },
               "first_seen": "2026-08-29T01:54:56.890Z"
             },
@@ -1030,12 +1394,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 562401299,
                 "language": "AutoHotkey",
+                "license": null,
                 "last_commit": "2024-04-29T12:52:06Z",
+                "open_issues": 0,
                 "owner": "536",
                 "repo": "my-startup-ahk-scripts",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:54:56.890Z"
             }
@@ -1053,12 +1422,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Automated file manager",
+                "homepage": "http://lifehacker.com/341950/belvedere-automates-your-self+cleaning-pc",
                 "id": 167194,
                 "language": "AutoHotkey",
+                "license": null,
                 "last_commit": "2013-12-01T21:02:05Z",
+                "open_issues": 13,
                 "owner": "adampash",
                 "repo": "belvedere",
-                "stars": 170
+                "stars": 170,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:54:56.890Z"
             },
@@ -1069,12 +1443,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Favorites launcher for Windows.",
+                "homepage": "https://www.quickaccesspopup.com",
                 "id": 34996106,
                 "language": "AutoHotkey",
+                "license": null,
                 "last_commit": "2026-05-21T20:54:47Z",
+                "open_issues": 29,
                 "owner": "JnLlnd",
                 "repo": "QuickAccessPopup",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:54:56.890Z"
             }
@@ -1092,12 +1471,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This program is an On-Screen Display or a Heads-Up Display for keys. It displays every key press at a clearly visible text size. It is developed for people with poor eye sight. It is meant to aid desktop computer usage. It is especially useful while chatting or for occasional typing. The user no longer has to squint or zoom in the entire screen to see what s/he writes in small text fields.",
+                "homepage": "https://keypressosd.com/",
                 "id": 116165887,
                 "language": "AutoHotkey",
+                "license": null,
                 "last_commit": "2026-04-02T19:54:47Z",
+                "open_issues": 2,
                 "owner": "marius-sucan",
                 "repo": "KeyPress-OSD",
-                "stars": 413
+                "stars": 413,
+                "topics": [
+                  "ahk",
+                  "autohotkey",
+                  "desktop-computer",
+                  "disabilities",
+                  "disability",
+                  "eye-strain",
+                  "eyesight",
+                  "handicap",
+                  "impairments",
+                  "keyboard-layout",
+                  "mouse-cursor",
+                  "osd",
+                  "presentations",
+                  "recording",
+                  "screencast",
+                  "screencast-recording",
+                  "utility-application",
+                  "videos",
+                  "visual-aid"
+                ]
               },
               "first_seen": "2026-08-29T01:54:56.890Z"
             },
@@ -1108,12 +1512,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Suggests and completes words as you type! Write faster and more efficiently.",
+                "homepage": "http://www.autohotkey.com/board/topic/60998-autocomplete/",
                 "id": 12199957,
                 "language": "AutoHotkey",
+                "license": null,
                 "last_commit": "2022-12-12T13:33:43Z",
+                "open_issues": 9,
                 "owner": "Uberi",
                 "repo": "Autocomplete",
-                "stars": 218
+                "stars": 218,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:54:56.890Z"
             },
@@ -1124,12 +1533,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Word AutoCompletion Utility",
+                "homepage": "http://www.autohotkey.com/board/topic/49517-ahk-11typingaid-v2200-word-autocompletion-utility/",
                 "id": 24893823,
                 "language": "AutoHotkey",
+                "license": "GPL-3.0",
                 "last_commit": "2018-07-11T08:18:17Z",
+                "open_issues": 56,
                 "owner": "ManiacDC",
                 "repo": "TypingAid",
-                "stars": 159
+                "stars": 159,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:54:56.890Z"
             },
@@ -1140,12 +1554,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Don't move your hands; type faster ⚡",
+                "homepage": "https://almogtavor.github.io/static-hands/",
                 "id": 362348464,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2026-03-13T11:22:17Z",
+                "open_issues": 0,
                 "owner": "almogtavor",
                 "repo": "static-hands",
-                "stars": 77
+                "stars": 77,
+                "topics": [
+                  "ahk",
+                  "autohotkey",
+                  "code",
+                  "coding",
+                  "developer-tools",
+                  "keybindings",
+                  "keyboard",
+                  "shortcut",
+                  "shortcuts",
+                  "windows-10"
+                ]
               },
               "first_seen": "2026-08-29T01:54:56.890Z"
             },
@@ -1156,12 +1586,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Autohotkey Script which easily displays any wanted date.",
+                "homepage": null,
                 "id": 208288887,
                 "language": "AutoHotkey",
+                "license": "MIT",
                 "last_commit": "2023-07-05T21:49:38Z",
+                "open_issues": 2,
                 "owner": "tiuub",
                 "repo": "DateHotkey",
-                "stars": 23
+                "stars": 23,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:54:56.890Z"
             }
@@ -1179,12 +1614,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tiling Window Manager for Windows",
+                "homepage": null,
                 "id": 17386571,
                 "language": "AutoHotkey",
+                "license": "GPL-3.0",
                 "last_commit": "2023-01-05T16:21:58Z",
+                "open_issues": 119,
                 "owner": "fuhsjr00",
                 "repo": "bug.n",
-                "stars": 3435
+                "stars": 3434,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:54:56.890Z"
             },
@@ -1195,12 +1635,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Enhancements on original WindowPad (by Lexikos)",
+                "homepage": "http://hoppfrosch.github.com/WindowPadX",
                 "id": 3160403,
                 "language": "AutoHotkey",
+                "license": null,
                 "last_commit": "2024-02-29T06:25:34Z",
+                "open_issues": 9,
                 "owner": "hoppfrosch",
                 "repo": "WindowPadX",
-                "stars": 233
+                "stars": 233,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:54:56.890Z"
             },
@@ -1211,12 +1656,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AutoHotkey script to open, restore or minimize, Window's and Chrome's Apps using hotkeys",
+                "homepage": null,
                 "id": 179618966,
                 "language": "AutoHotkey",
+                "license": "MIT",
                 "last_commit": "2025-07-06T17:18:56Z",
+                "open_issues": 7,
                 "owner": "JuanmaMenendez",
                 "repo": "AutoHotkey-script-Open-Show-Apps",
-                "stars": 148
+                "stars": 148,
+                "topics": [
+                  "application",
+                  "autohotkey",
+                  "autohotkey-script",
+                  "switcher",
+                  "windows",
+                  "windows-10",
+                  "windows-app",
+                  "windows-desktop"
+                ]
               },
               "first_seen": "2026-08-29T01:54:56.890Z"
             },
@@ -1227,12 +1686,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Replacement for Windows/Aero Snap (especially for widescreen monitors).",
+                "homepage": null,
                 "id": 48122025,
                 "language": "AutoHotkey",
+                "license": "MIT",
                 "last_commit": "2020-08-12T21:52:33Z",
+                "open_issues": 3,
                 "owner": "benallred",
                 "repo": "SnapX",
-                "stars": 43
+                "stars": 43,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:54:56.890Z"
             }
@@ -1250,12 +1714,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple platformer game in AutoHotkey.",
+                "homepage": "http://www.autohotkey.com/forum/topic69424.html",
                 "id": 2716875,
                 "language": "AutoHotkey",
+                "license": "AGPL-3.0",
                 "last_commit": "2014-06-18T15:50:57Z",
+                "open_issues": 1,
                 "owner": "Uberi",
                 "repo": "ProgressPlatformer",
-                "stars": 17
+                "stars": 17,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:54:56.890Z"
             },
@@ -1266,12 +1735,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Ludum Dare 24 game entry!",
+                "homepage": "http://www.ludumdare.com/compo/ludum-dare-24/?action=preview&uid=14126",
                 "id": 5543358,
                 "language": "AutoHotkey",
+                "license": null,
                 "last_commit": "2012-08-27T19:16:50Z",
+                "open_issues": 0,
                 "owner": "Uberi",
                 "repo": "Ludum-Dare-24",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:54:56.890Z"
             },
@@ -1282,12 +1756,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AHK version of game Ishido",
+                "homepage": null,
                 "id": 91562497,
                 "language": "AutoHotkey",
+                "license": "GPL-3.0",
                 "last_commit": "2017-06-05T14:48:19Z",
+                "open_issues": 0,
                 "owner": "flibioahk",
                 "repo": "ishido",
-                "stars": 3
+                "stars": 3,
+                "topics": [
+                  "ahk",
+                  "board-game",
+                  "ishido",
+                  "match-stones"
+                ]
               },
               "first_seen": "2026-08-29T01:54:56.890Z"
             },
@@ -1298,12 +1782,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Remake of the Amiga game Logical",
+                "homepage": null,
                 "id": 94461398,
                 "language": "AutoHotkey",
+                "license": "GPL-3.0",
                 "last_commit": "2018-02-18T19:42:50Z",
+                "open_issues": 0,
                 "owner": "bichlepa",
                 "repo": "PABI-Logical",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:54:56.890Z"
             }
@@ -1327,12 +1816,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AutoHotkey for Linux (X11-based systems)",
+                "homepage": null,
                 "id": 507449738,
                 "language": "Crystal",
+                "license": "GPL-2.0",
                 "last_commit": "2026-01-03T19:01:14Z",
+                "open_issues": 40,
                 "owner": "phil294",
                 "repo": "AHK_X11",
-                "stars": 1022
+                "stars": 1022,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:54:56.890Z"
             },
@@ -1343,12 +1837,23 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Cross platform .NET rewrite of the popular AutoHotkey scripting language for desktop automation.",
+                "homepage": "https://autohotkey.com/board/topic/50354-ironahk-alpha-cross-platform-net-rewrite-of-autohotkey/",
                 "id": 982373,
                 "language": "C#",
+                "license": "BSD-2-Clause",
                 "last_commit": "2018-01-26T15:24:30Z",
+                "open_issues": 23,
                 "owner": "Paris",
                 "repo": "IronAHK",
-                "stars": 415
+                "stars": 415,
+                "topics": [
+                  "autohotkey",
+                  "c-sharp",
+                  "cross-platform",
+                  "desktop",
+                  "scripting-language"
+                ]
               },
               "first_seen": "2026-08-29T01:54:56.890Z"
             },
@@ -1359,12 +1864,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AutoHotkey_H v1 release",
+                "homepage": "http://hotkeyit.github.io/v2/",
                 "id": 30116304,
                 "language": "AutoHotkey",
+                "license": "GPL-2.0",
                 "last_commit": "2022-02-11T14:09:20Z",
+                "open_issues": 3,
                 "owner": "HotKeyIt",
                 "repo": "ahkdll-v1-release",
-                "stars": 69
+                "stars": 69,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:54:56.890Z"
             }
@@ -1382,12 +1892,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Super simple testing framework for AutoHotkey.",
+                "homepage": null,
                 "id": 6480877,
                 "language": "AutoHotkey",
+                "license": "AGPL-3.0",
                 "last_commit": "2022-08-03T05:30:59Z",
+                "open_issues": 5,
                 "owner": "Uberi",
                 "repo": "Yunit",
-                "stars": 56
+                "stars": 56,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:54:56.890Z"
             },
@@ -1398,12 +1913,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Class: Console - Standardized Console GUI with Methods",
+                "homepage": null,
                 "id": 16818608,
                 "language": "AutoHotkey",
+                "license": "GPL-3.0",
                 "last_commit": "2014-03-15T00:10:34Z",
+                "open_issues": 0,
                 "owner": "AfterLemon",
                 "repo": "Class_Console",
-                "stars": 19
+                "stars": 19,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:54:56.890Z"
             }
@@ -1421,12 +1941,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AutoHotkey AHK language package for SublimeText including syntax highlighting, comments toggling, auto-completions, build system definitions, commands for ahkrun, ahkcompile, ahkrunpiped.",
+                "homepage": null,
                 "id": 9074430,
                 "language": "Python",
+                "license": "Unlicense",
                 "last_commit": "2022-05-05T06:16:17Z",
+                "open_issues": 17,
                 "owner": "ahkscript",
                 "repo": "SublimeAutoHotkey",
-                "stars": 212
+                "stars": 212,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:54:56.890Z"
             },
@@ -1437,12 +1962,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AutoHotFlow - Simply draw your applictaions",
+                "homepage": "http://ahkscript.org/boards/viewtopic.php?f=6&t=6399",
                 "id": 32202707,
                 "language": "AutoHotkey",
+                "license": "GPL-3.0",
                 "last_commit": "2024-02-24T19:19:42Z",
+                "open_issues": 3,
                 "owner": "bichlepa",
                 "repo": "AutoHotFlow",
-                "stars": 73
+                "stars": 73,
+                "topics": [
+                  "automation"
+                ]
               },
               "first_seen": "2026-08-29T01:54:56.890Z"
             },
@@ -1453,12 +1985,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "omnicomplete for autohotkey script",
+                "homepage": null,
                 "id": 38531194,
                 "language": "Python",
+                "license": "GPL-2.0",
                 "last_commit": "2018-06-27T13:38:40Z",
+                "open_issues": 0,
                 "owner": "huleiak47",
                 "repo": "vim-AHKcomplete",
-                "stars": 14
+                "stars": 14,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:54:56.890Z"
             },
@@ -1469,12 +2006,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "autohotkey syntax highlighting",
+                "homepage": "http://www.vim.org/scripts/script.php?script_id=2112",
                 "id": 1002803,
                 "language": "VimL",
+                "license": null,
                 "last_commit": "2010-10-19T00:39:42Z",
+                "open_issues": 0,
                 "owner": "vim-scripts",
                 "repo": "autohotkey-ahk",
-                "stars": 14
+                "stars": 14,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:54:56.890Z"
             }
@@ -1492,12 +2034,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Automation Utility - Recorder & Script Generator",
+                "homepage": "http://www.macrocreator.com",
                 "id": 10030222,
                 "language": "AutoHotkey",
+                "license": "NOASSERTION",
                 "last_commit": "2022-07-25T14:05:26Z",
+                "open_issues": 85,
                 "owner": "Pulover",
                 "repo": "PuloversMacroCreator",
-                "stars": 2018
+                "stars": 2018,
+                "topics": [
+                  "ahk",
+                  "autohotkey",
+                  "automation",
+                  "robot",
+                  "rpa",
+                  "tesseract"
+                ]
               },
               "first_seen": "2026-08-29T01:54:56.890Z"
             }
@@ -1515,12 +2069,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Syntax Highlighter for AutoHotkey with Zenburn and Github themes",
+                "homepage": null,
                 "id": 12295302,
                 "language": "CSS",
+                "license": null,
                 "last_commit": "2014-08-05T08:50:13Z",
+                "open_issues": 0,
                 "owner": "aviaryan",
                 "repo": "highlighter-ahk-zenburn",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:54:56.890Z"
             }
@@ -1538,12 +2097,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AutoHotkey Environment Information",
+                "homepage": "https://www.autohotkey.com/boards/viewtopic.php?f=83&t=133706",
                 "id": 28926720,
                 "language": "AutoHotkey",
+                "license": "MIT",
                 "last_commit": "2024-10-17T15:08:35Z",
+                "open_issues": 0,
                 "owner": "joedf",
                 "repo": "AEI.ahk",
-                "stars": 17
+                "stars": 17,
+                "topics": [
+                  "autohotkey",
+                  "information",
+                  "system",
+                  "updater"
+                ]
               },
               "first_seen": "2026-08-29T01:54:56.890Z"
             }
@@ -1561,12 +2130,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python wrapper for AutoHotkey with full type support. Harness the automation power of AutoHotkey with the beauty of Python.",
+                "homepage": null,
                 "id": 158650053,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-17T21:04:54Z",
+                "open_issues": 12,
                 "owner": "spyoungtech",
                 "repo": "ahk",
-                "stars": 1031
+                "stars": 1031,
+                "topics": [
+                  "ahk-script",
+                  "asyncio",
+                  "autohotkey",
+                  "automation",
+                  "python",
+                  "windows"
+                ]
               },
               "first_seen": "2026-08-29T01:54:56.890Z"
             },
@@ -1577,12 +2158,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Write AHK with JavaScript",
+                "homepage": null,
                 "id": 27283873,
                 "language": "AutoHotkey",
+                "license": null,
                 "last_commit": "2021-08-31T21:14:19Z",
+                "open_issues": 4,
                 "owner": "Aurelain",
                 "repo": "Exo",
-                "stars": 116
+                "stars": 116,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:54:56.890Z"
             },
@@ -1593,12 +2179,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Write AutoHotkey scripts in Python.",
+                "homepage": "https://ahkpy.readthedocs.io",
                 "id": 266047131,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2023-04-29T19:00:07Z",
+                "open_issues": 7,
                 "owner": "Perlence",
                 "repo": "AutoHotkey.py",
-                "stars": 82
+                "stars": 82,
+                "topics": [
+                  "autohotkey",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-29T01:54:56.890Z"
             }
@@ -1612,15 +2206,20 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T01:54:56.890Z",
+    "last_updated": "2026-08-29T04:19:38.171Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome AutoHotkey libraries, library distributions, scripts, tools and resources.",
+      "homepage": null,
       "id": 22615356,
       "language": null,
+      "license": null,
       "last_commit": "2023-01-24T23:51:33Z",
+      "open_issues": 26,
       "owner": "ahkscript",
       "repo": "awesome-AutoHotkey",
-      "stars": 3072
+      "stars": 3072,
+      "topics": []
     },
     "original_repository_sha": "a46e9a2072a74742ad2386f48a907beb0e2515d1",
     "enhanced_repository": "enhansome/enhansome-AutoHotkey",
