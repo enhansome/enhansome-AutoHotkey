@@ -18,7 +18,8 @@
                 "owner": "joedf",
                 "repo": "LibCon.ahk",
                 "stars": 61
-              }
+              },
+              "first_seen": "2026-08-29T01:54:56.890Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "G33kDude",
                 "repo": "Console",
                 "stars": 33
-              }
+              },
+              "first_seen": "2026-08-29T01:54:56.890Z"
             }
           ],
           "description": null,
@@ -55,7 +57,8 @@
                 "owner": "cocobelgica",
                 "repo": "AutoHotkey-JSON",
                 "stars": 287
-              }
+              },
+              "first_seen": "2026-08-29T01:54:56.890Z"
             },
             {
               "node_type": "item",
@@ -70,7 +73,8 @@
                 "owner": "hi5",
                 "repo": "CSV",
                 "stars": 58
-              }
+              },
+              "first_seen": "2026-08-29T01:54:56.890Z"
             },
             {
               "node_type": "item",
@@ -85,7 +89,8 @@
                 "owner": "JnLlnd",
                 "repo": "ObjCSV",
                 "stars": 32
-              }
+              },
+              "first_seen": "2026-08-29T01:54:56.890Z"
             },
             {
               "node_type": "item",
@@ -100,7 +105,8 @@
                 "owner": "cocobelgica",
                 "repo": "AutoHotkey-SerDes",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-29T01:54:56.890Z"
             },
             {
               "node_type": "item",
@@ -115,7 +121,8 @@
                 "owner": "hi5",
                 "repo": "XA",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-29T01:54:56.890Z"
             },
             {
               "node_type": "item",
@@ -130,7 +137,8 @@
                 "owner": "hoppfrosch",
                 "repo": "AHK_cTable",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-29T01:54:56.890Z"
             },
             {
               "node_type": "item",
@@ -145,7 +153,8 @@
                 "owner": "Jim-VxE",
                 "repo": "AHK-Lib-Table",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-29T01:54:56.890Z"
             }
           ],
           "description": null,
@@ -167,7 +176,8 @@
                 "owner": "ahkscript",
                 "repo": "libcrypt.ahk",
                 "stars": 73
-              }
+              },
+              "first_seen": "2026-08-29T01:54:56.890Z"
             },
             {
               "node_type": "item",
@@ -182,7 +192,8 @@
                 "owner": "Shambles-Dev",
                 "repo": "AutoHotkey-Facade",
                 "stars": 30
-              }
+              },
+              "first_seen": "2026-08-29T01:54:56.890Z"
             },
             {
               "node_type": "item",
@@ -197,7 +208,8 @@
                 "owner": "Shambles-Dev",
                 "repo": "AutoHotkey-HashTable",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-29T01:54:56.890Z"
             },
             {
               "node_type": "item",
@@ -212,7 +224,8 @@
                 "owner": "Shambles-Dev",
                 "repo": "AutoHotkey-Type_Checking",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-29T01:54:56.890Z"
             }
           ],
           "description": null,
@@ -234,7 +247,8 @@
                 "owner": "AHK-just-me",
                 "repo": "Class_SQLiteDB",
                 "stars": 110
-              }
+              },
+              "first_seen": "2026-08-29T01:54:56.890Z"
             },
             {
               "node_type": "item",
@@ -249,7 +263,8 @@
                 "owner": "IsNull",
                 "repo": "ahkDBA",
                 "stars": 50
-              }
+              },
+              "first_seen": "2026-08-29T01:54:56.890Z"
             },
             {
               "node_type": "item",
@@ -264,7 +279,8 @@
                 "owner": "AHKDb",
                 "repo": "AHKDb",
                 "stars": 31
-              }
+              },
+              "first_seen": "2026-08-29T01:54:56.890Z"
             },
             {
               "node_type": "item",
@@ -279,7 +295,8 @@
                 "owner": "kevgk",
                 "repo": "Leya",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-29T01:54:56.890Z"
             }
           ],
           "description": null,
@@ -301,7 +318,8 @@
                 "owner": "iseahound",
                 "repo": "ImagePut",
                 "stars": 230
-              }
+              },
+              "first_seen": "2026-08-29T01:54:56.890Z"
             },
             {
               "node_type": "item",
@@ -316,7 +334,8 @@
                 "owner": "MasterFocus",
                 "repo": "AutoHotkey",
                 "stars": 213
-              }
+              },
+              "first_seen": "2026-08-29T01:54:56.890Z"
             },
             {
               "node_type": "item",
@@ -331,7 +350,8 @@
                 "owner": "tariqporter",
                 "repo": "Gdip",
                 "stars": 158
-              }
+              },
+              "first_seen": "2026-08-29T01:54:56.890Z"
             },
             {
               "node_type": "item",
@@ -346,7 +366,8 @@
                 "owner": "mmikeww",
                 "repo": "AHKv2-Gdip",
                 "stars": 158
-              }
+              },
+              "first_seen": "2026-08-29T01:54:56.890Z"
             },
             {
               "node_type": "item",
@@ -361,7 +382,8 @@
                 "owner": "acorns",
                 "repo": "Particle-System",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-29T01:54:56.890Z"
             }
           ],
           "description": null,
@@ -385,7 +407,8 @@
                     "owner": "Pulover",
                     "repo": "CbAutoComplete",
                     "stars": 27
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:54:56.890Z"
                 }
               ],
               "description": null,
@@ -407,7 +430,8 @@
                     "owner": "Pulover",
                     "repo": "Class_Toolbar",
                     "stars": 38
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:54:56.890Z"
                 },
                 {
                   "node_type": "item",
@@ -422,7 +446,8 @@
                     "owner": "Pulover",
                     "repo": "Class_Rebar",
                     "stars": 16
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:54:56.890Z"
                 }
               ],
               "description": null,
@@ -444,7 +469,8 @@
                     "owner": "cocobelgica",
                     "repo": "AutoHotkey-Util",
                     "stars": 104
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:54:56.890Z"
                 },
                 {
                   "node_type": "item",
@@ -459,7 +485,8 @@
                     "owner": "AHK-just-me",
                     "repo": "Class_ScrollGUI",
                     "stars": 22
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:54:56.890Z"
                 },
                 {
                   "node_type": "item",
@@ -474,7 +501,8 @@
                     "owner": "lipkau",
                     "repo": "CGUI",
                     "stars": 19
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:54:56.890Z"
                 },
                 {
                   "node_type": "item",
@@ -489,7 +517,8 @@
                     "owner": "AHK-just-me",
                     "repo": "TaskDialog",
                     "stars": 11
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:54:56.890Z"
                 }
               ],
               "description": null,
@@ -511,7 +540,8 @@
                     "owner": "AHK-just-me",
                     "repo": "LBEX",
                     "stars": 20
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:54:56.890Z"
                 },
                 {
                   "node_type": "item",
@@ -526,7 +556,8 @@
                     "owner": "AHK-just-me",
                     "repo": "Class_TransparentListBox",
                     "stars": 15
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:54:56.890Z"
                 }
               ],
               "description": null,
@@ -548,7 +579,8 @@
                     "owner": "AHK-just-me",
                     "repo": "Class_LV_Colors",
                     "stars": 30
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:54:56.890Z"
                 },
                 {
                   "node_type": "item",
@@ -563,7 +595,8 @@
                     "owner": "Pulover",
                     "repo": "Class_LV_Rows",
                     "stars": 17
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:54:56.890Z"
                 },
                 {
                   "node_type": "item",
@@ -578,7 +611,8 @@
                     "owner": "AHK-just-me",
                     "repo": "LV_EX",
                     "stars": 16
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:54:56.890Z"
                 },
                 {
                   "node_type": "item",
@@ -593,7 +627,8 @@
                     "owner": "AHK-just-me",
                     "repo": "Class_LV_InCellEdit",
                     "stars": 13
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:54:56.890Z"
                 }
               ],
               "description": null,
@@ -615,7 +650,8 @@
                     "owner": "G33kDude",
                     "repo": "Neutron.ahk",
                     "stars": 240
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:54:56.890Z"
                 }
               ],
               "description": null,
@@ -642,7 +678,8 @@
                 "owner": "Pulover",
                 "repo": "Eval",
                 "stars": 31
-              }
+              },
+              "first_seen": "2026-08-29T01:54:56.890Z"
             }
           ],
           "description": null,
@@ -664,7 +701,8 @@
                 "owner": "Kalamity",
                 "repo": "classMemory",
                 "stars": 71
-              }
+              },
+              "first_seen": "2026-08-29T01:54:56.890Z"
             }
           ],
           "description": null,
@@ -686,7 +724,8 @@
                 "owner": "G33kDude",
                 "repo": "Chrome.ahk",
                 "stars": 394
-              }
+              },
+              "first_seen": "2026-08-29T01:54:56.890Z"
             },
             {
               "node_type": "item",
@@ -701,7 +740,8 @@
                 "owner": "G33kDude",
                 "repo": "WebSocket.ahk",
                 "stars": 86
-              }
+              },
+              "first_seen": "2026-08-29T01:54:56.890Z"
             },
             {
               "node_type": "item",
@@ -716,7 +756,8 @@
                 "owner": "zhamlin",
                 "repo": "AHKhttp",
                 "stars": 85
-              }
+              },
+              "first_seen": "2026-08-29T01:54:56.890Z"
             },
             {
               "node_type": "item",
@@ -731,7 +772,8 @@
                 "owner": "jleb",
                 "repo": "AHKsock",
                 "stars": 83
-              }
+              },
+              "first_seen": "2026-08-29T01:54:56.890Z"
             },
             {
               "node_type": "item",
@@ -746,7 +788,8 @@
                 "owner": "G33kDude",
                 "repo": "Socket.ahk",
                 "stars": 71
-              }
+              },
+              "first_seen": "2026-08-29T01:54:56.890Z"
             },
             {
               "node_type": "item",
@@ -761,7 +804,8 @@
                 "owner": "Xeo786",
                 "repo": "Rufaydium-Webdriver",
                 "stars": 30
-              }
+              },
+              "first_seen": "2026-08-29T01:54:56.890Z"
             },
             {
               "node_type": "item",
@@ -776,7 +820,8 @@
                 "owner": "lipkau",
                 "repo": "WinSCP.ahk",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-29T01:54:56.890Z"
             },
             {
               "node_type": "item",
@@ -791,7 +836,8 @@
                 "owner": "jNizM",
                 "repo": "Class_FTP",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-29T01:54:56.890Z"
             }
           ],
           "description": null,
@@ -813,7 +859,8 @@
                 "owner": "nnnik",
                 "repo": "gdiChartLib",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-29T01:54:56.890Z"
             },
             {
               "node_type": "item",
@@ -828,7 +875,8 @@
                 "owner": "CapnOdin",
                 "repo": "SVGraph",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-29T01:54:56.890Z"
             }
           ],
           "description": null,
@@ -850,7 +898,8 @@
                 "owner": "ahkscript",
                 "repo": "VistaAudio",
                 "stars": 27
-              }
+              },
+              "first_seen": "2026-08-29T01:54:56.890Z"
             }
           ],
           "description": null,
@@ -872,7 +921,8 @@
                 "owner": "hi5",
                 "repo": "TF",
                 "stars": 143
-              }
+              },
+              "first_seen": "2026-08-29T01:54:56.890Z"
             }
           ],
           "description": null,
@@ -898,7 +948,8 @@
             "owner": "rshipp",
             "repo": "ahk-libs",
             "stars": 161
-          }
+          },
+          "first_seen": "2026-08-29T01:54:56.890Z"
         },
         {
           "node_type": "item",
@@ -913,7 +964,8 @@
             "owner": "ahkscript",
             "repo": "ASPDM",
             "stars": 67
-          }
+          },
+          "first_seen": "2026-08-29T01:54:56.890Z"
         },
         {
           "node_type": "item",
@@ -928,7 +980,8 @@
             "owner": "hi5",
             "repo": "pAHKlight",
             "stars": 40
-          }
+          },
+          "first_seen": "2026-08-29T01:54:56.890Z"
         }
       ],
       "title": "Library Distributions"
@@ -951,7 +1004,8 @@
                 "owner": "aviaryan",
                 "repo": "Clipjump",
                 "stars": 397
-              }
+              },
+              "first_seen": "2026-08-29T01:54:56.890Z"
             },
             {
               "node_type": "item",
@@ -966,7 +1020,8 @@
                 "owner": "hi5",
                 "repo": "CL3",
                 "stars": 101
-              }
+              },
+              "first_seen": "2026-08-29T01:54:56.890Z"
             },
             {
               "node_type": "item",
@@ -981,7 +1036,8 @@
                 "owner": "536",
                 "repo": "my-startup-ahk-scripts",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-29T01:54:56.890Z"
             }
           ],
           "description": null,
@@ -1003,7 +1059,8 @@
                 "owner": "adampash",
                 "repo": "belvedere",
                 "stars": 170
-              }
+              },
+              "first_seen": "2026-08-29T01:54:56.890Z"
             },
             {
               "node_type": "item",
@@ -1018,7 +1075,8 @@
                 "owner": "JnLlnd",
                 "repo": "QuickAccessPopup",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-29T01:54:56.890Z"
             }
           ],
           "description": null,
@@ -1040,7 +1098,8 @@
                 "owner": "marius-sucan",
                 "repo": "KeyPress-OSD",
                 "stars": 413
-              }
+              },
+              "first_seen": "2026-08-29T01:54:56.890Z"
             },
             {
               "node_type": "item",
@@ -1055,7 +1114,8 @@
                 "owner": "Uberi",
                 "repo": "Autocomplete",
                 "stars": 218
-              }
+              },
+              "first_seen": "2026-08-29T01:54:56.890Z"
             },
             {
               "node_type": "item",
@@ -1070,7 +1130,8 @@
                 "owner": "ManiacDC",
                 "repo": "TypingAid",
                 "stars": 159
-              }
+              },
+              "first_seen": "2026-08-29T01:54:56.890Z"
             },
             {
               "node_type": "item",
@@ -1085,7 +1146,8 @@
                 "owner": "almogtavor",
                 "repo": "static-hands",
                 "stars": 77
-              }
+              },
+              "first_seen": "2026-08-29T01:54:56.890Z"
             },
             {
               "node_type": "item",
@@ -1100,7 +1162,8 @@
                 "owner": "tiuub",
                 "repo": "DateHotkey",
                 "stars": 23
-              }
+              },
+              "first_seen": "2026-08-29T01:54:56.890Z"
             }
           ],
           "description": null,
@@ -1122,7 +1185,8 @@
                 "owner": "fuhsjr00",
                 "repo": "bug.n",
                 "stars": 3435
-              }
+              },
+              "first_seen": "2026-08-29T01:54:56.890Z"
             },
             {
               "node_type": "item",
@@ -1137,7 +1201,8 @@
                 "owner": "hoppfrosch",
                 "repo": "WindowPadX",
                 "stars": 233
-              }
+              },
+              "first_seen": "2026-08-29T01:54:56.890Z"
             },
             {
               "node_type": "item",
@@ -1152,7 +1217,8 @@
                 "owner": "JuanmaMenendez",
                 "repo": "AutoHotkey-script-Open-Show-Apps",
                 "stars": 148
-              }
+              },
+              "first_seen": "2026-08-29T01:54:56.890Z"
             },
             {
               "node_type": "item",
@@ -1167,7 +1233,8 @@
                 "owner": "benallred",
                 "repo": "SnapX",
                 "stars": 43
-              }
+              },
+              "first_seen": "2026-08-29T01:54:56.890Z"
             }
           ],
           "description": null,
@@ -1189,7 +1256,8 @@
                 "owner": "Uberi",
                 "repo": "ProgressPlatformer",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-29T01:54:56.890Z"
             },
             {
               "node_type": "item",
@@ -1204,7 +1272,8 @@
                 "owner": "Uberi",
                 "repo": "Ludum-Dare-24",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-29T01:54:56.890Z"
             },
             {
               "node_type": "item",
@@ -1219,7 +1288,8 @@
                 "owner": "flibioahk",
                 "repo": "ishido",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-29T01:54:56.890Z"
             },
             {
               "node_type": "item",
@@ -1234,7 +1304,8 @@
                 "owner": "bichlepa",
                 "repo": "PABI-Logical",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-29T01:54:56.890Z"
             }
           ],
           "description": null,
@@ -1262,7 +1333,8 @@
                 "owner": "phil294",
                 "repo": "AHK_X11",
                 "stars": 1022
-              }
+              },
+              "first_seen": "2026-08-29T01:54:56.890Z"
             },
             {
               "node_type": "item",
@@ -1277,7 +1349,8 @@
                 "owner": "Paris",
                 "repo": "IronAHK",
                 "stars": 415
-              }
+              },
+              "first_seen": "2026-08-29T01:54:56.890Z"
             },
             {
               "node_type": "item",
@@ -1292,7 +1365,8 @@
                 "owner": "HotKeyIt",
                 "repo": "ahkdll-v1-release",
                 "stars": 69
-              }
+              },
+              "first_seen": "2026-08-29T01:54:56.890Z"
             }
           ],
           "description": null,
@@ -1314,7 +1388,8 @@
                 "owner": "Uberi",
                 "repo": "Yunit",
                 "stars": 56
-              }
+              },
+              "first_seen": "2026-08-29T01:54:56.890Z"
             },
             {
               "node_type": "item",
@@ -1329,7 +1404,8 @@
                 "owner": "AfterLemon",
                 "repo": "Class_Console",
                 "stars": 19
-              }
+              },
+              "first_seen": "2026-08-29T01:54:56.890Z"
             }
           ],
           "description": null,
@@ -1351,7 +1427,8 @@
                 "owner": "ahkscript",
                 "repo": "SublimeAutoHotkey",
                 "stars": 212
-              }
+              },
+              "first_seen": "2026-08-29T01:54:56.890Z"
             },
             {
               "node_type": "item",
@@ -1366,7 +1443,8 @@
                 "owner": "bichlepa",
                 "repo": "AutoHotFlow",
                 "stars": 73
-              }
+              },
+              "first_seen": "2026-08-29T01:54:56.890Z"
             },
             {
               "node_type": "item",
@@ -1381,7 +1459,8 @@
                 "owner": "huleiak47",
                 "repo": "vim-AHKcomplete",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-29T01:54:56.890Z"
             },
             {
               "node_type": "item",
@@ -1396,7 +1475,8 @@
                 "owner": "vim-scripts",
                 "repo": "autohotkey-ahk",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-29T01:54:56.890Z"
             }
           ],
           "description": null,
@@ -1417,8 +1497,9 @@
                 "last_commit": "2022-07-25T14:05:26Z",
                 "owner": "Pulover",
                 "repo": "PuloversMacroCreator",
-                "stars": 2017
-              }
+                "stars": 2018
+              },
+              "first_seen": "2026-08-29T01:54:56.890Z"
             }
           ],
           "description": null,
@@ -1440,7 +1521,8 @@
                 "owner": "aviaryan",
                 "repo": "highlighter-ahk-zenburn",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-29T01:54:56.890Z"
             }
           ],
           "description": null,
@@ -1462,7 +1544,8 @@
                 "owner": "joedf",
                 "repo": "AEI.ahk",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-29T01:54:56.890Z"
             }
           ],
           "description": null,
@@ -1484,7 +1567,8 @@
                 "owner": "spyoungtech",
                 "repo": "ahk",
                 "stars": 1031
-              }
+              },
+              "first_seen": "2026-08-29T01:54:56.890Z"
             },
             {
               "node_type": "item",
@@ -1499,7 +1583,8 @@
                 "owner": "Aurelain",
                 "repo": "Exo",
                 "stars": 116
-              }
+              },
+              "first_seen": "2026-08-29T01:54:56.890Z"
             },
             {
               "node_type": "item",
@@ -1514,7 +1599,8 @@
                 "owner": "Perlence",
                 "repo": "AutoHotkey.py",
                 "stars": 82
-              }
+              },
+              "first_seen": "2026-08-29T01:54:56.890Z"
             }
           ],
           "description": null,
@@ -1526,7 +1612,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T02:21:01.029Z",
+    "last_updated": "2026-08-29T01:54:56.890Z",
     "original_repository_info": {
       "archived": false,
       "id": 22615356,
@@ -1534,7 +1620,7 @@
       "last_commit": "2023-01-24T23:51:33Z",
       "owner": "ahkscript",
       "repo": "awesome-AutoHotkey",
-      "stars": 3071
+      "stars": 3072
     },
     "original_repository_sha": "a46e9a2072a74742ad2386f48a907beb0e2515d1",
     "enhanced_repository": "enhansome/enhansome-AutoHotkey",
