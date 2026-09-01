@@ -78,7 +78,7 @@ Development state:
 
 ### <a name="libraries-data-format"></a>Data format
 
-* [AutoHotkey-JSON](https://github.com/cocobelgica/AutoHotkey-JSON) ⭐ 287 | 🐛 24 | 🌐 AutoHotkey | 📅 2020-10-26 - by cocobelgica - JSON lib for AutoHotkey. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6\&t=627).
+* [AutoHotkey-JSON](https://github.com/cocobelgica/AutoHotkey-JSON) ⭐ 288 | 🐛 24 | 🌐 AutoHotkey | 📅 2020-10-26 - by cocobelgica - JSON lib for AutoHotkey. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6\&t=627).
 * [CSV](https://github.com/hi5/CSV) ⭐ 58 | 🐛 2 | 🌐 AutoHotkey | 📅 2022-09-25 - by trueski/kdoske - Library to work with CSV files and Listview functions. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6\&t=34853).
 * [ObjCSV](https://github.com/JnLlnd/ObjCSV/) ⭐ 32 | 🐛 3 | 🌐 AutoHotkey | 📅 2022-10-24 - by JnLlnd - Library to load/save CSV files to Objects and  and Listview functions. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6\&t=41).
 * [SerDes](https://github.com/cocobelgica/AutoHotkey-SerDes) ⭐ 15 | 🐛 2 | 🌐 AutoHotkey | 📅 2014-09-18 - by cocobelgica - Serialize / de-serialize an AutoHotkey object structure. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6\&t=4212).
@@ -184,7 +184,7 @@ Development state:
 
 * [Chrome.ahk](https://github.com/G33kDude/Chrome.ahk) ⭐ 393 | 🐛 17 | 🌐 AutoHotkey | 📅 2023-05-03 - by G33kDude - Automate Google Chrome using native AutoHotkey - Forum [link](https://www.autohotkey.com/boards/viewtopic.php?t=42890)
 * [WebSocket.ahk](https://github.com/G33kDude/WebSocket.ahk) ⭐ 86 | 🐛 5 | 🌐 AutoHotkey | 📅 2023-03-24 - by GeekDude - Class based WebSocket library - Forum [link](https://autohotkey.com/boards/viewtopic.php?f=6\&t=35117)
-* [AHKhttp](https://github.com/Skiouros/AHKhttp) ⭐ 85 | 🐛 8 | 🌐 AutoHotkey | 📅 2023-11-22 - Basic HTTP Server. Forum [link](https://autohotkey.com/boards/viewtopic.php?f=6\&t=4890)
+* [AHKhttp](https://github.com/Skiouros/AHKhttp) ⭐ 85 | 🐛 7 | 🌐 AutoHotkey | 📅 2023-11-22 - Basic HTTP Server. Forum [link](https://autohotkey.com/boards/viewtopic.php?f=6\&t=4890)
 * [AHKsock](https://github.com/jleb/AHKsock) ⭐ 83 | 🐛 4 | 🌐 AutoHotkey | 📅 2016-12-04 - by TheGood - Function based sockets library. Supports TCP. Forum [link](https://autohotkey.com/board/topic/53827-ahksock-a-simple-ahk-implementation-of-winsock-tcpip/)
 * [Socket.ahk](https://github.com/G33kDude/Socket.ahk) ⭐ 71 | 🐛 5 | 🌐 AutoHotkey | 📅 2017-06-26 - by GeekDude - Socket library based on Bentschi's - Forum [link](https://autohotkey.com/boards/viewtopic.php?f=6\&t=35120)
 * [Rufaydium WebDriver](https://github.com/Xeo786/Rufaydium-Webdriver) ⭐ 30 | 🐛 6 | 🌐 AutoHotkey | 📅 2024-03-05 - by Xeo786 - Webdriver Library to support any Chromium based browser only requiring webdriver (no selenium/websocket) - Forum [link](https://www.autohotkey.com/boards/viewtopic.php?f=6\&p=457302)
@@ -333,7 +333,7 @@ Development state:
 
 ### Script Recorders and Writers
 
-* [Pulover’s Macro Creator](http://www.macrocreator.com/) - a Free Automation Tool and Script Generator. Recommended for beginners. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6\&t=143). GitHub [link](https://github.com/Pulover/PuloversMacroCreator) ⭐ 2,019 | 🐛 85 | 🌐 AutoHotkey | 📅 2022-07-25.
+* [Pulover’s Macro Creator](http://www.macrocreator.com/) - a Free Automation Tool and Script Generator. Recommended for beginners. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6\&t=143). GitHub [link](https://github.com/Pulover/PuloversMacroCreator) ⭐ 2,021 | 🐛 85 | 🌐 AutoHotkey | 📅 2022-07-25.
 
 ### Web Syntax Highlighters
 
@@ -393,7 +393,7 @@ Development state:
 
 ### Documentation
 
-* [Official documentation](https://autohotkey.com/docs/AutoHotkey.htm) - Official uptodate AutoHotkey documentation. GitHub [link](https://github.com/Lexikos/AutoHotkey_L-Docs) ⭐ 492 | 🐛 0 | 🌐 AutoHotkey | 📅 2026-08-28.
+* [Official documentation](https://autohotkey.com/docs/AutoHotkey.htm) - Official uptodate AutoHotkey documentation. GitHub [link](https://github.com/Lexikos/AutoHotkey_L-Docs) ⭐ 492 | 🐛 0 | 🌐 AutoHotkey | 📅 2026-09-01.
 
 ### Books
 
@@ -425,4 +425,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._

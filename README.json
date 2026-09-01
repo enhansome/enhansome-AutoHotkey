@@ -76,7 +76,7 @@
                 "open_issues": 24,
                 "owner": "cocobelgica",
                 "repo": "AutoHotkey-JSON",
-                "stars": 287,
+                "stars": 288,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:54:56.890Z"
@@ -999,7 +999,7 @@
                 "language": "AutoHotkey",
                 "license": "GPL-2.0",
                 "last_commit": "2023-11-22T08:46:19Z",
-                "open_issues": 8,
+                "open_issues": 7,
                 "owner": "zhamlin",
                 "repo": "AHKhttp",
                 "stars": 85,
@@ -2043,7 +2043,7 @@
                 "open_issues": 85,
                 "owner": "Pulover",
                 "repo": "PuloversMacroCreator",
-                "stars": 2019,
+                "stars": 2021,
                 "topics": [
                   "ahk",
                   "autohotkey",
@@ -2206,7 +2206,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T23:02:18.407Z",
+    "last_updated": "2026-09-01T21:21:48.679Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome AutoHotkey libraries, library distributions, scripts, tools and resources.",
