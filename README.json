@@ -1825,7 +1825,7 @@
                 "open_issues": 40,
                 "owner": "phil294",
                 "repo": "AHK_X11",
-                "stars": 1023,
+                "stars": 1024,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:54:56.890Z"
@@ -2206,7 +2206,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T21:22:22.751Z",
+    "last_updated": "2026-09-04T21:03:12.253Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome AutoHotkey libraries, library distributions, scripts, tools and resources.",
