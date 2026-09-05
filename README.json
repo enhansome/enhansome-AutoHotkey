@@ -1542,7 +1542,7 @@
                 "open_issues": 56,
                 "owner": "ManiacDC",
                 "repo": "TypingAid",
-                "stars": 159,
+                "stars": 160,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:54:56.890Z"
@@ -1623,7 +1623,7 @@
                 "open_issues": 119,
                 "owner": "fuhsjr00",
                 "repo": "bug.n",
-                "stars": 3434,
+                "stars": 3435,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:54:56.890Z"
@@ -2206,7 +2206,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T21:03:12.253Z",
+    "last_updated": "2026-09-05T20:43:28.547Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome AutoHotkey libraries, library distributions, scripts, tools and resources.",
