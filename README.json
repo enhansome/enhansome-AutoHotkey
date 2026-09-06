@@ -477,27 +477,6 @@
             },
             {
               "node_type": "item",
-              "title": "GDIp",
-              "description": "by tic - Full featured library that helps in interaction with Microsoft's gdiplus.dll - Forum thread: link.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Official GDI+ library for Autohotkey",
-                "homepage": null,
-                "id": 31276035,
-                "language": "AutoHotkey",
-                "license": null,
-                "last_commit": "2019-03-05T22:07:27Z",
-                "open_issues": 5,
-                "owner": "tariqporter",
-                "repo": "Gdip",
-                "stars": 158,
-                "topics": []
-              },
-              "first_seen": "2026-08-29T01:54:56.890Z"
-            },
-            {
-              "node_type": "item",
               "title": "AHKv2-GDIP",
               "description": "Update of the above GDI+ library compatiable with both AHK v1.1 and AHK v2 - Forum thread: link.",
               "children": [],
@@ -512,6 +491,27 @@
                 "open_issues": 9,
                 "owner": "mmikeww",
                 "repo": "AHKv2-Gdip",
+                "stars": 159,
+                "topics": []
+              },
+              "first_seen": "2026-08-29T01:54:56.890Z"
+            },
+            {
+              "node_type": "item",
+              "title": "GDIp",
+              "description": "by tic - Full featured library that helps in interaction with Microsoft's gdiplus.dll - Forum thread: link.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Official GDI+ library for Autohotkey",
+                "homepage": null,
+                "id": 31276035,
+                "language": "AutoHotkey",
+                "license": null,
+                "last_commit": "2019-03-05T22:07:27Z",
+                "open_issues": 5,
+                "owner": "tariqporter",
+                "repo": "Gdip",
                 "stars": 158,
                 "topics": []
               },
@@ -2206,7 +2206,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T20:43:28.547Z",
+    "last_updated": "2026-09-06T20:51:19.549Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome AutoHotkey libraries, library distributions, scripts, tools and resources.",
