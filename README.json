@@ -1452,7 +1452,7 @@
                 "open_issues": 29,
                 "owner": "JnLlnd",
                 "repo": "QuickAccessPopup",
-                "stars": 6,
+                "stars": 7,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:54:56.890Z"
@@ -2043,7 +2043,7 @@
                 "open_issues": 85,
                 "owner": "Pulover",
                 "repo": "PuloversMacroCreator",
-                "stars": 2022,
+                "stars": 2024,
                 "topics": [
                   "ahk",
                   "autohotkey",
@@ -2206,7 +2206,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T20:51:19.549Z",
+    "last_updated": "2026-09-07T21:47:10.692Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome AutoHotkey libraries, library distributions, scripts, tools and resources.",
