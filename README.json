@@ -1480,7 +1480,7 @@
                 "open_issues": 2,
                 "owner": "marius-sucan",
                 "repo": "KeyPress-OSD",
-                "stars": 414,
+                "stars": 413,
                 "topics": [
                   "ahk",
                   "autohotkey",
@@ -2043,7 +2043,7 @@
                 "open_issues": 85,
                 "owner": "Pulover",
                 "repo": "PuloversMacroCreator",
-                "stars": 2024,
+                "stars": 2022,
                 "topics": [
                   "ahk",
                   "autohotkey",
@@ -2206,7 +2206,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T21:47:10.692Z",
+    "last_updated": "2026-09-08T21:26:22.040Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome AutoHotkey libraries, library distributions, scripts, tools and resources.",
@@ -2218,7 +2218,7 @@
       "open_issues": 26,
       "owner": "ahkscript",
       "repo": "awesome-AutoHotkey",
-      "stars": 3076,
+      "stars": 3075,
       "topics": []
     },
     "original_repository_sha": "a46e9a2072a74742ad2386f48a907beb0e2515d1",
