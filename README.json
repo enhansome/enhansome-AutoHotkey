@@ -1623,7 +1623,7 @@
                 "open_issues": 119,
                 "owner": "fuhsjr00",
                 "repo": "bug.n",
-                "stars": 3435,
+                "stars": 3436,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:54:56.890Z"
@@ -2139,7 +2139,7 @@
                 "open_issues": 12,
                 "owner": "spyoungtech",
                 "repo": "ahk",
-                "stars": 1032,
+                "stars": 1031,
                 "topics": [
                   "ahk-script",
                   "asyncio",
@@ -2206,7 +2206,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T21:26:22.040Z",
+    "last_updated": "2026-09-09T21:13:46.913Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome AutoHotkey libraries, library distributions, scripts, tools and resources.",
