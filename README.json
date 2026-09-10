@@ -443,7 +443,7 @@
                 "open_issues": 14,
                 "owner": "iseahound",
                 "repo": "ImagePut",
-                "stars": 230,
+                "stars": 231,
                 "topics": [
                   "image-processing",
                   "pixelsearch",
@@ -640,7 +640,7 @@
                     "open_issues": 4,
                     "owner": "cocobelgica",
                     "repo": "AutoHotkey-Util",
-                    "stars": 104,
+                    "stars": 105,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:54:56.890Z"
@@ -2043,7 +2043,7 @@
                 "open_issues": 85,
                 "owner": "Pulover",
                 "repo": "PuloversMacroCreator",
-                "stars": 2022,
+                "stars": 2021,
                 "topics": [
                   "ahk",
                   "autohotkey",
@@ -2139,7 +2139,7 @@
                 "open_issues": 12,
                 "owner": "spyoungtech",
                 "repo": "ahk",
-                "stars": 1031,
+                "stars": 1032,
                 "topics": [
                   "ahk-script",
                   "asyncio",
@@ -2206,7 +2206,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T21:13:46.913Z",
+    "last_updated": "2026-09-10T21:13:05.575Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome AutoHotkey libraries, library distributions, scripts, tools and resources.",
@@ -2218,7 +2218,7 @@
       "open_issues": 26,
       "owner": "ahkscript",
       "repo": "awesome-AutoHotkey",
-      "stars": 3075,
+      "stars": 3076,
       "topics": []
     },
     "original_repository_sha": "a46e9a2072a74742ad2386f48a907beb0e2515d1",
