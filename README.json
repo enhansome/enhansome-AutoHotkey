@@ -2206,7 +2206,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T21:13:05.575Z",
+    "last_updated": "2026-09-11T21:20:26.272Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome AutoHotkey libraries, library distributions, scripts, tools and resources.",
@@ -2218,7 +2218,7 @@
       "open_issues": 26,
       "owner": "ahkscript",
       "repo": "awesome-AutoHotkey",
-      "stars": 3076,
+      "stars": 3077,
       "topics": []
     },
     "original_repository_sha": "a46e9a2072a74742ad2386f48a907beb0e2515d1",
