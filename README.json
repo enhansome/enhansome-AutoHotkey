@@ -1264,7 +1264,7 @@
             "open_issues": 0,
             "owner": "rshipp",
             "repo": "ahk-libs",
-            "stars": 161,
+            "stars": 162,
             "topics": [
               "ahk",
               "ahk-library",
@@ -1431,7 +1431,7 @@
                 "open_issues": 13,
                 "owner": "adampash",
                 "repo": "belvedere",
-                "stars": 170,
+                "stars": 171,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:54:56.890Z"
@@ -1623,7 +1623,7 @@
                 "open_issues": 119,
                 "owner": "fuhsjr00",
                 "repo": "bug.n",
-                "stars": 3435,
+                "stars": 3434,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:54:56.890Z"
@@ -1665,7 +1665,7 @@
                 "open_issues": 7,
                 "owner": "JuanmaMenendez",
                 "repo": "AutoHotkey-script-Open-Show-Apps",
-                "stars": 148,
+                "stars": 149,
                 "topics": [
                   "application",
                   "autohotkey",
@@ -2206,7 +2206,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T21:08:19.107Z",
+    "last_updated": "2026-09-14T22:05:00.011Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome AutoHotkey libraries, library distributions, scripts, tools and resources.",
@@ -2218,7 +2218,7 @@
       "open_issues": 26,
       "owner": "ahkscript",
       "repo": "awesome-AutoHotkey",
-      "stars": 3077,
+      "stars": 3080,
       "topics": []
     },
     "original_repository_sha": "a46e9a2072a74742ad2386f48a907beb0e2515d1",
