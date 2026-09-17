@@ -1,8 +1,8 @@
 # Awesome AutoHotkey with stars
 
-A curated list of awesome [AutoHotkey](https://autohotkey.com/) libraries, library distributions, scripts, tools and resources. Inspired by the other [awesome lists](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,675 | 🐛 65 | 🌐 Ruby | 📅 2024-06-02. Please read [CONTRIBUTING.md](https://github.com/ahkscript/awesome-AutoHotkey/blob/master/.github/CONTRIBUTING.md) ⭐ 3,083 | 🐛 26 | 📅 2023-01-24 before contributing.
+A curated list of awesome [AutoHotkey](https://autohotkey.com/) libraries, library distributions, scripts, tools and resources. Inspired by the other [awesome lists](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,679 | 🐛 65 | 🌐 Ruby | 📅 2024-06-02. Please read [CONTRIBUTING.md](https://github.com/ahkscript/awesome-AutoHotkey/blob/master/.github/CONTRIBUTING.md) ⭐ 3,085 | 🐛 26 | 📅 2023-01-24 before contributing.
 
-Out-of-date or discontinued, but nonetheless historically relevant items can be found on [Historical.md](https://github.com/ahkscript/awesome-AutoHotkey/blob/master/Historical.md) ⭐ 3,083 | 🐛 26 | 📅 2023-01-24
+Out-of-date or discontinued, but nonetheless historically relevant items can be found on [Historical.md](https://github.com/ahkscript/awesome-AutoHotkey/blob/master/Historical.md) ⭐ 3,085 | 🐛 26 | 📅 2023-01-24
 
 Development state:
 [![Build Status](https://travis-ci.org/ahkscript/awesome-AutoHotkey.svg)](https://travis-ci.org/ahkscript/awesome-AutoHotkey) [![awesome\_bot](https://img.shields.io/badge/PoweredBy-awesome_bot-yellow.svg)](https://github.com/dkhamsing/awesome_bot) ⭐ 897 | 🐛 11 | 🌐 Ruby | 📅 2023-04-20
@@ -156,7 +156,7 @@ Development state:
 
 #### Web
 
-* [Neutron](https://github.com/G33kDude/Neutron.ahk/) ⭐ 241 | 🐛 21 | 🌐 AutoHotkey | 📅 2023-12-15 - by G33kDude - Set of tools for build HTML-based user interfaces with AutoHotkey. Forum thread: [link](https://www.autohotkey.com/boards/viewtopic.php?f=6\&t=76865)
+* [Neutron](https://github.com/G33kDude/Neutron.ahk/) ⭐ 242 | 🐛 21 | 🌐 AutoHotkey | 📅 2023-12-15 - by G33kDude - Set of tools for build HTML-based user interfaces with AutoHotkey. Forum thread: [link](https://www.autohotkey.com/boards/viewtopic.php?f=6\&t=76865)
 
 ### Hotkeys
 
@@ -333,7 +333,7 @@ Development state:
 
 ### Script Recorders and Writers
 
-* [Pulover’s Macro Creator](http://www.macrocreator.com/) - a Free Automation Tool and Script Generator. Recommended for beginners. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6\&t=143). GitHub [link](https://github.com/Pulover/PuloversMacroCreator) ⭐ 2,022 | 🐛 85 | 🌐 AutoHotkey | 📅 2022-07-25.
+* [Pulover’s Macro Creator](http://www.macrocreator.com/) - a Free Automation Tool and Script Generator. Recommended for beginners. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6\&t=143). GitHub [link](https://github.com/Pulover/PuloversMacroCreator) ⭐ 2,023 | 🐛 85 | 🌐 AutoHotkey | 📅 2022-07-25.
 
 ### Web Syntax Highlighters
 
@@ -393,7 +393,7 @@ Development state:
 
 ### Documentation
 
-* [Official documentation](https://autohotkey.com/docs/AutoHotkey.htm) - Official uptodate AutoHotkey documentation. GitHub [link](https://github.com/Lexikos/AutoHotkey_L-Docs) ⭐ 495 | 🐛 0 | 🌐 AutoHotkey | 📅 2026-09-15.
+* [Official documentation](https://autohotkey.com/docs/AutoHotkey.htm) - Official uptodate AutoHotkey documentation. GitHub [link](https://github.com/Lexikos/AutoHotkey_L-Docs) ⭐ 495 | 🐛 0 | 🌐 AutoHotkey | 📅 2026-09-17.
 
 ### Books
 
@@ -425,4 +425,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._

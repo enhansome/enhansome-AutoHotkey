@@ -871,7 +871,7 @@
                     "open_issues": 21,
                     "owner": "G33kDude",
                     "repo": "Neutron.ahk",
-                    "stars": 241,
+                    "stars": 242,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:54:56.890Z"
@@ -2043,7 +2043,7 @@
                 "open_issues": 85,
                 "owner": "Pulover",
                 "repo": "PuloversMacroCreator",
-                "stars": 2022,
+                "stars": 2023,
                 "topics": [
                   "ahk",
                   "autohotkey",
@@ -2206,7 +2206,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T21:43:55.358Z",
+    "last_updated": "2026-09-17T21:47:19.010Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome AutoHotkey libraries, library distributions, scripts, tools and resources.",
@@ -2218,7 +2218,7 @@
       "open_issues": 26,
       "owner": "ahkscript",
       "repo": "awesome-AutoHotkey",
-      "stars": 3083,
+      "stars": 3085,
       "topics": []
     },
     "original_repository_sha": "a46e9a2072a74742ad2386f48a907beb0e2515d1",
