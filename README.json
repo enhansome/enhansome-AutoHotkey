@@ -1599,6 +1599,34 @@
                 "topics": []
               },
               "first_seen": "2026-08-29T01:54:56.890Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Layout Switch",
+              "description": "Shows the keyboard-layout code (EN, DE, …) in a badge right under the text caret on every layout change, like macOS' input source indicator, and cycles through a chosen list of languages with a macOS-style hotkey. Works over Win+S and the Start menu, follows the system accent colour, per-monitor DPI aware.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Keyboard-layout badge under the caret and macOS-style language cycling for Windows (AutoHotkey)",
+                "homepage": null,
+                "id": 1375628030,
+                "language": "AutoHotkey",
+                "license": "MIT",
+                "last_commit": "2026-09-18T10:47:03Z",
+                "open_issues": 0,
+                "owner": "shokurov",
+                "repo": "ahk-layout-switch",
+                "stars": 1,
+                "topics": [
+                  "autohotkey",
+                  "input-method",
+                  "keyboard-layout",
+                  "macos",
+                  "touch-typing",
+                  "windows"
+                ]
+              },
+              "first_seen": "2026-09-18T21:16:23.285Z"
             }
           ],
           "description": null,
@@ -1825,7 +1853,7 @@
                 "open_issues": 40,
                 "owner": "phil294",
                 "repo": "AHK_X11",
-                "stars": 1024,
+                "stars": 1025,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:54:56.890Z"
@@ -2139,7 +2167,7 @@
                 "open_issues": 12,
                 "owner": "spyoungtech",
                 "repo": "ahk",
-                "stars": 1032,
+                "stars": 1033,
                 "topics": [
                   "ahk-script",
                   "asyncio",
@@ -2206,7 +2234,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T21:47:19.010Z",
+    "last_updated": "2026-09-18T21:16:23.285Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome AutoHotkey libraries, library distributions, scripts, tools and resources.",
@@ -2214,14 +2242,14 @@
       "id": 22615356,
       "language": null,
       "license": null,
-      "last_commit": "2023-01-24T23:51:33Z",
-      "open_issues": 26,
+      "last_commit": "2026-09-18T10:25:42Z",
+      "open_issues": 27,
       "owner": "ahkscript",
       "repo": "awesome-AutoHotkey",
-      "stars": 3085,
+      "stars": 3086,
       "topics": []
     },
-    "original_repository_sha": "a46e9a2072a74742ad2386f48a907beb0e2515d1",
+    "original_repository_sha": "ca133c50f8621c8ffb74627a7e466f850bac2f48",
     "enhanced_repository": "enhansome/enhansome-AutoHotkey",
     "enhanced_repository_description": null,
     "title": "Awesome AutoHotkey with stars"

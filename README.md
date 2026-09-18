@@ -1,8 +1,8 @@
 # Awesome AutoHotkey with stars
 
-A curated list of awesome [AutoHotkey](https://autohotkey.com/) libraries, library distributions, scripts, tools and resources. Inspired by the other [awesome lists](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,679 | 🐛 65 | 🌐 Ruby | 📅 2024-06-02. Please read [CONTRIBUTING.md](https://github.com/ahkscript/awesome-AutoHotkey/blob/master/.github/CONTRIBUTING.md) ⭐ 3,085 | 🐛 26 | 📅 2023-01-24 before contributing.
+A curated list of awesome [AutoHotkey](https://autohotkey.com/) libraries, library distributions, scripts, tools and resources. Inspired by the other [awesome lists](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,681 | 🐛 65 | 🌐 Ruby | 📅 2024-06-02. Please read [CONTRIBUTING.md](https://github.com/ahkscript/awesome-AutoHotkey/blob/master/.github/CONTRIBUTING.md) ⭐ 3,086 | 🐛 27 | 📅 2026-09-18 before contributing.
 
-Out-of-date or discontinued, but nonetheless historically relevant items can be found on [Historical.md](https://github.com/ahkscript/awesome-AutoHotkey/blob/master/Historical.md) ⭐ 3,085 | 🐛 26 | 📅 2023-01-24
+Out-of-date or discontinued, but nonetheless historically relevant items can be found on [Historical.md](https://github.com/ahkscript/awesome-AutoHotkey/blob/master/Historical.md) ⭐ 3,086 | 🐛 27 | 📅 2026-09-18
 
 Development state:
 [![Build Status](https://travis-ci.org/ahkscript/awesome-AutoHotkey.svg)](https://travis-ci.org/ahkscript/awesome-AutoHotkey) [![awesome\_bot](https://img.shields.io/badge/PoweredBy-awesome_bot-yellow.svg)](https://github.com/dkhamsing/awesome_bot) ⭐ 897 | 🐛 11 | 🌐 Ruby | 📅 2023-04-20
@@ -83,7 +83,7 @@ Development state:
 * [ObjCSV](https://github.com/JnLlnd/ObjCSV/) ⭐ 32 | 🐛 3 | 🌐 AutoHotkey | 📅 2022-10-24 - by JnLlnd - Library to load/save CSV files to Objects and  and Listview functions. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6\&t=41).
 * [SerDes](https://github.com/cocobelgica/AutoHotkey-SerDes) ⭐ 15 | 🐛 2 | 🌐 AutoHotkey | 📅 2014-09-18 - by cocobelgica - Serialize / de-serialize an AutoHotkey object structure. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6\&t=4212).
 * [XA](https://github.com/hi5/XA) ⭐ 14 | 🐛 0 | 🌐 AutoHotkey | 📅 2020-09-06 - by trueski/hi5 - Serialize/deserialize array to/from XML. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6\&t=34849).
-* [AHK\_ctable](https://github.com/hoppfrosch/AHK_cTable) ⭐ 10 | 🐛 0 | 🌐 AutoHotkey | 📅 2016-04-04 - by hoppfrosch - Library to handle strings in tabular format - Forum thread: [link](https://autohotkey.com/board/topic/61256-object-table/://autohotkey.com/board/topic/61256-object-table/page-2?\&#entry467816).
+* [AHK\_ctable](https://github.com/hoppfrosch/AHK_cTable) ⭐ 10 | 🐛 0 | 🌐 AutoHotkey | 📅 2016-04-04 - by hoppfrosch - Library to handle strings in tabular format - Forum thread: [link](https://autohotkey.com/board/topic/61256-object-table/page-2#entry467816).
 * [Table](https://github.com/Jim-VxE/AHK-Lib-Table) ⭐ 5 | 🐛 0 | 🌐 AutoHotkey | 📅 2013-08-01 - by VxE - Library to manipulate strings in tabular (TSV) format  and Listview functions. Forum thread: [link](https://autohotkey.com/board/topic/61540-lib-string-based-table-manipulation-v028/).
 * [List manipulation functions](http://www.hars.us/SW/List.ahk) - by Laszlo - Function library to manipulate comma delimited lists. Forum thread: [link](https://autohotkey.com/board/topic/3020-list-manipulation-functions/).
 * [ObjDump/ObjLoad](https://autohotkey.com/boards/viewtopic.php?f=6\&t=3573) - by HotKeyIt - Serialize/deserialize object to/from variable/memory.
@@ -148,7 +148,7 @@ Development state:
 * [LV\_Colors](https://github.com/AHK-just-me/Class_LV_Colors/) ⭐ 30 | 🐛 1 | 🌐 AutoHotkey | 📅 2024-03-16 - by just Me - Individual background and/or text colours for a GUI ListView's cells or rows. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6\&t=1081)
 * [LV\_Rows](https://github.com/Pulover/Class_LV_Rows) ⭐ 17 | 🐛 0 | 🌐 AutoHotkey | 📅 2020-12-28 - by Pulover - Additional functions for AHK ListView controls. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6\&t=137)
 * [LV\_EX](https://github.com/AHK-just-me/LV_EX) ⭐ 16 | 🐛 2 | 🌐 AutoHotkey | 📅 2022-10-07 - by just me - Some additional functions for AHK GUI ListView controls. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6\&t=1256)
-* [LV\_InCellEdit](https://github.com/AHK-just-me/Class_LV_InCellEdit/) ⭐ 13 | 🐛 0 | 🌐 AutoHotkey | 📅 2015-12-15 - by just Me - In-cell editing for ListView controls. Forum thread: [link](http://https://autohotkey.com/boards/viewtopic.php?f=6\&t=1076)
+* [LV\_InCellEdit](https://github.com/AHK-just-me/Class_LV_InCellEdit/) ⭐ 13 | 🐛 0 | 🌐 AutoHotkey | 📅 2015-12-15 - by just Me - In-cell editing for ListView controls. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6\&t=1076)
 
 #### Menu
 
@@ -260,6 +260,7 @@ Development state:
 * [TypingAid](https://github.com/ManiacDC/TypingAid/releases) ⭐ 160 | 🐛 56 | 🌐 AutoHotkey | 📅 2018-07-11 - Suggests and completes words as you type. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6\&t=5644) GitHub [link](https://github.com/ManiacDC/TypingAid) ⭐ 160 | 🐛 56 | 🌐 AutoHotkey | 📅 2018-07-11.
 * [Static Hands](https://github.com/almogtavor/static-hands) ⭐ 77 | 🐛 0 | 🌐 Shell | 📅 2026-03-13 - Super useful shortcuts with the CapsLock key that spare the need to move hands while typing. Super simple. No learning curve.
 * [DateHotkey](https://github.com/tiuub/DateHotkey) ⭐ 23 | 🐛 2 | 🌐 AutoHotkey | 📅 2023-07-05 - Hotkey to easily receive current, past or upcomming date strings. Forum thread: [link](https://www.autohotkey.com/boards/viewtopic.php?f=6\&t=89929)
+* [Layout Switch](https://github.com/shokurov/ahk-layout-switch) ⭐ 1 | 🐛 0 | 🌐 AutoHotkey | 📅 2026-09-18 - Shows the keyboard-layout code (EN, DE, …) in a badge right under the text caret on every layout change, like macOS' input source indicator, and cycles through a chosen list of languages with a macOS-style hotkey. Works over Win+S and the Start menu, follows the system accent colour, per-monitor DPI aware.
 * [Half-QWERTY](https://autohotkey.com/board/topic/1257-half-qwerty-one-handed-typing/page-6#entry216183) - One-handed Typing. Using the space bar as a modifier, the user can generate the characters of either side of a full-sized keyboard using only one hand. More information via Forum thread: [link](https://autohotkey.com/board/topic/1257-half-qwerty-one-handed-typing/)
 * [Lintalist](http://lintalist.github.io/) - Searchable interactive lists to copy & paste text with plugins. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6\&t=3378).
 * [Portable Keyboard Layout](http://pkl.sourceforge.net/) - helps people to learn better, more efficient keyboard layouts such as Dvorak, Colemak or Asset. Forum thread: [link](https://autohotkey.com/board/topic/25991-portable-keyboard-layout/).
@@ -278,7 +279,7 @@ Development state:
 
 * [Achromatic - ProgressPlatformer](https://github.com/Uberi/ProgressPlatformer/releases) ⭐ 17 | 🐛 1 | 🌐 AutoHotkey | 📅 2014-06-18 - Platform game. Forum thread: [link](https://autohotkey.com/board/topic/64529-achromatic-progressplatformer-refined/), GitHub: [link](https://github.com/Uberi/ProgressPlatformer) ⭐ 17 | 🐛 1 | 🌐 AutoHotkey | 📅 2014-06-18
 * [Out of the Sea](http://ludumdare.com/compo/ludum-dare-24/?action=preview\&uid=14126) - Try to avoid being fished by evolving. GitHub: [link](https://github.com/Uberi/Ludum-Dare-24) ⭐ 4 | 🐛 0 | 🌐 AutoHotkey | 📅 2012-08-27
-* [Ishido](https://github.com/flibioahk/ishido/archive/master.zip) ⭐ 3 | 🐛 0 | 🌐 AutoHotkey | 📅 2017-06-05 - Retro puzzle game. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?t=31825https://github.com/flibioahk/ishido), GitHub: [link](https://github.com/flibioahk/ishido) ⭐ 3 | 🐛 0 | 🌐 AutoHotkey | 📅 2017-06-05
+* [Ishido](https://github.com/flibioahk/ishido/archive/master.zip) ⭐ 3 | 🐛 0 | 🌐 AutoHotkey | 📅 2017-06-05 - Retro puzzle game. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?t=31825), GitHub: [link](https://github.com/flibioahk/ishido) ⭐ 3 | 🐛 0 | 🌐 AutoHotkey | 📅 2017-06-05
 * [PABI Logical](https://github.com/bichlepa/PABI-Logical/releases) ⭐ 2 | 🐛 0 | 🌐 AutoHotkey | 📅 2018-02-18 - Remake of the amiga game Logical. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6\&t=33267), GitHub: [link](https://github.com/bichlepa/PABI-Logical) ⭐ 2 | 🐛 0 | 🌐 AutoHotkey | 📅 2018-02-18
 * [AHK Mahjong Solitaire](https://autohotkey.com/boards/codeboxplus/download/183219-1) - Mahjong game. Forum thread: [link](https://autohotkey.com//boards/viewtopic.php?f=19\&t=40133)
 * [F1 Racer](https://www.dropbox.com/sh/01ucst7jeybn9ed/AABCItk8VKlfVp67T0P_DJFia) - 2 or 4 player racing game. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=19\&t=4307\&p=24024\&hilit=racing#p24024)
@@ -292,7 +293,7 @@ Development state:
 
 ### Interpreter
 
-* [AHK\_X11](https://github.com/phil294/AHK_X11) ⭐ 1,024 | 🐛 40 | 🌐 Crystal | 📅 2026-01-03 A rudimentary but functional implementation of AutoHotkey v1.0.24 for Linux by phil294. [Forum](https://www.autohotkey.com/boards/viewtopic.php?f=81\&t=106640)
+* [AHK\_X11](https://github.com/phil294/AHK_X11) ⭐ 1,025 | 🐛 40 | 🌐 Crystal | 📅 2026-01-03 A rudimentary but functional implementation of AutoHotkey v1.0.24 for Linux by phil294. [Forum](https://www.autohotkey.com/boards/viewtopic.php?f=81\&t=106640)
 * [IronAHK](https://github.com/polyethene/IronAHK) ⚠️ Archived - Cross platform .NET rewrite - *unfinished*.
 * [AutoHotkey DLL](https://github.com/HotKeyIt/ahkdll-v1-release/) ⭐ 69 | 🐛 3 | 🌐 AutoHotkey | 📅 2022-02-11 - AutoHotkey.dll opens the world of AutoHotkey to other programming and scripting languages. Forum thread: [link](https://autohotkey.com/board/topic/39588-autohotkeydll/). Documentation [link](http://hotkeyit.ahk4.net/files/AutoHotkey-txt.html).
 * [AutoHotkey](https://autohotkey.com/download/) - AutoHotkey interpreter installer and binaries.
@@ -354,10 +355,10 @@ Development state:
 
 ### (Use in) other programming languages
 
-* [ahk](https://github.com/spyoungtech/ahk) ⭐ 1,032 | 🐛 12 | 🌐 Python | 📅 2026-08-17 - A Python wrapper for AutoHotkey - Forum thread: [link](https://www.autohotkey.com/boards/viewtopic.php?f=6\&t=63184)
+* [ahk](https://github.com/spyoungtech/ahk) ⭐ 1,033 | 🐛 12 | 🌐 Python | 📅 2026-08-17 - A Python wrapper for AutoHotkey - Forum thread: [link](https://www.autohotkey.com/boards/viewtopic.php?f=6\&t=63184)
 * [Exo-Javascript](https://github.com/Aurelain/Exo) ⚠️ Archived - Write AHK with JavaScript - Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6\&t=5714), Exo-CLI (Interactive Command-line) [link](https://github.com/joedf/Exo-CLI.ahk) ⭐ 10 | 🐛 1 | 🌐 JavaScript | 📅 2018-01-28.
 * [AutoHotkey.py](https://github.com/Perlence/AutoHotkey.py) ⭐ 82 | 🐛 7 | 🌐 Python | 📅 2023-04-29 - Write AutoHotkey scripts in Python - Forum thread: [link](https://www.autohotkey.com/boards/viewtopic.php?f=6\&t=86025)
-* [AutoHotkey.dll](https://hotkeyit.github.io/v2/docs/AutoHotkeyDll.htm) - Part of the [AutoHotkey\_H](#autohotkey_h) distribution. Load the autohotkey.dll from your other language, and pass normal AHK code to the dll file for execution. See here for a list of the [exported functions](https://hotkeyit.github.io/v2/docs/AHKH_Features.htm). Some older links: [python example](https://autohotkey.com/board/topic/56938-simple-python-intergration-example/), [c/c++ example](https://autohotkey.com/board/topic/39588-autohotkeydll/://autohotkey.com/board/topic/39588-autohotkeydll/page-10?\&#entry321945), [forum link](https://autohotkey.com/board/topic/39588-autohotkeydll/)
+* [AutoHotkey.dll](https://hotkeyit.github.io/v2/docs/AutoHotkeyDll.htm) - Part of the [AutoHotkey\_H](#autohotkey_h) distribution. Load the autohotkey.dll from your other language, and pass normal AHK code to the dll file for execution. See here for a list of the [exported functions](https://hotkeyit.github.io/v2/docs/AHKH_Features.htm). Some older links: [python example](https://autohotkey.com/board/topic/56938-simple-python-intergration-example/), [c/c++ example](https://autohotkey.com/board/topic/39588-autohotkeydll/page-10#entry321945), [forum link](https://autohotkey.com/board/topic/39588-autohotkeydll/)
 * [.NET Framework Interop (CLR, C#, VB)](https://dl.dropbox.com/u/20532918/Lib/CLR-1.2.zip) - Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6\&t=4633).
 * [ActiveScript - Host VBScript and JScript in-process](https://autohotkey.com/boards/viewtopic.php?f=6\&t=4555) - Provides an interface to Active Scripting languages like VBScript and JScript, without relying on Microsoft's ScriptControl, which is not available to 64-bit programs.
 * [LibLua](https://autohotkey.com/board/topic/40690-ahk-lua-interop-stdlib-proof-of-concept/) - *Note: lua.ahk and lua\_ahkfunctions.ahk can be found [here](https://code.google.com/archive/p/wow-vending-machine/source)*.
@@ -393,7 +394,7 @@ Development state:
 
 ### Documentation
 
-* [Official documentation](https://autohotkey.com/docs/AutoHotkey.htm) - Official uptodate AutoHotkey documentation. GitHub [link](https://github.com/Lexikos/AutoHotkey_L-Docs) ⭐ 495 | 🐛 0 | 🌐 AutoHotkey | 📅 2026-09-17.
+* [Official documentation](https://autohotkey.com/docs/AutoHotkey.htm) - Official uptodate AutoHotkey documentation. GitHub [link](https://github.com/Lexikos/AutoHotkey_L-Docs) ⭐ 495 | 🐛 0 | 🌐 AutoHotkey | 📅 2026-09-18.
 
 ### Books
 
@@ -425,4 +426,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
