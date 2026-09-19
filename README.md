@@ -231,7 +231,7 @@ Development state:
 ### <a name="scripts-filesystem"></a>Filesystem
 
 * [Belvedere](https://github.com/adampash/belvedere) ⭐ 171 | 🐛 13 | 🌐 AutoHotkey | 📅 2013-12-01 - sets up rules for taking actions on files (move, copy, delete, etc) based on the name of a file, its extension, size, age, and more. More info [link](http://lifehacker.com/341950/belvedere-automates-your-self-cleaning-pc).
-* [QuickAccessPopup](https://github.com/JnLlnd/QuickAccessPopup) ⭐ 7 | 🐛 29 | 🌐 AutoHotkey | 📅 2026-05-21 - Multi purpose launcher and file switcher. Website [link](https://www.quickaccesspopup.com/).
+* [QuickAccessPopup](https://github.com/JnLlnd/QuickAccessPopup) ⭐ 6 | 🐛 29 | 🌐 AutoHotkey | 📅 2026-05-21 - Multi purpose launcher and file switcher. Website [link](https://www.quickaccesspopup.com/).
 * [SpicyKeys](https://spicykeys.github.io/) - Use hotkeys to open or move/copy selected files in Windows Explorer. Forum thread: [link](https://www.autohotkey.com/boards/viewtopic.php?f=6\&t=97171)
 
 ### <a name="scripts-graphics"></a>Graphics
@@ -260,7 +260,7 @@ Development state:
 * [TypingAid](https://github.com/ManiacDC/TypingAid/releases) ⭐ 160 | 🐛 56 | 🌐 AutoHotkey | 📅 2018-07-11 - Suggests and completes words as you type. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6\&t=5644) GitHub [link](https://github.com/ManiacDC/TypingAid) ⭐ 160 | 🐛 56 | 🌐 AutoHotkey | 📅 2018-07-11.
 * [Static Hands](https://github.com/almogtavor/static-hands) ⭐ 77 | 🐛 0 | 🌐 Shell | 📅 2026-03-13 - Super useful shortcuts with the CapsLock key that spare the need to move hands while typing. Super simple. No learning curve.
 * [DateHotkey](https://github.com/tiuub/DateHotkey) ⭐ 23 | 🐛 2 | 🌐 AutoHotkey | 📅 2023-07-05 - Hotkey to easily receive current, past or upcomming date strings. Forum thread: [link](https://www.autohotkey.com/boards/viewtopic.php?f=6\&t=89929)
-* [Layout Switch](https://github.com/shokurov/ahk-layout-switch) ⭐ 1 | 🐛 0 | 🌐 AutoHotkey | 📅 2026-09-18 - Shows the keyboard-layout code (EN, DE, …) in a badge right under the text caret on every layout change, like macOS' input source indicator, and cycles through a chosen list of languages with a macOS-style hotkey. Works over Win+S and the Start menu, follows the system accent colour, per-monitor DPI aware.
+* [Layout Switch](https://github.com/shokurov/ahk-layout-switch) ⭐ 1 | 🐛 0 | 🌐 AutoHotkey | 📅 2026-09-19 - Shows the keyboard-layout code (EN, DE, …) in a badge right under the text caret on every layout change, like macOS' input source indicator, and cycles through a chosen list of languages with a macOS-style hotkey. Works over Win+S and the Start menu, follows the system accent colour, per-monitor DPI aware.
 * [Half-QWERTY](https://autohotkey.com/board/topic/1257-half-qwerty-one-handed-typing/page-6#entry216183) - One-handed Typing. Using the space bar as a modifier, the user can generate the characters of either side of a full-sized keyboard using only one hand. More information via Forum thread: [link](https://autohotkey.com/board/topic/1257-half-qwerty-one-handed-typing/)
 * [Lintalist](http://lintalist.github.io/) - Searchable interactive lists to copy & paste text with plugins. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6\&t=3378).
 * [Portable Keyboard Layout](http://pkl.sourceforge.net/) - helps people to learn better, more efficient keyboard layouts such as Dvorak, Colemak or Asset. Forum thread: [link](https://autohotkey.com/board/topic/25991-portable-keyboard-layout/).
@@ -334,7 +334,7 @@ Development state:
 
 ### Script Recorders and Writers
 
-* [Pulover’s Macro Creator](http://www.macrocreator.com/) - a Free Automation Tool and Script Generator. Recommended for beginners. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6\&t=143). GitHub [link](https://github.com/Pulover/PuloversMacroCreator) ⭐ 2,023 | 🐛 85 | 🌐 AutoHotkey | 📅 2022-07-25.
+* [Pulover’s Macro Creator](http://www.macrocreator.com/) - a Free Automation Tool and Script Generator. Recommended for beginners. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6\&t=143). GitHub [link](https://github.com/Pulover/PuloversMacroCreator) ⭐ 2,024 | 🐛 85 | 🌐 AutoHotkey | 📅 2022-07-25.
 
 ### Web Syntax Highlighters
 
@@ -426,4 +426,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._
