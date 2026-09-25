@@ -491,7 +491,7 @@
                 "open_issues": 9,
                 "owner": "mmikeww",
                 "repo": "AHKv2-Gdip",
-                "stars": 159,
+                "stars": 160,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:54:56.890Z"
@@ -1853,7 +1853,7 @@
                 "open_issues": 40,
                 "owner": "phil294",
                 "repo": "AHK_X11",
-                "stars": 1026,
+                "stars": 1025,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:54:56.890Z"
@@ -2234,7 +2234,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T21:50:21.230Z",
+    "last_updated": "2026-09-25T21:50:27.723Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome AutoHotkey libraries, library distributions, scripts, tools and resources.",
@@ -2246,7 +2246,7 @@
       "open_issues": 27,
       "owner": "ahkscript",
       "repo": "awesome-AutoHotkey",
-      "stars": 3088,
+      "stars": 3089,
       "topics": []
     },
     "original_repository_sha": "ca133c50f8621c8ffb74627a7e466f850bac2f48",
