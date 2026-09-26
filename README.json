@@ -443,7 +443,7 @@
                 "open_issues": 14,
                 "owner": "iseahound",
                 "repo": "ImagePut",
-                "stars": 230,
+                "stars": 231,
                 "topics": [
                   "image-processing",
                   "pixelsearch",
@@ -1521,7 +1521,7 @@
                 "open_issues": 9,
                 "owner": "Uberi",
                 "repo": "Autocomplete",
-                "stars": 218,
+                "stars": 219,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:54:56.890Z"
@@ -2234,7 +2234,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T21:50:27.723Z",
+    "last_updated": "2026-09-26T21:35:48.125Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome AutoHotkey libraries, library distributions, scripts, tools and resources.",
