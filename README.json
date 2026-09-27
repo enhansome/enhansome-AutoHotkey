@@ -97,7 +97,7 @@
                 "open_issues": 2,
                 "owner": "hi5",
                 "repo": "CSV",
-                "stars": 58,
+                "stars": 59,
                 "topics": [
                   "autohotkey",
                   "csv"
@@ -443,7 +443,7 @@
                 "open_issues": 14,
                 "owner": "iseahound",
                 "repo": "ImagePut",
-                "stars": 231,
+                "stars": 233,
                 "topics": [
                   "image-processing",
                   "pixelsearch",
@@ -960,7 +960,7 @@
                 "open_issues": 17,
                 "owner": "G33kDude",
                 "repo": "Chrome.ahk",
-                "stars": 394,
+                "stars": 395,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:54:56.890Z"
@@ -981,7 +981,7 @@
                 "open_issues": 5,
                 "owner": "G33kDude",
                 "repo": "WebSocket.ahk",
-                "stars": 86,
+                "stars": 87,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:54:56.890Z"
@@ -1002,7 +1002,7 @@
                 "open_issues": 8,
                 "owner": "zhamlin",
                 "repo": "AHKhttp",
-                "stars": 85,
+                "stars": 86,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:54:56.890Z"
@@ -1023,7 +1023,7 @@
                 "open_issues": 4,
                 "owner": "jleb",
                 "repo": "AHKsock",
-                "stars": 83,
+                "stars": 84,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:54:56.890Z"
@@ -1044,7 +1044,7 @@
                 "open_issues": 5,
                 "owner": "G33kDude",
                 "repo": "Socket.ahk",
-                "stars": 71,
+                "stars": 72,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:54:56.890Z"
@@ -1897,7 +1897,7 @@
                 "id": 30116304,
                 "language": "AutoHotkey",
                 "license": "GPL-2.0",
-                "last_commit": "2022-02-11T14:09:20Z",
+                "last_commit": "2026-09-27T12:05:09Z",
                 "open_issues": 3,
                 "owner": "HotKeyIt",
                 "repo": "ahkdll-v1-release",
@@ -2234,7 +2234,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T21:35:48.125Z",
+    "last_updated": "2026-09-27T21:38:35.247Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome AutoHotkey libraries, library distributions, scripts, tools and resources.",
@@ -2243,7 +2243,7 @@
       "language": null,
       "license": null,
       "last_commit": "2026-09-18T10:25:42Z",
-      "open_issues": 27,
+      "open_issues": 28,
       "owner": "ahkscript",
       "repo": "awesome-AutoHotkey",
       "stars": 3089,

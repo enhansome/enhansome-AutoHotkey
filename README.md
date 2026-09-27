@@ -1,8 +1,8 @@
 # Awesome AutoHotkey with stars
 
-A curated list of awesome [AutoHotkey](https://autohotkey.com/) libraries, library distributions, scripts, tools and resources. Inspired by the other [awesome lists](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,688 | 🐛 65 | 🌐 Ruby | 📅 2024-06-02. Please read [CONTRIBUTING.md](https://github.com/ahkscript/awesome-AutoHotkey/blob/master/.github/CONTRIBUTING.md) ⭐ 3,089 | 🐛 27 | 📅 2026-09-18 before contributing.
+A curated list of awesome [AutoHotkey](https://autohotkey.com/) libraries, library distributions, scripts, tools and resources. Inspired by the other [awesome lists](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,691 | 🐛 65 | 🌐 Ruby | 📅 2024-06-02. Please read [CONTRIBUTING.md](https://github.com/ahkscript/awesome-AutoHotkey/blob/master/.github/CONTRIBUTING.md) ⭐ 3,089 | 🐛 28 | 📅 2026-09-18 before contributing.
 
-Out-of-date or discontinued, but nonetheless historically relevant items can be found on [Historical.md](https://github.com/ahkscript/awesome-AutoHotkey/blob/master/Historical.md) ⭐ 3,089 | 🐛 27 | 📅 2026-09-18
+Out-of-date or discontinued, but nonetheless historically relevant items can be found on [Historical.md](https://github.com/ahkscript/awesome-AutoHotkey/blob/master/Historical.md) ⭐ 3,089 | 🐛 28 | 📅 2026-09-18
 
 Development state:
 [![Build Status](https://travis-ci.org/ahkscript/awesome-AutoHotkey.svg)](https://travis-ci.org/ahkscript/awesome-AutoHotkey) [![awesome\_bot](https://img.shields.io/badge/PoweredBy-awesome_bot-yellow.svg)](https://github.com/dkhamsing/awesome_bot) ⭐ 897 | 🐛 11 | 🌐 Ruby | 📅 2023-04-20
@@ -79,7 +79,7 @@ Development state:
 ### <a name="libraries-data-format"></a>Data format
 
 * [AutoHotkey-JSON](https://github.com/cocobelgica/AutoHotkey-JSON) ⭐ 287 | 🐛 24 | 🌐 AutoHotkey | 📅 2020-10-26 - by cocobelgica - JSON lib for AutoHotkey. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6\&t=627).
-* [CSV](https://github.com/hi5/CSV) ⭐ 58 | 🐛 2 | 🌐 AutoHotkey | 📅 2022-09-25 - by trueski/kdoske - Library to work with CSV files and Listview functions. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6\&t=34853).
+* [CSV](https://github.com/hi5/CSV) ⭐ 59 | 🐛 2 | 🌐 AutoHotkey | 📅 2022-09-25 - by trueski/kdoske - Library to work with CSV files and Listview functions. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6\&t=34853).
 * [ObjCSV](https://github.com/JnLlnd/ObjCSV/) ⭐ 32 | 🐛 3 | 🌐 AutoHotkey | 📅 2022-10-24 - by JnLlnd - Library to load/save CSV files to Objects and  and Listview functions. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6\&t=41).
 * [SerDes](https://github.com/cocobelgica/AutoHotkey-SerDes) ⭐ 15 | 🐛 2 | 🌐 AutoHotkey | 📅 2014-09-18 - by cocobelgica - Serialize / de-serialize an AutoHotkey object structure. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6\&t=4212).
 * [XA](https://github.com/hi5/XA) ⭐ 14 | 🐛 0 | 🌐 AutoHotkey | 📅 2020-09-06 - by trueski/hi5 - Serialize/deserialize array to/from XML. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6\&t=34849).
@@ -108,7 +108,7 @@ Development state:
 
 ### <a name="libraries-graphics"></a>Graphics
 
-* [ImagePut](https://github.com/iseahound/ImagePut) ⭐ 231 | 🐛 14 | 🌐 AutoHotkey | 📅 2026-06-16 - by iseahound - Image library for converting to files, streams, windows, base64, urls, cursors, screen coordinates, clipboard, pointers, handles, and more. Supports AutoHotkey v1 and v2. - Forum thread: [link](https://www.autohotkey.com/boards/viewtopic.php?f=6\&t=76301\&p=330615)
+* [ImagePut](https://github.com/iseahound/ImagePut) ⭐ 233 | 🐛 14 | 🌐 AutoHotkey | 📅 2026-06-16 - by iseahound - Image library for converting to files, streams, windows, base64, urls, cursors, screen coordinates, clipboard, pointers, handles, and more. Supports AutoHotkey v1 and v2. - Forum thread: [link](https://www.autohotkey.com/boards/viewtopic.php?f=6\&t=76301\&p=330615)
 * [GDIp\_ImageSearch](https://autohotkey.com/board/topic/71100-) - by tic - Library using gdiplus.dll for searching image instances on the screen. See the end of that thread for MasterFocus' improved version, or see his [GitHub repo here](https://github.com/MasterFocus/AutoHotkey/tree/master/Functions/Gdip_ImageSearch) ⭐ 213 | 🐛 0 | 🌐 AutoHotkey | 📅 2025-04-21
 * [AHKv2-GDIP](https://github.com/mmikeww/AHKv2-Gdip) ⭐ 160 | 🐛 9 | 🌐 AutoHotkey | 📅 2021-10-17 - Update of the above GDI+ library compatiable with both AHK v1.1 and AHK v2 - Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6\&t=6517).
 * [GDIp](https://github.com/tariqporter/Gdip/) ⭐ 158 | 🐛 5 | 🌐 AutoHotkey | 📅 2019-03-05 - by tic - Full featured library that helps in interaction with Microsoft's gdiplus.dll - Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6\&t=6517).
@@ -182,11 +182,11 @@ Development state:
 
 ### Networking
 
-* [Chrome.ahk](https://github.com/G33kDude/Chrome.ahk) ⭐ 394 | 🐛 17 | 🌐 AutoHotkey | 📅 2023-05-03 - by G33kDude - Automate Google Chrome using native AutoHotkey - Forum [link](https://www.autohotkey.com/boards/viewtopic.php?t=42890)
-* [WebSocket.ahk](https://github.com/G33kDude/WebSocket.ahk) ⭐ 86 | 🐛 5 | 🌐 AutoHotkey | 📅 2023-03-24 - by GeekDude - Class based WebSocket library - Forum [link](https://autohotkey.com/boards/viewtopic.php?f=6\&t=35117)
-* [AHKhttp](https://github.com/Skiouros/AHKhttp) ⭐ 85 | 🐛 8 | 🌐 AutoHotkey | 📅 2023-11-22 - Basic HTTP Server. Forum [link](https://autohotkey.com/boards/viewtopic.php?f=6\&t=4890)
-* [AHKsock](https://github.com/jleb/AHKsock) ⭐ 83 | 🐛 4 | 🌐 AutoHotkey | 📅 2016-12-04 - by TheGood - Function based sockets library. Supports TCP. Forum [link](https://autohotkey.com/board/topic/53827-ahksock-a-simple-ahk-implementation-of-winsock-tcpip/)
-* [Socket.ahk](https://github.com/G33kDude/Socket.ahk) ⭐ 71 | 🐛 5 | 🌐 AutoHotkey | 📅 2017-06-26 - by GeekDude - Socket library based on Bentschi's - Forum [link](https://autohotkey.com/boards/viewtopic.php?f=6\&t=35120)
+* [Chrome.ahk](https://github.com/G33kDude/Chrome.ahk) ⭐ 395 | 🐛 17 | 🌐 AutoHotkey | 📅 2023-05-03 - by G33kDude - Automate Google Chrome using native AutoHotkey - Forum [link](https://www.autohotkey.com/boards/viewtopic.php?t=42890)
+* [WebSocket.ahk](https://github.com/G33kDude/WebSocket.ahk) ⭐ 87 | 🐛 5 | 🌐 AutoHotkey | 📅 2023-03-24 - by GeekDude - Class based WebSocket library - Forum [link](https://autohotkey.com/boards/viewtopic.php?f=6\&t=35117)
+* [AHKhttp](https://github.com/Skiouros/AHKhttp) ⭐ 86 | 🐛 8 | 🌐 AutoHotkey | 📅 2023-11-22 - Basic HTTP Server. Forum [link](https://autohotkey.com/boards/viewtopic.php?f=6\&t=4890)
+* [AHKsock](https://github.com/jleb/AHKsock) ⭐ 84 | 🐛 4 | 🌐 AutoHotkey | 📅 2016-12-04 - by TheGood - Function based sockets library. Supports TCP. Forum [link](https://autohotkey.com/board/topic/53827-ahksock-a-simple-ahk-implementation-of-winsock-tcpip/)
+* [Socket.ahk](https://github.com/G33kDude/Socket.ahk) ⭐ 72 | 🐛 5 | 🌐 AutoHotkey | 📅 2017-06-26 - by GeekDude - Socket library based on Bentschi's - Forum [link](https://autohotkey.com/boards/viewtopic.php?f=6\&t=35120)
 * [Rufaydium WebDriver](https://github.com/Xeo786/Rufaydium-Webdriver) ⭐ 31 | 🐛 6 | 🌐 AutoHotkey | 📅 2024-03-05 - by Xeo786 - Webdriver Library to support any Chromium based browser only requiring webdriver (no selenium/websocket) - Forum [link](https://www.autohotkey.com/boards/viewtopic.php?f=6\&p=457302)
 * [WinSCP.ahk](https://github.com/lipkau/WinSCP.ahk) ⭐ 17 | 🐛 2 | 🌐 AutoHotkey | 📅 2020-03-13 - by Lipkau - Lib allows the use of WinSCP in AHK
 * [FTP](https://github.com/jNizM/Class_FTP) ⭐ 7 | 🐛 1 | 🌐 AutoHotkey | 📅 2020-08-27 - by jNizM - AutoHotkey wrapper for FTP Sessions (Class) - Forum [link](https://www.autohotkey.com/boards/viewtopic.php?f=6\&t=79142\&p=344445#p344445)
@@ -295,7 +295,7 @@ Development state:
 
 * [AHK\_X11](https://github.com/phil294/AHK_X11) ⭐ 1,025 | 🐛 40 | 🌐 Crystal | 📅 2026-01-03 A rudimentary but functional implementation of AutoHotkey v1.0.24 for Linux by phil294. [Forum](https://www.autohotkey.com/boards/viewtopic.php?f=81\&t=106640)
 * [IronAHK](https://github.com/polyethene/IronAHK) ⚠️ Archived - Cross platform .NET rewrite - *unfinished*.
-* [AutoHotkey DLL](https://github.com/HotKeyIt/ahkdll-v1-release/) ⭐ 69 | 🐛 3 | 🌐 AutoHotkey | 📅 2022-02-11 - AutoHotkey.dll opens the world of AutoHotkey to other programming and scripting languages. Forum thread: [link](https://autohotkey.com/board/topic/39588-autohotkeydll/). Documentation [link](http://hotkeyit.ahk4.net/files/AutoHotkey-txt.html).
+* [AutoHotkey DLL](https://github.com/HotKeyIt/ahkdll-v1-release/) ⭐ 69 | 🐛 3 | 🌐 AutoHotkey | 📅 2026-09-27 - AutoHotkey.dll opens the world of AutoHotkey to other programming and scripting languages. Forum thread: [link](https://autohotkey.com/board/topic/39588-autohotkeydll/). Documentation [link](http://hotkeyit.ahk4.net/files/AutoHotkey-txt.html).
 * [AutoHotkey](https://autohotkey.com/download/) - AutoHotkey interpreter installer and binaries.
 * [AutoHotkey build for CE](http://www.autohotkey.net/%7EMicha/AutohotkeyCE/AutoHotkeyCEUni.CAB) - AutoHotkey for Pocket PCs / WinCE / Smartphones. Forum thread: [link](https://autohotkey.com/board/topic/24776-autohotkey-for-pocket-pcs-wince-smartphones/). Documentation [link](http://www.autohotkey.net/~Micha/AutohotkeyCE/html/index.htm).
 * [Keysharp](https://bitbucket.org/mfeemster/keysharp/src/master/) - Continuation of IronAHK by mfeemster. [Forum](https://www.autohotkey.com/boards/viewtopic.php?f=80\&t=77248)
@@ -394,7 +394,7 @@ Development state:
 
 ### Documentation
 
-* [Official documentation](https://autohotkey.com/docs/AutoHotkey.htm) - Official uptodate AutoHotkey documentation. GitHub [link](https://github.com/Lexikos/AutoHotkey_L-Docs) ⭐ 496 | 🐛 0 | 🌐 AutoHotkey | 📅 2026-09-26.
+* [Official documentation](https://autohotkey.com/docs/AutoHotkey.htm) - Official uptodate AutoHotkey documentation. GitHub [link](https://github.com/Lexikos/AutoHotkey_L-Docs) ⭐ 496 | 🐛 0 | 🌐 AutoHotkey | 📅 2026-09-27.
 
 ### Books
 
@@ -426,4 +426,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._
