@@ -1,8 +1,8 @@
 # Awesome AutoHotkey with stars
 
-A curated list of awesome [AutoHotkey](https://autohotkey.com/) libraries, library distributions, scripts, tools and resources. Inspired by the other [awesome lists](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,691 | 🐛 65 | 🌐 Ruby | 📅 2024-06-02. Please read [CONTRIBUTING.md](https://github.com/ahkscript/awesome-AutoHotkey/blob/master/.github/CONTRIBUTING.md) ⭐ 3,089 | 🐛 28 | 📅 2026-09-18 before contributing.
+A curated list of awesome [AutoHotkey](https://autohotkey.com/) libraries, library distributions, scripts, tools and resources. Inspired by the other [awesome lists](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,694 | 🐛 66 | 🌐 Ruby | 📅 2024-06-02. Please read [CONTRIBUTING.md](https://github.com/ahkscript/awesome-AutoHotkey/blob/master/.github/CONTRIBUTING.md) ⭐ 3,090 | 🐛 28 | 📅 2026-09-18 before contributing.
 
-Out-of-date or discontinued, but nonetheless historically relevant items can be found on [Historical.md](https://github.com/ahkscript/awesome-AutoHotkey/blob/master/Historical.md) ⭐ 3,089 | 🐛 28 | 📅 2026-09-18
+Out-of-date or discontinued, but nonetheless historically relevant items can be found on [Historical.md](https://github.com/ahkscript/awesome-AutoHotkey/blob/master/Historical.md) ⭐ 3,090 | 🐛 28 | 📅 2026-09-18
 
 Development state:
 [![Build Status](https://travis-ci.org/ahkscript/awesome-AutoHotkey.svg)](https://travis-ci.org/ahkscript/awesome-AutoHotkey) [![awesome\_bot](https://img.shields.io/badge/PoweredBy-awesome_bot-yellow.svg)](https://github.com/dkhamsing/awesome_bot) ⭐ 897 | 🐛 11 | 🌐 Ruby | 📅 2023-04-20
@@ -255,12 +255,12 @@ Development state:
 
 ### Typing
 
-* [KeyPress OSD](https://github.com/marius-sucan/KeyPress-OSD) ⭐ 415 | 🐛 2 | 🌐 AutoHotkey | 📅 2026-04-02 - On-Screen Display which displays every key or mouse button press at a clearly visible text size. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6\&t=225)
+* [KeyPress OSD](https://github.com/marius-sucan/KeyPress-OSD) ⭐ 416 | 🐛 2 | 🌐 AutoHotkey | 📅 2026-04-02 - On-Screen Display which displays every key or mouse button press at a clearly visible text size. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6\&t=225)
 * [AutoComplete](https://github.com/Uberi/Autocomplete) ⭐ 219 | 🐛 9 | 🌐 AutoHotkey | 📅 2022-12-12 - Suggests and completes words as you type. Forum thread: [link](https://autohotkey.com/board/topic/60998-autocomplete/).
 * [TypingAid](https://github.com/ManiacDC/TypingAid/releases) ⭐ 160 | 🐛 56 | 🌐 AutoHotkey | 📅 2018-07-11 - Suggests and completes words as you type. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6\&t=5644) GitHub [link](https://github.com/ManiacDC/TypingAid) ⭐ 160 | 🐛 56 | 🌐 AutoHotkey | 📅 2018-07-11.
 * [Static Hands](https://github.com/almogtavor/static-hands) ⭐ 77 | 🐛 0 | 🌐 Shell | 📅 2026-03-13 - Super useful shortcuts with the CapsLock key that spare the need to move hands while typing. Super simple. No learning curve.
 * [DateHotkey](https://github.com/tiuub/DateHotkey) ⭐ 23 | 🐛 2 | 🌐 AutoHotkey | 📅 2023-07-05 - Hotkey to easily receive current, past or upcomming date strings. Forum thread: [link](https://www.autohotkey.com/boards/viewtopic.php?f=6\&t=89929)
-* [Layout Switch](https://github.com/shokurov/ahk-layout-switch) ⭐ 1 | 🐛 0 | 🌐 AutoHotkey | 📅 2026-09-19 - Shows the keyboard-layout code (EN, DE, …) in a badge right under the text caret on every layout change, like macOS' input source indicator, and cycles through a chosen list of languages with a macOS-style hotkey. Works over Win+S and the Start menu, follows the system accent colour, per-monitor DPI aware.
+* [Layout Switch](https://github.com/shokurov/ahk-layout-switch) ⭐ 1 | 🐛 0 | 🌐 AutoHotkey | 📅 2026-09-28 - Shows the keyboard-layout code (EN, DE, …) in a badge right under the text caret on every layout change, like macOS' input source indicator, and cycles through a chosen list of languages with a macOS-style hotkey. Works over Win+S and the Start menu, follows the system accent colour, per-monitor DPI aware.
 * [Half-QWERTY](https://autohotkey.com/board/topic/1257-half-qwerty-one-handed-typing/page-6#entry216183) - One-handed Typing. Using the space bar as a modifier, the user can generate the characters of either side of a full-sized keyboard using only one hand. More information via Forum thread: [link](https://autohotkey.com/board/topic/1257-half-qwerty-one-handed-typing/)
 * [Lintalist](http://lintalist.github.io/) - Searchable interactive lists to copy & paste text with plugins. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6\&t=3378).
 * [Portable Keyboard Layout](http://pkl.sourceforge.net/) - helps people to learn better, more efficient keyboard layouts such as Dvorak, Colemak or Asset. Forum thread: [link](https://autohotkey.com/board/topic/25991-portable-keyboard-layout/).
@@ -355,7 +355,7 @@ Development state:
 
 ### (Use in) other programming languages
 
-* [ahk](https://github.com/spyoungtech/ahk) ⭐ 1,033 | 🐛 12 | 🌐 Python | 📅 2026-08-17 - A Python wrapper for AutoHotkey - Forum thread: [link](https://www.autohotkey.com/boards/viewtopic.php?f=6\&t=63184)
+* [ahk](https://github.com/spyoungtech/ahk) ⭐ 1,033 | 🐛 12 | 🌐 Python | 📅 2026-09-28 - A Python wrapper for AutoHotkey - Forum thread: [link](https://www.autohotkey.com/boards/viewtopic.php?f=6\&t=63184)
 * [Exo-Javascript](https://github.com/Aurelain/Exo) ⚠️ Archived - Write AHK with JavaScript - Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6\&t=5714), Exo-CLI (Interactive Command-line) [link](https://github.com/joedf/Exo-CLI.ahk) ⭐ 10 | 🐛 1 | 🌐 JavaScript | 📅 2018-01-28.
 * [AutoHotkey.py](https://github.com/Perlence/AutoHotkey.py) ⭐ 82 | 🐛 7 | 🌐 Python | 📅 2023-04-29 - Write AutoHotkey scripts in Python - Forum thread: [link](https://www.autohotkey.com/boards/viewtopic.php?f=6\&t=86025)
 * [AutoHotkey.dll](https://hotkeyit.github.io/v2/docs/AutoHotkeyDll.htm) - Part of the [AutoHotkey\_H](#autohotkey_h) distribution. Load the autohotkey.dll from your other language, and pass normal AHK code to the dll file for execution. See here for a list of the [exported functions](https://hotkeyit.github.io/v2/docs/AHKH_Features.htm). Some older links: [python example](https://autohotkey.com/board/topic/56938-simple-python-intergration-example/), [c/c++ example](https://autohotkey.com/board/topic/39588-autohotkeydll/page-10#entry321945), [forum link](https://autohotkey.com/board/topic/39588-autohotkeydll/)
@@ -394,7 +394,7 @@ Development state:
 
 ### Documentation
 
-* [Official documentation](https://autohotkey.com/docs/AutoHotkey.htm) - Official uptodate AutoHotkey documentation. GitHub [link](https://github.com/Lexikos/AutoHotkey_L-Docs) ⭐ 496 | 🐛 0 | 🌐 AutoHotkey | 📅 2026-09-27.
+* [Official documentation](https://autohotkey.com/docs/AutoHotkey.htm) - Official uptodate AutoHotkey documentation. GitHub [link](https://github.com/Lexikos/AutoHotkey_L-Docs) ⭐ 496 | 🐛 0 | 🌐 AutoHotkey | 📅 2026-09-28.
 
 ### Books
 
@@ -426,4 +426,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-28._

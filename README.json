@@ -1480,7 +1480,7 @@
                 "open_issues": 2,
                 "owner": "marius-sucan",
                 "repo": "KeyPress-OSD",
-                "stars": 415,
+                "stars": 416,
                 "topics": [
                   "ahk",
                   "autohotkey",
@@ -1612,7 +1612,7 @@
                 "id": 1375628030,
                 "language": "AutoHotkey",
                 "license": "MIT",
-                "last_commit": "2026-09-19T06:32:51Z",
+                "last_commit": "2026-09-28T08:52:46Z",
                 "open_issues": 0,
                 "owner": "shokurov",
                 "repo": "ahk-layout-switch",
@@ -2163,7 +2163,7 @@
                 "id": 158650053,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-08-17T21:04:54Z",
+                "last_commit": "2026-09-28T21:15:12Z",
                 "open_issues": 12,
                 "owner": "spyoungtech",
                 "repo": "ahk",
@@ -2234,7 +2234,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T21:38:35.247Z",
+    "last_updated": "2026-09-28T23:31:20.322Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome AutoHotkey libraries, library distributions, scripts, tools and resources.",
@@ -2246,7 +2246,7 @@
       "open_issues": 28,
       "owner": "ahkscript",
       "repo": "awesome-AutoHotkey",
-      "stars": 3089,
+      "stars": 3090,
       "topics": []
     },
     "original_repository_sha": "ca133c50f8621c8ffb74627a7e466f850bac2f48",
