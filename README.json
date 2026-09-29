@@ -1651,7 +1651,7 @@
                 "open_issues": 119,
                 "owner": "fuhsjr00",
                 "repo": "bug.n",
-                "stars": 3435,
+                "stars": 3437,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:54:56.890Z"
@@ -1853,7 +1853,7 @@
                 "open_issues": 40,
                 "owner": "phil294",
                 "repo": "AHK_X11",
-                "stars": 1025,
+                "stars": 1026,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:54:56.890Z"
@@ -2234,7 +2234,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T23:31:20.322Z",
+    "last_updated": "2026-09-29T22:39:20.895Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome AutoHotkey libraries, library distributions, scripts, tools and resources.",
