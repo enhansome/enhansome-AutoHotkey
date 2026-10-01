@@ -1349,7 +1349,7 @@
                 "open_issues": 46,
                 "owner": "aviaryan",
                 "repo": "Clipjump",
-                "stars": 397,
+                "stars": 396,
                 "topics": [
                   "autohotkey",
                   "clipboard",
@@ -1480,7 +1480,7 @@
                 "open_issues": 2,
                 "owner": "marius-sucan",
                 "repo": "KeyPress-OSD",
-                "stars": 415,
+                "stars": 416,
                 "topics": [
                   "ahk",
                   "autohotkey",
@@ -2071,7 +2071,7 @@
                 "open_issues": 85,
                 "owner": "Pulover",
                 "repo": "PuloversMacroCreator",
-                "stars": 2025,
+                "stars": 2026,
                 "topics": [
                   "ahk",
                   "autohotkey",
@@ -2167,7 +2167,7 @@
                 "open_issues": 12,
                 "owner": "spyoungtech",
                 "repo": "ahk",
-                "stars": 1033,
+                "stars": 1034,
                 "topics": [
                   "ahk-script",
                   "asyncio",
@@ -2234,7 +2234,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T22:38:40.858Z",
+    "last_updated": "2026-10-01T22:55:20.778Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome AutoHotkey libraries, library distributions, scripts, tools and resources.",
