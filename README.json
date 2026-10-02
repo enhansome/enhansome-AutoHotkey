@@ -1480,7 +1480,7 @@
                 "open_issues": 2,
                 "owner": "marius-sucan",
                 "repo": "KeyPress-OSD",
-                "stars": 416,
+                "stars": 417,
                 "topics": [
                   "ahk",
                   "autohotkey",
@@ -1612,7 +1612,7 @@
                 "id": 1375628030,
                 "language": "AutoHotkey",
                 "license": "MIT",
-                "last_commit": "2026-09-28T08:52:46Z",
+                "last_commit": "2026-10-02T06:40:36Z",
                 "open_issues": 0,
                 "owner": "shokurov",
                 "repo": "ahk-layout-switch",
@@ -1651,7 +1651,7 @@
                 "open_issues": 119,
                 "owner": "fuhsjr00",
                 "repo": "bug.n",
-                "stars": 3437,
+                "stars": 3435,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:54:56.890Z"
@@ -1853,7 +1853,7 @@
                 "open_issues": 40,
                 "owner": "phil294",
                 "repo": "AHK_X11",
-                "stars": 1026,
+                "stars": 1024,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:54:56.890Z"
@@ -2071,7 +2071,7 @@
                 "open_issues": 85,
                 "owner": "Pulover",
                 "repo": "PuloversMacroCreator",
-                "stars": 2026,
+                "stars": 2027,
                 "topics": [
                   "ahk",
                   "autohotkey",
@@ -2163,8 +2163,8 @@
                 "id": 158650053,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-28T21:15:12Z",
-                "open_issues": 12,
+                "last_commit": "2026-10-02T01:04:01Z",
+                "open_issues": 11,
                 "owner": "spyoungtech",
                 "repo": "ahk",
                 "stars": 1034,
@@ -2234,7 +2234,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T22:55:20.778Z",
+    "last_updated": "2026-10-02T22:34:36.722Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome AutoHotkey libraries, library distributions, scripts, tools and resources.",
