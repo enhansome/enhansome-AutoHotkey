@@ -7,6 +7,34 @@
           "children": [
             {
               "node_type": "item",
+              "title": "WinClip",
+              "description": "by Deo - WinClip is a clipboard manipulation class extending AutoHotkey's clipboard capabilities including support for RTF, HTML and images. Forum thread: link.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A direct translation of the old WinClip (from the first reincarnation to v2 - but updated)",
+                "homepage": null,
+                "id": 371915720,
+                "language": "AutoHotkey",
+                "license": "MIT",
+                "last_commit": "2024-07-15T10:24:40Z",
+                "open_issues": 5,
+                "owner": "TheArkive",
+                "repo": "WinClip_ahk2",
+                "stars": 35,
+                "topics": []
+              },
+              "first_seen": "2026-10-03T21:47:46.503Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Clipboard"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "LibCon",
               "description": "by joedf - AutoHotkey Library For Console Support. This library enables you to write console applications and interact with other console instances. Basically, this library facilitates anything that has to do with writing and interacting with consoles. Forum thread: link.",
               "children": [],
@@ -1448,7 +1476,7 @@
                 "id": 34996106,
                 "language": "AutoHotkey",
                 "license": null,
-                "last_commit": "2026-05-21T20:54:47Z",
+                "last_commit": "2026-10-03T19:46:41Z",
                 "open_issues": 29,
                 "owner": "JnLlnd",
                 "repo": "QuickAccessPopup",
@@ -1456,6 +1484,27 @@
                 "topics": []
               },
               "first_seen": "2026-08-29T01:54:56.890Z"
+            },
+            {
+              "node_type": "item",
+              "title": "SpicyKeys",
+              "description": "Use hotkeys to open or move/copy selected files in Windows Explorer. Forum thread: link",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 806478777,
+                "language": "HTML",
+                "license": null,
+                "last_commit": "2024-05-27T09:23:31Z",
+                "open_issues": 0,
+                "owner": "spicykeys",
+                "repo": "spicykeys.github.io",
+                "stars": 0,
+                "topics": []
+              },
+              "first_seen": "2026-10-03T21:47:46.503Z"
             }
           ],
           "description": null,
@@ -1888,7 +1937,7 @@
             {
               "node_type": "item",
               "title": "AutoHotkey DLL",
-              "description": "AutoHotkey.dll opens the world of AutoHotkey to other programming and scripting languages. Forum thread: link. Documentation link.",
+              "description": "AutoHotkey.dll opens the world of AutoHotkey to other programming and scripting languages. Forum thread: link. Documentation link (dead link).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2071,7 +2120,7 @@
                 "open_issues": 85,
                 "owner": "Pulover",
                 "repo": "PuloversMacroCreator",
-                "stars": 2027,
+                "stars": 2026,
                 "topics": [
                   "ahk",
                   "autohotkey",
@@ -2234,7 +2283,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:24:36.261Z",
+    "last_updated": "2026-10-03T21:47:46.503Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome AutoHotkey libraries, library distributions, scripts, tools and resources.",
@@ -2242,14 +2291,14 @@
       "id": 22615356,
       "language": null,
       "license": null,
-      "last_commit": "2026-09-18T10:25:42Z",
-      "open_issues": 28,
+      "last_commit": "2026-10-03T08:03:13Z",
+      "open_issues": 26,
       "owner": "ahkscript",
       "repo": "awesome-AutoHotkey",
-      "stars": 3090,
+      "stars": 3092,
       "topics": []
     },
-    "original_repository_sha": "ca133c50f8621c8ffb74627a7e466f850bac2f48",
+    "original_repository_sha": "8a9b89034be3835a9797b20948fd092169243948",
     "enhanced_repository": "enhansome/enhansome-AutoHotkey",
     "enhanced_repository_description": null,
     "title": "Awesome AutoHotkey with stars"
