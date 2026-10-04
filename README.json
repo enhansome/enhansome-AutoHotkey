@@ -467,7 +467,7 @@
                 "id": 266191907,
                 "language": "AutoHotkey",
                 "license": "MIT",
-                "last_commit": "2026-06-16T22:54:22Z",
+                "last_commit": "2026-10-03T22:42:42Z",
                 "open_issues": 14,
                 "owner": "iseahound",
                 "repo": "ImagePut",
@@ -1661,7 +1661,7 @@
                 "id": 1375628030,
                 "language": "AutoHotkey",
                 "license": "MIT",
-                "last_commit": "2026-10-02T06:40:36Z",
+                "last_commit": "2026-10-04T09:18:06Z",
                 "open_issues": 0,
                 "owner": "shokurov",
                 "repo": "ahk-layout-switch",
@@ -2120,7 +2120,7 @@
                 "open_issues": 85,
                 "owner": "Pulover",
                 "repo": "PuloversMacroCreator",
-                "stars": 2026,
+                "stars": 2025,
                 "topics": [
                   "ahk",
                   "autohotkey",
@@ -2283,7 +2283,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T21:47:46.503Z",
+    "last_updated": "2026-10-04T21:57:57.369Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome AutoHotkey libraries, library distributions, scripts, tools and resources.",
@@ -2295,7 +2295,7 @@
       "open_issues": 26,
       "owner": "ahkscript",
       "repo": "awesome-AutoHotkey",
-      "stars": 3092,
+      "stars": 3093,
       "topics": []
     },
     "original_repository_sha": "8a9b89034be3835a9797b20948fd092169243948",
