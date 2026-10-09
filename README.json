@@ -1480,7 +1480,7 @@
                 "open_issues": 29,
                 "owner": "JnLlnd",
                 "repo": "QuickAccessPopup",
-                "stars": 6,
+                "stars": 7,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:54:56.890Z"
@@ -2044,7 +2044,7 @@
                 "id": 32202707,
                 "language": "AutoHotkey",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-08T21:45:06Z",
+                "last_commit": "2026-10-09T05:00:32Z",
                 "open_issues": 4,
                 "owner": "bichlepa",
                 "repo": "AutoHotFlow",
@@ -2120,7 +2120,7 @@
                 "open_issues": 85,
                 "owner": "Pulover",
                 "repo": "PuloversMacroCreator",
-                "stars": 2024,
+                "stars": 2023,
                 "topics": [
                   "ahk",
                   "autohotkey",
@@ -2283,7 +2283,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T23:34:03.666Z",
+    "last_updated": "2026-10-09T22:54:45.322Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome AutoHotkey libraries, library distributions, scripts, tools and resources.",
