@@ -467,7 +467,7 @@
                 "id": 266191907,
                 "language": "AutoHotkey",
                 "license": "MIT",
-                "last_commit": "2026-10-03T22:42:42Z",
+                "last_commit": "2026-10-10T19:02:05Z",
                 "open_issues": 14,
                 "owner": "iseahound",
                 "repo": "ImagePut",
@@ -1661,11 +1661,11 @@
                 "id": 1375628030,
                 "language": "AutoHotkey",
                 "license": "MIT",
-                "last_commit": "2026-10-04T09:18:06Z",
+                "last_commit": "2026-10-10T04:05:30Z",
                 "open_issues": 0,
                 "owner": "shokurov",
                 "repo": "ahk-layout-switch",
-                "stars": 1,
+                "stars": 2,
                 "topics": [
                   "autohotkey",
                   "input-method",
@@ -2044,11 +2044,11 @@
                 "id": 32202707,
                 "language": "AutoHotkey",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-09T05:00:32Z",
-                "open_issues": 4,
+                "last_commit": "2026-10-10T10:12:38Z",
+                "open_issues": 5,
                 "owner": "bichlepa",
                 "repo": "AutoHotFlow",
-                "stars": 73,
+                "stars": 74,
                 "topics": [
                   "automation"
                 ]
@@ -2120,7 +2120,7 @@
                 "open_issues": 85,
                 "owner": "Pulover",
                 "repo": "PuloversMacroCreator",
-                "stars": 2023,
+                "stars": 2024,
                 "topics": [
                   "ahk",
                   "autohotkey",
@@ -2283,7 +2283,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T22:54:45.322Z",
+    "last_updated": "2026-10-10T22:00:08.568Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome AutoHotkey libraries, library distributions, scripts, tools and resources.",
@@ -2295,7 +2295,7 @@
       "open_issues": 26,
       "owner": "ahkscript",
       "repo": "awesome-AutoHotkey",
-      "stars": 3096,
+      "stars": 3097,
       "topics": []
     },
     "original_repository_sha": "8a9b89034be3835a9797b20948fd092169243948",
