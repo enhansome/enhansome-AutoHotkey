@@ -960,7 +960,7 @@
                 "open_issues": 5,
                 "owner": "Kalamity",
                 "repo": "classMemory",
-                "stars": 71,
+                "stars": 70,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:54:56.890Z"
@@ -2044,8 +2044,8 @@
                 "id": 32202707,
                 "language": "AutoHotkey",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-10T10:12:38Z",
-                "open_issues": 5,
+                "last_commit": "2026-10-11T19:03:00Z",
+                "open_issues": 3,
                 "owner": "bichlepa",
                 "repo": "AutoHotFlow",
                 "stars": 74,
@@ -2120,7 +2120,7 @@
                 "open_issues": 85,
                 "owner": "Pulover",
                 "repo": "PuloversMacroCreator",
-                "stars": 2024,
+                "stars": 2025,
                 "topics": [
                   "ahk",
                   "autohotkey",
@@ -2283,7 +2283,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T22:00:08.568Z",
+    "last_updated": "2026-10-11T22:29:08.616Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome AutoHotkey libraries, library distributions, scripts, tools and resources.",
