@@ -1,6 +1,6 @@
 # Awesome AutoHotkey with stars
 
-A curated list of awesome [AutoHotkey](https://autohotkey.com/) libraries, library distributions, scripts, tools and resources. Inspired by the other [awesome lists](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,717 | 🐛 64 | 🌐 Ruby | 📅 2024-06-02. Please read [CONTRIBUTING.md](https://github.com/ahkscript/awesome-AutoHotkey/blob/master/.github/CONTRIBUTING.md) before contributing.
+A curated list of awesome [AutoHotkey](https://autohotkey.com/) libraries, library distributions, scripts, tools and resources. Inspired by the other [awesome lists](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,721 | 🐛 64 | 🌐 Ruby | 📅 2024-06-02. Please read [CONTRIBUTING.md](https://github.com/ahkscript/awesome-AutoHotkey/blob/master/.github/CONTRIBUTING.md) before contributing.
 
 Out-of-date or discontinued, but nonetheless historically relevant items can be found on [Historical.md](https://github.com/ahkscript/awesome-AutoHotkey/blob/master/Historical.md)
 
@@ -108,7 +108,7 @@ Development state:
 
 ### <a name="libraries-graphics"></a>Graphics
 
-* [ImagePut](https://github.com/iseahound/ImagePut) ⭐ 233 | 🐛 14 | 🌐 AutoHotkey | 📅 2026-10-10 - by iseahound - Image library for converting to files, streams, windows, base64, urls, cursors, screen coordinates, clipboard, pointers, handles, and more. Supports AutoHotkey v1 and v2. - Forum thread: [link](https://www.autohotkey.com/boards/viewtopic.php?f=6\&t=76301\&p=330615)
+* [ImagePut](https://github.com/iseahound/ImagePut) ⭐ 233 | 🐛 14 | 🌐 AutoHotkey | 📅 2026-10-12 - by iseahound - Image library for converting to files, streams, windows, base64, urls, cursors, screen coordinates, clipboard, pointers, handles, and more. Supports AutoHotkey v1 and v2. - Forum thread: [link](https://www.autohotkey.com/boards/viewtopic.php?f=6\&t=76301\&p=330615)
 * [GDIp\_ImageSearch](https://autohotkey.com/board/topic/71100-) - by tic - Library using gdiplus.dll for searching image instances on the screen. See the end of that thread for MasterFocus' improved version, or see his [GitHub repo here](https://github.com/MasterFocus/AutoHotkey/tree/master/Functions/Gdip_ImageSearch) ⭐ 213 | 🐛 0 | 🌐 AutoHotkey | 📅 2025-04-21
 * [AHKv2-GDIP](https://github.com/mmikeww/AHKv2-Gdip) ⭐ 160 | 🐛 9 | 🌐 AutoHotkey | 📅 2021-10-17 - Update of the above GDI+ library compatiable with both AHK v1.1 and AHK v2 - Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6\&t=6517).
 * [GDIp](https://github.com/tariqporter/Gdip/) ⭐ 158 | 🐛 5 | 🌐 AutoHotkey | 📅 2019-03-05 - by tic - Full featured library that helps in interaction with Microsoft's gdiplus.dll - Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6\&t=6517).
@@ -268,7 +268,7 @@ Development state:
 
 ### Window Management
 
-* [bug.n](https://github.com/fuhsjr00/bug.n) ⭐ 3,436 | 🐛 119 | 🌐 AutoHotkey | 📅 2023-01-05 - Tiling Window Manager. Forum thread: [link](https://autohotkey.com/board/topic/30332-bugn-tiling-window-manager/)
+* [bug.n](https://github.com/fuhsjr00/bug.n) ⭐ 3,435 | 🐛 119 | 🌐 AutoHotkey | 📅 2023-01-05 - Tiling Window Manager. Forum thread: [link](https://autohotkey.com/board/topic/30332-bugn-tiling-window-manager/)
 * [WindowPadX](https://github.com/hoppfrosch/WindowPadX) ⭐ 232 | 🐛 9 | 🌐 AutoHotkey | 📅 2024-02-29 - tool which provides some useful functionality within multi monitor environments. *WindowPadX is an enhancement of WindowPad, originally released by Lexikos, see original forum thread: [link](https://autohotkey.com/board/topic/19990-windowpad-window-moving-tool/)*
 * [Open-Show-Apps](https://github.com/JuanmaMenendez/AutoHotkey-script-Open-Show-Apps) ⭐ 149 | 🐛 7 | 🌐 AutoHotkey | 📅 2025-07-06 - Open, restore or minimize the desired Window's or Chrome's Apps. Forum thread: [link](https://www.autohotkey.com/boards/viewtopic.php?f=6\&t=63579\&p=272220#p272220)
 * [SnapX](https://github.com/benallred/SnapX/releases) ⭐ 43 | 🐛 3 | 🌐 AutoHotkey | 📅 2020-08-12 - Enhances Windows/Aero Snap by taking over its hotkeys (Win+Left/Right, etc) and providing more fine-grained control over snap location and size. Works with multiple monitors, resolutions, and DPI levels.
@@ -293,7 +293,7 @@ Development state:
 
 ### Interpreter
 
-* [AHK\_X11](https://github.com/phil294/AHK_X11) ⭐ 1,024 | 🐛 40 | 🌐 Crystal | 📅 2026-01-03 A rudimentary but functional implementation of AutoHotkey v1.0.24 for Linux by phil294. [Forum](https://www.autohotkey.com/boards/viewtopic.php?f=81\&t=106640)
+* [AHK\_X11](https://github.com/phil294/AHK_X11) ⭐ 1,023 | 🐛 40 | 🌐 Crystal | 📅 2026-01-03 A rudimentary but functional implementation of AutoHotkey v1.0.24 for Linux by phil294. [Forum](https://www.autohotkey.com/boards/viewtopic.php?f=81\&t=106640)
 * [IronAHK](https://github.com/polyethene/IronAHK) ⚠️ Archived - Cross platform .NET rewrite - *unfinished*.
 * [AutoHotkey DLL](https://github.com/HotKeyIt/ahkdll-v1-release/) ⭐ 69 | 🐛 3 | 🌐 AutoHotkey | 📅 2026-09-27 - AutoHotkey.dll opens the world of AutoHotkey to other programming and scripting languages. Forum thread: [link](https://autohotkey.com/board/topic/39588-autohotkeydll/). Documentation ~~[link](http://hotkeyit.ahk4.net/files/AutoHotkey-txt.html)~~ (dead link).
 * [AutoHotkey](https://autohotkey.com/download/) - AutoHotkey interpreter installer and binaries.
@@ -314,7 +314,7 @@ Development state:
 ### Integrated Development Environment
 
 * [SublimeAutoHotkey](https://github.com/ahkscript/SublimeAutoHotkey) ⭐ 212 | 🐛 17 | 🌐 Python | 📅 2022-05-05 - AutoHotkey AHK language package for SublimeText including syntax highlighting, comments toggling, auto-completions, build system definitions, commands for ahkrun, ahkcompile, ahkrunpiped.
-* [AutoHotFlow](https://www.dropbox.com/s/99cwiqpzlx4mtuz/AutoHotFlow%20Installation.exe?dl=1) - Draw your applications. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6\&t=6399). GitHub [link](https://github.com/bichlepa/AutoHotFlow) ⭐ 74 | 🐛 3 | 🌐 AutoHotkey | 📅 2026-10-11.
+* [AutoHotFlow](https://www.dropbox.com/s/99cwiqpzlx4mtuz/AutoHotFlow%20Installation.exe?dl=1) - Draw your applications. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6\&t=6399). GitHub [link](https://github.com/bichlepa/AutoHotFlow) ⭐ 74 | 🐛 3 | 🌐 AutoHotkey | 📅 2026-10-12.
 * [vim-AHKcomplete](https://github.com/huleiak47/vim-AHKcomplete) ⭐ 14 | 🐛 0 | 🌐 Python | 📅 2018-06-27 - Vim plugin to add auto-completion. (omni-completion)
 * [Vim autohotkey-ahk](https://github.com/vim-scripts/autohotkey-ahk) ⭐ 14 | 🐛 0 | 🌐 VimL | 📅 2010-10-19 - Vim plugin to add syntax highlighting for AutoHotkey.
 * [AHK Studio](https://autohotkey.com/boards/viewtopic.php?f=6\&t=300) - SciLexer.dll based IDE for AutoHotkey.
@@ -334,7 +334,7 @@ Development state:
 
 ### Script Recorders and Writers
 
-* [Pulover’s Macro Creator](http://www.macrocreator.com/) - a Free Automation Tool and Script Generator. Recommended for beginners. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6\&t=143). GitHub [link](https://github.com/Pulover/PuloversMacroCreator) ⭐ 2,025 | 🐛 85 | 🌐 AutoHotkey | 📅 2022-07-25.
+* [Pulover’s Macro Creator](http://www.macrocreator.com/) - a Free Automation Tool and Script Generator. Recommended for beginners. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6\&t=143). GitHub [link](https://github.com/Pulover/PuloversMacroCreator) ⭐ 2,026 | 🐛 85 | 🌐 AutoHotkey | 📅 2022-07-25.
 
 ### Web Syntax Highlighters
 
@@ -355,7 +355,7 @@ Development state:
 
 ### (Use in) other programming languages
 
-* [ahk](https://github.com/spyoungtech/ahk) ⭐ 1,034 | 🐛 11 | 🌐 Python | 📅 2026-10-06 - A Python wrapper for AutoHotkey - Forum thread: [link](https://www.autohotkey.com/boards/viewtopic.php?f=6\&t=63184)
+* [ahk](https://github.com/spyoungtech/ahk) ⭐ 1,035 | 🐛 12 | 🌐 Python | 📅 2026-10-12 - A Python wrapper for AutoHotkey - Forum thread: [link](https://www.autohotkey.com/boards/viewtopic.php?f=6\&t=63184)
 * [Exo-Javascript](https://github.com/Aurelain/Exo) ⚠️ Archived - Write AHK with JavaScript - Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6\&t=5714), Exo-CLI (Interactive Command-line) [link](https://github.com/joedf/Exo-CLI.ahk) ⭐ 10 | 🐛 1 | 🌐 JavaScript | 📅 2018-01-28.
 * [AutoHotkey.py](https://github.com/Perlence/AutoHotkey.py) ⭐ 82 | 🐛 7 | 🌐 Python | 📅 2023-04-29 - Write AutoHotkey scripts in Python - Forum thread: [link](https://www.autohotkey.com/boards/viewtopic.php?f=6\&t=86025)
 * [AutoHotkey.dll](https://hotkeyit.github.io/v2/docs/AutoHotkeyDll.htm) - Part of the [AutoHotkey\_H](#autohotkey_h) distribution. Load the autohotkey.dll from your other language, and pass normal AHK code to the dll file for execution. See here for a list of the [exported functions](https://hotkeyit.github.io/v2/docs/AHKH_Features.htm). Some older links: [python example](https://autohotkey.com/board/topic/56938-simple-python-intergration-example/), [c/c++ example](https://autohotkey.com/board/topic/39588-autohotkeydll/page-10#entry321945), [forum link](https://autohotkey.com/board/topic/39588-autohotkeydll/)
@@ -394,7 +394,7 @@ Development state:
 
 ### Documentation
 
-* [Official documentation](https://autohotkey.com/docs/AutoHotkey.htm) - Official uptodate AutoHotkey documentation. GitHub [link](https://github.com/Lexikos/AutoHotkey_L-Docs) ⭐ 496 | 🐛 0 | 🌐 AutoHotkey | 📅 2026-10-11.
+* [Official documentation](https://autohotkey.com/docs/AutoHotkey.htm) - Official uptodate AutoHotkey documentation. GitHub [link](https://github.com/Lexikos/AutoHotkey_L-Docs) ⭐ 496 | 🐛 0 | 🌐 AutoHotkey | 📅 2026-10-12.
 
 ### Books
 
@@ -426,4 +426,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-13._
