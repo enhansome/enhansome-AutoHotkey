@@ -293,7 +293,7 @@ Development state:
 
 ### Interpreter
 
-* [AHK\_X11](https://github.com/phil294/AHK_X11) ⭐ 1,023 | 🐛 40 | 🌐 Crystal | 📅 2026-01-03 A rudimentary but functional implementation of AutoHotkey v1.0.24 for Linux by phil294. [Forum](https://www.autohotkey.com/boards/viewtopic.php?f=81\&t=106640)
+* [AHK\_X11](https://github.com/phil294/AHK_X11) ⭐ 1,022 | 🐛 40 | 🌐 Crystal | 📅 2026-01-03 A rudimentary but functional implementation of AutoHotkey v1.0.24 for Linux by phil294. [Forum](https://www.autohotkey.com/boards/viewtopic.php?f=81\&t=106640)
 * [IronAHK](https://github.com/polyethene/IronAHK) ⚠️ Archived - Cross platform .NET rewrite - *unfinished*.
 * [AutoHotkey DLL](https://github.com/HotKeyIt/ahkdll-v1-release/) ⭐ 69 | 🐛 3 | 🌐 AutoHotkey | 📅 2026-09-27 - AutoHotkey.dll opens the world of AutoHotkey to other programming and scripting languages. Forum thread: [link](https://autohotkey.com/board/topic/39588-autohotkeydll/). Documentation ~~[link](http://hotkeyit.ahk4.net/files/AutoHotkey-txt.html)~~ (dead link).
 * [AutoHotkey](https://autohotkey.com/download/) - AutoHotkey interpreter installer and binaries.
@@ -314,7 +314,7 @@ Development state:
 ### Integrated Development Environment
 
 * [SublimeAutoHotkey](https://github.com/ahkscript/SublimeAutoHotkey) ⭐ 212 | 🐛 17 | 🌐 Python | 📅 2022-05-05 - AutoHotkey AHK language package for SublimeText including syntax highlighting, comments toggling, auto-completions, build system definitions, commands for ahkrun, ahkcompile, ahkrunpiped.
-* [AutoHotFlow](https://www.dropbox.com/s/99cwiqpzlx4mtuz/AutoHotFlow%20Installation.exe?dl=1) - Draw your applications. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6\&t=6399). GitHub [link](https://github.com/bichlepa/AutoHotFlow) ⭐ 74 | 🐛 3 | 🌐 AutoHotkey | 📅 2026-10-12.
+* [AutoHotFlow](https://www.dropbox.com/s/99cwiqpzlx4mtuz/AutoHotFlow%20Installation.exe?dl=1) - Draw your applications. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6\&t=6399). GitHub [link](https://github.com/bichlepa/AutoHotFlow) ⭐ 74 | 🐛 3 | 🌐 AutoHotkey | 📅 2026-10-13.
 * [vim-AHKcomplete](https://github.com/huleiak47/vim-AHKcomplete) ⭐ 14 | 🐛 0 | 🌐 Python | 📅 2018-06-27 - Vim plugin to add auto-completion. (omni-completion)
 * [Vim autohotkey-ahk](https://github.com/vim-scripts/autohotkey-ahk) ⭐ 14 | 🐛 0 | 🌐 VimL | 📅 2010-10-19 - Vim plugin to add syntax highlighting for AutoHotkey.
 * [AHK Studio](https://autohotkey.com/boards/viewtopic.php?f=6\&t=300) - SciLexer.dll based IDE for AutoHotkey.
@@ -355,7 +355,7 @@ Development state:
 
 ### (Use in) other programming languages
 
-* [ahk](https://github.com/spyoungtech/ahk) ⭐ 1,035 | 🐛 12 | 🌐 Python | 📅 2026-10-12 - A Python wrapper for AutoHotkey - Forum thread: [link](https://www.autohotkey.com/boards/viewtopic.php?f=6\&t=63184)
+* [ahk](https://github.com/spyoungtech/ahk) ⭐ 1,035 | 🐛 11 | 🌐 Python | 📅 2026-10-13 - A Python wrapper for AutoHotkey - Forum thread: [link](https://www.autohotkey.com/boards/viewtopic.php?f=6\&t=63184)
 * [Exo-Javascript](https://github.com/Aurelain/Exo) ⚠️ Archived - Write AHK with JavaScript - Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6\&t=5714), Exo-CLI (Interactive Command-line) [link](https://github.com/joedf/Exo-CLI.ahk) ⭐ 10 | 🐛 1 | 🌐 JavaScript | 📅 2018-01-28.
 * [AutoHotkey.py](https://github.com/Perlence/AutoHotkey.py) ⭐ 82 | 🐛 7 | 🌐 Python | 📅 2023-04-29 - Write AutoHotkey scripts in Python - Forum thread: [link](https://www.autohotkey.com/boards/viewtopic.php?f=6\&t=86025)
 * [AutoHotkey.dll](https://hotkeyit.github.io/v2/docs/AutoHotkeyDll.htm) - Part of the [AutoHotkey\_H](#autohotkey_h) distribution. Load the autohotkey.dll from your other language, and pass normal AHK code to the dll file for execution. See here for a list of the [exported functions](https://hotkeyit.github.io/v2/docs/AHKH_Features.htm). Some older links: [python example](https://autohotkey.com/board/topic/56938-simple-python-intergration-example/), [c/c++ example](https://autohotkey.com/board/topic/39588-autohotkeydll/page-10#entry321945), [forum link](https://autohotkey.com/board/topic/39588-autohotkeydll/)

@@ -1902,7 +1902,7 @@
                 "open_issues": 40,
                 "owner": "phil294",
                 "repo": "AHK_X11",
-                "stars": 1023,
+                "stars": 1022,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:54:56.890Z"
@@ -2044,7 +2044,7 @@
                 "id": 32202707,
                 "language": "AutoHotkey",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-12T21:57:58Z",
+                "last_commit": "2026-10-13T14:32:54Z",
                 "open_issues": 3,
                 "owner": "bichlepa",
                 "repo": "AutoHotFlow",
@@ -2212,8 +2212,8 @@
                 "id": 158650053,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-12T21:20:01Z",
-                "open_issues": 12,
+                "last_commit": "2026-10-13T12:01:17Z",
+                "open_issues": 11,
                 "owner": "spyoungtech",
                 "repo": "ahk",
                 "stars": 1035,
@@ -2283,7 +2283,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T00:58:50.208Z",
+    "last_updated": "2026-10-13T23:07:52.071Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome AutoHotkey libraries, library distributions, scripts, tools and resources.",
@@ -2292,10 +2292,10 @@
       "language": null,
       "license": null,
       "last_commit": "2026-10-03T08:03:13Z",
-      "open_issues": 27,
+      "open_issues": 29,
       "owner": "ahkscript",
       "repo": "awesome-AutoHotkey",
-      "stars": 3098,
+      "stars": 3099,
       "topics": []
     },
     "original_repository_sha": "8a9b89034be3835a9797b20948fd092169243948",
