@@ -2216,7 +2216,7 @@
                 "open_issues": 11,
                 "owner": "spyoungtech",
                 "repo": "ahk",
-                "stars": 1035,
+                "stars": 1037,
                 "topics": [
                   "ahk-script",
                   "asyncio",
@@ -2283,7 +2283,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T23:07:52.071Z",
+    "last_updated": "2026-10-14T21:56:58.792Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome AutoHotkey libraries, library distributions, scripts, tools and resources.",
@@ -2295,7 +2295,7 @@
       "open_issues": 29,
       "owner": "ahkscript",
       "repo": "awesome-AutoHotkey",
-      "stars": 3099,
+      "stars": 3101,
       "topics": []
     },
     "original_repository_sha": "8a9b89034be3835a9797b20948fd092169243948",
