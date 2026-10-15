@@ -1445,6 +1445,48 @@
           "children": [
             {
               "node_type": "item",
+              "title": "ALTRun",
+              "description": "A lightweight, open-source Alfred-style launcher for Windows. For apps, files (with Everything), web searches, calculations, clipboard history and snippets. Written in AutoHotkey v2.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A lightweight, open-source Alfred-style launcher for Windows.",
+                "homepage": "https://zhugecaomao.github.io/ALTRun/",
+                "id": 670118185,
+                "language": "AutoHotkey",
+                "license": "GPL-3.0",
+                "last_commit": "2026-10-15T14:33:01Z",
+                "open_issues": 2,
+                "owner": "zhugecaomao",
+                "repo": "ALTRun",
+                "stars": 188,
+                "topics": [
+                  "alfred",
+                  "app-launcher",
+                  "autohotkey",
+                  "autohotkey-v2",
+                  "clipboard-manager",
+                  "everything",
+                  "file-search",
+                  "launcher",
+                  "lightweight",
+                  "listary",
+                  "open-source",
+                  "pinyin",
+                  "powertoys-run",
+                  "productivity",
+                  "runz",
+                  "shortcuts",
+                  "snippets",
+                  "totalcommander",
+                  "windows",
+                  "wox"
+                ]
+              },
+              "first_seen": "2026-10-15T21:48:03.327Z"
+            },
+            {
+              "node_type": "item",
               "title": "Belvedere",
               "description": "sets up rules for taking actions on files (move, copy, delete, etc) based on the name of a file, its extension, size, age, and more. More info link.",
               "children": [],
@@ -1676,6 +1718,33 @@
                 ]
               },
               "first_seen": "2026-09-18T21:16:23.285Z"
+            },
+            {
+              "node_type": "item",
+              "title": "AU accounting hotkeys",
+              "description": "Types Australian financial year dates and period labels, with a searchable picker, ABN and ACN formatting and draft workpaper snippets.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Windows AutoHotkey v2 shortcuts for Australian accountants: financial-year dates, a searchable picker of period labels, ABN and ACN formatting, and draft workpaper snippets.",
+                "homepage": "https://duguid.com.au/",
+                "id": 1406747979,
+                "language": "AutoHotkey",
+                "license": "Apache-2.0",
+                "last_commit": "2026-10-12T20:24:01Z",
+                "open_issues": 0,
+                "owner": "ryanduguid",
+                "repo": "au-accounting-hotkeys",
+                "stars": 0,
+                "topics": [
+                  "accounting",
+                  "australia",
+                  "autohotkey",
+                  "autohotkey-v2",
+                  "hotkeys"
+                ]
+              },
+              "first_seen": "2026-10-15T21:48:03.327Z"
             }
           ],
           "description": null,
@@ -1742,7 +1811,7 @@
                 "open_issues": 7,
                 "owner": "JuanmaMenendez",
                 "repo": "AutoHotkey-script-Open-Show-Apps",
-                "stars": 149,
+                "stars": 150,
                 "topics": [
                   "application",
                   "autohotkey",
@@ -2044,7 +2113,7 @@
                 "id": 32202707,
                 "language": "AutoHotkey",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-13T14:32:54Z",
+                "last_commit": "2026-10-15T20:30:13Z",
                 "open_issues": 3,
                 "owner": "bichlepa",
                 "repo": "AutoHotFlow",
@@ -2283,7 +2352,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T21:56:58.792Z",
+    "last_updated": "2026-10-15T21:48:03.327Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome AutoHotkey libraries, library distributions, scripts, tools and resources.",
@@ -2291,14 +2360,14 @@
       "id": 22615356,
       "language": null,
       "license": null,
-      "last_commit": "2026-10-03T08:03:13Z",
-      "open_issues": 29,
+      "last_commit": "2026-10-15T08:27:06Z",
+      "open_issues": 27,
       "owner": "ahkscript",
       "repo": "awesome-AutoHotkey",
       "stars": 3101,
       "topics": []
     },
-    "original_repository_sha": "8a9b89034be3835a9797b20948fd092169243948",
+    "original_repository_sha": "125bf380e1f3f7d47ed6bbc7bcf78226311f29d0",
     "enhanced_repository": "enhansome/enhansome-AutoHotkey",
     "enhanced_repository_description": null,
     "title": "Awesome AutoHotkey with stars"
