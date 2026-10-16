@@ -498,7 +498,7 @@
                 "open_issues": 0,
                 "owner": "MasterFocus",
                 "repo": "AutoHotkey",
-                "stars": 213,
+                "stars": 212,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:54:56.890Z"
@@ -1455,11 +1455,11 @@
                 "id": 670118185,
                 "language": "AutoHotkey",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-15T14:33:01Z",
+                "last_commit": "2026-10-16T14:00:40Z",
                 "open_issues": 2,
                 "owner": "zhugecaomao",
                 "repo": "ALTRun",
-                "stars": 188,
+                "stars": 189,
                 "topics": [
                   "alfred",
                   "app-launcher",
@@ -1707,7 +1707,7 @@
                 "open_issues": 0,
                 "owner": "shokurov",
                 "repo": "ahk-layout-switch",
-                "stars": 2,
+                "stars": 3,
                 "topics": [
                   "autohotkey",
                   "input-method",
@@ -1727,7 +1727,7 @@
               "repo_info": {
                 "archived": false,
                 "description": "Windows AutoHotkey v2 shortcuts for Australian accountants: financial-year dates, a searchable picker of period labels, ABN and ACN formatting, and draft workpaper snippets.",
-                "homepage": "https://duguid.com.au/",
+                "homepage": "https://github.com/ryanduguid/au-accounting-hotkeys#readme",
                 "id": 1406747979,
                 "language": "AutoHotkey",
                 "license": "Apache-2.0",
@@ -2352,7 +2352,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T21:48:03.327Z",
+    "last_updated": "2026-10-16T21:43:47.166Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome AutoHotkey libraries, library distributions, scripts, tools and resources.",
@@ -2364,7 +2364,7 @@
       "open_issues": 27,
       "owner": "ahkscript",
       "repo": "awesome-AutoHotkey",
-      "stars": 3101,
+      "stars": 3102,
       "topics": []
     },
     "original_repository_sha": "125bf380e1f3f7d47ed6bbc7bcf78226311f29d0",
