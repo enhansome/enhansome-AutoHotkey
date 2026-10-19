@@ -1455,11 +1455,11 @@
                 "id": 670118185,
                 "language": "AutoHotkey",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-18T14:52:53Z",
+                "last_commit": "2026-10-19T21:59:29Z",
                 "open_issues": 3,
                 "owner": "zhugecaomao",
                 "repo": "ALTRun",
-                "stars": 190,
+                "stars": 201,
                 "topics": [
                   "alfred",
                   "app-launcher",
@@ -1633,7 +1633,7 @@
                 "open_issues": 56,
                 "owner": "ManiacDC",
                 "repo": "TypingAid",
-                "stars": 160,
+                "stars": 161,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:54:56.890Z"
@@ -1731,7 +1731,7 @@
                 "id": 1406747979,
                 "language": "AutoHotkey",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-18T03:16:59Z",
+                "last_commit": "2026-10-19T12:49:00Z",
                 "open_issues": 1,
                 "owner": "ryanduguid",
                 "repo": "au-accounting-hotkeys",
@@ -2113,7 +2113,7 @@
                 "id": 32202707,
                 "language": "AutoHotkey",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-17T07:12:47Z",
+                "last_commit": "2026-10-19T18:50:32Z",
                 "open_issues": 3,
                 "owner": "bichlepa",
                 "repo": "AutoHotFlow",
@@ -2281,11 +2281,11 @@
                 "id": 158650053,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-13T12:01:17Z",
-                "open_issues": 11,
+                "last_commit": "2026-10-19T21:21:17Z",
+                "open_issues": 12,
                 "owner": "spyoungtech",
                 "repo": "ahk",
-                "stars": 1037,
+                "stars": 1036,
                 "topics": [
                   "ahk-script",
                   "asyncio",
@@ -2352,7 +2352,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T21:03:44.995Z",
+    "last_updated": "2026-10-19T22:38:42.053Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome AutoHotkey libraries, library distributions, scripts, tools and resources.",
@@ -2364,7 +2364,7 @@
       "open_issues": 26,
       "owner": "ahkscript",
       "repo": "awesome-AutoHotkey",
-      "stars": 3102,
+      "stars": 3103,
       "topics": []
     },
     "original_repository_sha": "125bf380e1f3f7d47ed6bbc7bcf78226311f29d0",
