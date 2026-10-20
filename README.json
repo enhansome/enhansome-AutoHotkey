@@ -1455,11 +1455,11 @@
                 "id": 670118185,
                 "language": "AutoHotkey",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-19T21:59:29Z",
-                "open_issues": 3,
+                "last_commit": "2026-10-20T14:04:53Z",
+                "open_issues": 1,
                 "owner": "zhugecaomao",
                 "repo": "ALTRun",
-                "stars": 201,
+                "stars": 206,
                 "topics": [
                   "alfred",
                   "app-launcher",
@@ -1731,8 +1731,8 @@
                 "id": 1406747979,
                 "language": "AutoHotkey",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-19T12:49:00Z",
-                "open_issues": 1,
+                "last_commit": "2026-10-20T15:56:18Z",
+                "open_issues": 0,
                 "owner": "ryanduguid",
                 "repo": "au-accounting-hotkeys",
                 "stars": 0,
@@ -2189,7 +2189,7 @@
                 "open_issues": 85,
                 "owner": "Pulover",
                 "repo": "PuloversMacroCreator",
-                "stars": 2026,
+                "stars": 2028,
                 "topics": [
                   "ahk",
                   "autohotkey",
@@ -2285,7 +2285,7 @@
                 "open_issues": 12,
                 "owner": "spyoungtech",
                 "repo": "ahk",
-                "stars": 1036,
+                "stars": 1037,
                 "topics": [
                   "ahk-script",
                   "asyncio",
@@ -2352,7 +2352,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T22:38:42.053Z",
+    "last_updated": "2026-10-20T21:54:45.129Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome AutoHotkey libraries, library distributions, scripts, tools and resources.",
