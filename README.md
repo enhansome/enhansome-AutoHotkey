@@ -1,6 +1,6 @@
 # Awesome AutoHotkey with stars
 
-A curated list of awesome [AutoHotkey](https://autohotkey.com/) libraries, library distributions, scripts, tools and resources. Inspired by the other [awesome lists](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,735 | 🐛 64 | 🌐 Ruby | 📅 2024-06-02. Please read [CONTRIBUTING.md](https://github.com/ahkscript/awesome-AutoHotkey/blob/master/.github/CONTRIBUTING.md) before contributing.
+A curated list of awesome [AutoHotkey](https://autohotkey.com/) libraries, library distributions, scripts, tools and resources. Inspired by the other [awesome lists](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,739 | 🐛 64 | 🌐 Ruby | 📅 2024-06-02. Please read [CONTRIBUTING.md](https://github.com/ahkscript/awesome-AutoHotkey/blob/master/.github/CONTRIBUTING.md) before contributing.
 
 Out-of-date or discontinued, but nonetheless historically relevant items can be found on [Historical.md](https://github.com/ahkscript/awesome-AutoHotkey/blob/master/Historical.md)
 
@@ -108,7 +108,7 @@ Development state:
 
 ### <a name="libraries-graphics"></a>Graphics
 
-* [ImagePut](https://github.com/iseahound/ImagePut) ⭐ 233 | 🐛 14 | 🌐 AutoHotkey | 📅 2026-10-12 - by iseahound - Image library for converting to files, streams, windows, base64, urls, cursors, screen coordinates, clipboard, pointers, handles, and more. Supports AutoHotkey v1 and v2. - Forum thread: [link](https://www.autohotkey.com/boards/viewtopic.php?f=6\&t=76301\&p=330615)
+* [ImagePut](https://github.com/iseahound/ImagePut) ⭐ 233 | 🐛 13 | 🌐 AutoHotkey | 📅 2026-10-21 - by iseahound - Image library for converting to files, streams, windows, base64, urls, cursors, screen coordinates, clipboard, pointers, handles, and more. Supports AutoHotkey v1 and v2. - Forum thread: [link](https://www.autohotkey.com/boards/viewtopic.php?f=6\&t=76301\&p=330615)
 * [GDIp\_ImageSearch](https://autohotkey.com/board/topic/71100-) - by tic - Library using gdiplus.dll for searching image instances on the screen. See the end of that thread for MasterFocus' improved version, or see his [GitHub repo here](https://github.com/MasterFocus/AutoHotkey/tree/master/Functions/Gdip_ImageSearch) ⭐ 212 | 🐛 0 | 🌐 AutoHotkey | 📅 2025-04-21
 * [AHKv2-GDIP](https://github.com/mmikeww/AHKv2-Gdip) ⭐ 160 | 🐛 9 | 🌐 AutoHotkey | 📅 2021-10-17 - Update of the above GDI+ library compatiable with both AHK v1.1 and AHK v2 - Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6\&t=6517).
 * [GDIp](https://github.com/tariqporter/Gdip/) ⭐ 158 | 🐛 5 | 🌐 AutoHotkey | 📅 2019-03-05 - by tic - Full featured library that helps in interaction with Microsoft's gdiplus.dll - Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6\&t=6517).
@@ -230,7 +230,7 @@ Development state:
 
 ### <a name="scripts-filesystem"></a>Filesystem
 
-* [ALTRun](https://github.com/zhugecaomao/ALTRun) ⭐ 206 | 🐛 1 | 🌐 AutoHotkey | 📅 2026-10-20 - A lightweight, open-source Alfred-style launcher for Windows. For apps, files (with Everything), web searches, calculations, clipboard history and snippets. Written in AutoHotkey v2.
+* [ALTRun](https://github.com/zhugecaomao/ALTRun) ⭐ 209 | 🐛 3 | 🌐 AutoHotkey | 📅 2026-10-21 - A lightweight, open-source Alfred-style launcher for Windows. For apps, files (with Everything), web searches, calculations, clipboard history and snippets. Written in AutoHotkey v2.
 * [Belvedere](https://github.com/adampash/belvedere) ⭐ 171 | 🐛 13 | 🌐 AutoHotkey | 📅 2013-12-01 - sets up rules for taking actions on files (move, copy, delete, etc) based on the name of a file, its extension, size, age, and more. More info [link](http://lifehacker.com/341950/belvedere-automates-your-self-cleaning-pc).
 * [QuickAccessPopup](https://github.com/JnLlnd/QuickAccessPopup) ⭐ 7 | 🐛 29 | 🌐 AutoHotkey | 📅 2026-10-03 - Multi purpose launcher and file switcher. Website [link](https://www.quickaccesspopup.com/).
 * [SpicyKeys](https://github.com/spicykeys/spicykeys.github.io) ⭐ 0 | 🐛 0 | 🌐 HTML | 📅 2024-05-27 - Use hotkeys to open or move/copy selected files in Windows Explorer. Forum thread: [link](https://www.autohotkey.com/boards/viewtopic.php?f=6\&t=97171)
@@ -396,7 +396,7 @@ Development state:
 
 ### Documentation
 
-* [Official documentation](https://autohotkey.com/docs/AutoHotkey.htm) - Official uptodate AutoHotkey documentation. GitHub [link](https://github.com/Lexikos/AutoHotkey_L-Docs) ⭐ 497 | 🐛 0 | 🌐 AutoHotkey | 📅 2026-10-20.
+* [Official documentation](https://autohotkey.com/docs/AutoHotkey.htm) - Official uptodate AutoHotkey documentation. GitHub [link](https://github.com/Lexikos/AutoHotkey_L-Docs) ⭐ 498 | 🐛 0 | 🌐 AutoHotkey | 📅 2026-10-20.
 
 ### Books
 
@@ -428,4 +428,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-21._
