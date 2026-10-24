@@ -1377,7 +1377,7 @@
                 "open_issues": 46,
                 "owner": "aviaryan",
                 "repo": "Clipjump",
-                "stars": 397,
+                "stars": 396,
                 "topics": [
                   "autohotkey",
                   "clipboard",
@@ -1455,11 +1455,11 @@
                 "id": 670118185,
                 "language": "AutoHotkey",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-23T15:37:03Z",
-                "open_issues": 3,
+                "last_commit": "2026-10-24T07:56:38Z",
+                "open_issues": 7,
                 "owner": "zhugecaomao",
                 "repo": "ALTRun",
-                "stars": 217,
+                "stars": 218,
                 "topics": [
                   "alfred",
                   "app-launcher",
@@ -1707,7 +1707,7 @@
                 "open_issues": 0,
                 "owner": "shokurov",
                 "repo": "ahk-layout-switch",
-                "stars": 3,
+                "stars": 4,
                 "topics": [
                   "autohotkey",
                   "input-method",
@@ -1731,7 +1731,7 @@
                 "id": 1406747979,
                 "language": "AutoHotkey",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-22T22:17:47Z",
+                "last_commit": "2026-10-24T11:06:47Z",
                 "open_issues": 0,
                 "owner": "ryanduguid",
                 "repo": "au-accounting-hotkeys",
@@ -2096,7 +2096,7 @@
                 "open_issues": 17,
                 "owner": "ahkscript",
                 "repo": "SublimeAutoHotkey",
-                "stars": 212,
+                "stars": 210,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:54:56.890Z"
@@ -2352,7 +2352,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T21:41:51.011Z",
+    "last_updated": "2026-10-24T21:12:21.811Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome AutoHotkey libraries, library distributions, scripts, tools and resources.",
