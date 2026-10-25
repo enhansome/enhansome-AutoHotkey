@@ -1459,7 +1459,7 @@
                 "open_issues": 7,
                 "owner": "zhugecaomao",
                 "repo": "ALTRun",
-                "stars": 218,
+                "stars": 219,
                 "topics": [
                   "alfred",
                   "app-launcher",
@@ -1731,7 +1731,7 @@
                 "id": 1406747979,
                 "language": "AutoHotkey",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-24T11:06:47Z",
+                "last_commit": "2026-10-25T19:58:36Z",
                 "open_issues": 0,
                 "owner": "ryanduguid",
                 "repo": "au-accounting-hotkeys",
@@ -1769,7 +1769,7 @@
                 "open_issues": 119,
                 "owner": "fuhsjr00",
                 "repo": "bug.n",
-                "stars": 3435,
+                "stars": 3434,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:54:56.890Z"
@@ -2352,7 +2352,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T21:12:21.811Z",
+    "last_updated": "2026-10-25T21:15:31.292Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome AutoHotkey libraries, library distributions, scripts, tools and resources.",
@@ -2364,7 +2364,7 @@
       "open_issues": 27,
       "owner": "ahkscript",
       "repo": "awesome-AutoHotkey",
-      "stars": 3106,
+      "stars": 3107,
       "topics": []
     },
     "original_repository_sha": "125bf380e1f3f7d47ed6bbc7bcf78226311f29d0",
