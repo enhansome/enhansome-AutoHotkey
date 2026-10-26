@@ -899,7 +899,7 @@
                     "open_issues": 21,
                     "owner": "G33kDude",
                     "repo": "Neutron.ahk",
-                    "stars": 242,
+                    "stars": 243,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:54:56.890Z"
@@ -1072,7 +1072,7 @@
                 "open_issues": 5,
                 "owner": "G33kDude",
                 "repo": "Socket.ahk",
-                "stars": 72,
+                "stars": 73,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:54:56.890Z"
@@ -1455,11 +1455,11 @@
                 "id": 670118185,
                 "language": "AutoHotkey",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-24T07:56:38Z",
-                "open_issues": 7,
+                "last_commit": "2026-10-26T22:30:21Z",
+                "open_issues": 3,
                 "owner": "zhugecaomao",
                 "repo": "ALTRun",
-                "stars": 219,
+                "stars": 220,
                 "topics": [
                   "alfred",
                   "app-launcher",
@@ -1571,7 +1571,7 @@
                 "open_issues": 2,
                 "owner": "marius-sucan",
                 "repo": "KeyPress-OSD",
-                "stars": 416,
+                "stars": 415,
                 "topics": [
                   "ahk",
                   "autohotkey",
@@ -1730,8 +1730,8 @@
                 "homepage": "https://duguid.com.au/",
                 "id": 1406747979,
                 "language": "AutoHotkey",
-                "license": "Apache-2.0",
-                "last_commit": "2026-10-25T19:58:36Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-10-26T20:17:40Z",
                 "open_issues": 0,
                 "owner": "ryanduguid",
                 "repo": "au-accounting-hotkeys",
@@ -1971,7 +1971,7 @@
                 "open_issues": 40,
                 "owner": "phil294",
                 "repo": "AHK_X11",
-                "stars": 1022,
+                "stars": 1023,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:54:56.890Z"
@@ -2189,7 +2189,7 @@
                 "open_issues": 85,
                 "owner": "Pulover",
                 "repo": "PuloversMacroCreator",
-                "stars": 2028,
+                "stars": 2030,
                 "topics": [
                   "ahk",
                   "autohotkey",
@@ -2352,7 +2352,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T21:15:31.292Z",
+    "last_updated": "2026-10-26T22:53:30.644Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome AutoHotkey libraries, library distributions, scripts, tools and resources.",
@@ -2364,7 +2364,7 @@
       "open_issues": 27,
       "owner": "ahkscript",
       "repo": "awesome-AutoHotkey",
-      "stars": 3107,
+      "stars": 3106,
       "topics": []
     },
     "original_repository_sha": "125bf380e1f3f7d47ed6bbc7bcf78226311f29d0",
