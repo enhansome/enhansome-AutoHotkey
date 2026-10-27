@@ -49,7 +49,7 @@
                 "open_issues": 3,
                 "owner": "joedf",
                 "repo": "LibCon.ahk",
-                "stars": 61,
+                "stars": 62,
                 "topics": [
                   "autohotkey",
                   "autohotkey-library",
@@ -468,7 +468,7 @@
                 "language": "AutoHotkey",
                 "license": "MIT",
                 "last_commit": "2026-10-21T05:08:21Z",
-                "open_issues": 13,
+                "open_issues": 14,
                 "owner": "iseahound",
                 "repo": "ImagePut",
                 "stars": 233,
@@ -1455,11 +1455,11 @@
                 "id": 670118185,
                 "language": "AutoHotkey",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-26T22:30:21Z",
-                "open_issues": 3,
+                "last_commit": "2026-10-27T20:00:26Z",
+                "open_issues": 2,
                 "owner": "zhugecaomao",
                 "repo": "ALTRun",
-                "stars": 220,
+                "stars": 221,
                 "topics": [
                   "alfred",
                   "app-launcher",
@@ -1571,7 +1571,7 @@
                 "open_issues": 2,
                 "owner": "marius-sucan",
                 "repo": "KeyPress-OSD",
-                "stars": 415,
+                "stars": 414,
                 "topics": [
                   "ahk",
                   "autohotkey",
@@ -1731,7 +1731,7 @@
                 "id": 1406747979,
                 "language": "AutoHotkey",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-26T20:17:40Z",
+                "last_commit": "2026-10-27T13:29:50Z",
                 "open_issues": 0,
                 "owner": "ryanduguid",
                 "repo": "au-accounting-hotkeys",
@@ -2189,7 +2189,7 @@
                 "open_issues": 85,
                 "owner": "Pulover",
                 "repo": "PuloversMacroCreator",
-                "stars": 2030,
+                "stars": 2031,
                 "topics": [
                   "ahk",
                   "autohotkey",
@@ -2352,7 +2352,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T22:53:30.644Z",
+    "last_updated": "2026-10-27T22:38:03.049Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome AutoHotkey libraries, library distributions, scripts, tools and resources.",
