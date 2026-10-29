@@ -1455,7 +1455,7 @@
                 "id": 670118185,
                 "language": "AutoHotkey",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-28T05:58:21Z",
+                "last_commit": "2026-10-29T13:43:15Z",
                 "open_issues": 2,
                 "owner": "zhugecaomao",
                 "repo": "ALTRun",
@@ -1654,7 +1654,7 @@
                 "open_issues": 0,
                 "owner": "almogtavor",
                 "repo": "static-hands",
-                "stars": 77,
+                "stars": 76,
                 "topics": [
                   "ahk",
                   "autohotkey",
@@ -1992,7 +1992,7 @@
                 "open_issues": 23,
                 "owner": "Paris",
                 "repo": "IronAHK",
-                "stars": 415,
+                "stars": 414,
                 "topics": [
                   "autohotkey",
                   "c-sharp",
@@ -2352,7 +2352,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T22:52:41.976Z",
+    "last_updated": "2026-10-29T22:59:20.182Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome AutoHotkey libraries, library distributions, scripts, tools and resources.",
@@ -2364,7 +2364,7 @@
       "open_issues": 27,
       "owner": "ahkscript",
       "repo": "awesome-AutoHotkey",
-      "stars": 3108,
+      "stars": 3109,
       "topics": []
     },
     "original_repository_sha": "125bf380e1f3f7d47ed6bbc7bcf78226311f29d0",
