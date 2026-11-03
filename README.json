@@ -1455,8 +1455,8 @@
                 "id": 670118185,
                 "language": "AutoHotkey",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-03T00:24:27Z",
-                "open_issues": 3,
+                "last_commit": "2026-11-03T23:37:32Z",
+                "open_issues": 5,
                 "owner": "zhugecaomao",
                 "repo": "ALTRun",
                 "stars": 224,
@@ -1731,7 +1731,7 @@
                 "id": 1406747979,
                 "language": "AutoHotkey",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-02T14:21:46Z",
+                "last_commit": "2026-11-03T08:40:18Z",
                 "open_issues": 0,
                 "owner": "ryanduguid",
                 "repo": "au-accounting-hotkeys",
@@ -2189,7 +2189,7 @@
                 "open_issues": 85,
                 "owner": "Pulover",
                 "repo": "PuloversMacroCreator",
-                "stars": 2033,
+                "stars": 2034,
                 "topics": [
                   "ahk",
                   "autohotkey",
@@ -2352,7 +2352,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T01:18:25.651Z",
+    "last_updated": "2026-11-03T23:42:20.919Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome AutoHotkey libraries, library distributions, scripts, tools and resources.",
