@@ -230,7 +230,7 @@ Development state:
 
 ### <a name="scripts-filesystem"></a>Filesystem
 
-* [ALTRun](https://github.com/zhugecaomao/ALTRun) ⭐ 226 | 🐛 4 | 🌐 AutoHotkey | 📅 2026-11-04 - A lightweight, open-source Alfred-style launcher for Windows. For apps, files (with Everything), web searches, calculations, clipboard history and snippets. Written in AutoHotkey v2.
+* [ALTRun](https://github.com/zhugecaomao/ALTRun) ⭐ 226 | 🐛 4 | 🌐 AutoHotkey | 📅 2026-11-05 - A lightweight, open-source Alfred-style launcher for Windows. For apps, files (with Everything), web searches, calculations, clipboard history and snippets. Written in AutoHotkey v2.
 * [Belvedere](https://github.com/adampash/belvedere) ⭐ 172 | 🐛 13 | 🌐 AutoHotkey | 📅 2013-12-01 - sets up rules for taking actions on files (move, copy, delete, etc) based on the name of a file, its extension, size, age, and more. More info [link](http://lifehacker.com/341950/belvedere-automates-your-self-cleaning-pc).
 * [QuickAccessPopup](https://github.com/JnLlnd/QuickAccessPopup) ⭐ 8 | 🐛 29 | 🌐 AutoHotkey | 📅 2026-11-01 - Multi purpose launcher and file switcher. Website [link](https://www.quickaccesspopup.com/).
 * [SpicyKeys](https://github.com/spicykeys/spicykeys.github.io) ⭐ 0 | 🐛 0 | 🌐 HTML | 📅 2024-05-27 - Use hotkeys to open or move/copy selected files in Windows Explorer. Forum thread: [link](https://www.autohotkey.com/boards/viewtopic.php?f=6\&t=97171)
@@ -262,7 +262,7 @@ Development state:
 * [Static Hands](https://github.com/almogtavor/static-hands) ⭐ 76 | 🐛 0 | 🌐 Shell | 📅 2026-03-13 - Super useful shortcuts with the CapsLock key that spare the need to move hands while typing. Super simple. No learning curve.
 * [DateHotkey](https://github.com/tiuub/DateHotkey) ⭐ 23 | 🐛 2 | 🌐 AutoHotkey | 📅 2023-07-05 - Hotkey to easily receive current, past or upcomming date strings. Forum thread: [link](https://www.autohotkey.com/boards/viewtopic.php?f=6\&t=89929)
 * [Layout Switch](https://github.com/shokurov/ahk-layout-switch) ⭐ 4 | 🐛 0 | 🌐 AutoHotkey | 📅 2026-10-22 - Shows the keyboard-layout code (EN, DE, …) in a badge right under the text caret on every layout change, like macOS' input source indicator, and cycles through a chosen list of languages with a macOS-style hotkey. Works over Win+S and the Start menu, follows the system accent colour, per-monitor DPI aware.
-* [AU accounting hotkeys](https://github.com/ryanduguid/au-accounting-hotkeys) ⭐ 0 | 🐛 0 | 🌐 AutoHotkey | 📅 2026-11-04 - Types Australian financial year dates and period labels, with a searchable picker, ABN and ACN formatting and draft workpaper snippets.
+* [AU accounting hotkeys](https://github.com/ryanduguid/au-accounting-hotkeys) ⭐ 0 | 🐛 0 | 🌐 AutoHotkey | 📅 2026-11-05 - Types Australian financial year dates and period labels, with a searchable picker, ABN and ACN formatting and draft workpaper snippets.
 * [Half-QWERTY](https://autohotkey.com/board/topic/1257-half-qwerty-one-handed-typing/page-6#entry216183) - One-handed Typing. Using the space bar as a modifier, the user can generate the characters of either side of a full-sized keyboard using only one hand. More information via Forum thread: [link](https://autohotkey.com/board/topic/1257-half-qwerty-one-handed-typing/)
 * [Lintalist](http://lintalist.github.io/) - Searchable interactive lists to copy & paste text with plugins. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6\&t=3378).
 * [Portable Keyboard Layout](http://pkl.sourceforge.net/) - helps people to learn better, more efficient keyboard layouts such as Dvorak, Colemak or Asset. Forum thread: [link](https://autohotkey.com/board/topic/25991-portable-keyboard-layout/).
@@ -428,4 +428,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._
