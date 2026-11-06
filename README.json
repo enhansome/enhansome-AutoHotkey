@@ -1374,10 +1374,10 @@
                 "language": "AutoHotkey",
                 "license": null,
                 "last_commit": "2021-04-06T21:42:43Z",
-                "open_issues": 46,
+                "open_issues": 44,
                 "owner": "aviaryan",
                 "repo": "Clipjump",
-                "stars": 396,
+                "stars": 395,
                 "topics": [
                   "autohotkey",
                   "clipboard",
@@ -1455,7 +1455,7 @@
                 "id": 670118185,
                 "language": "AutoHotkey",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-05T09:15:16Z",
+                "last_commit": "2026-11-06T09:35:25Z",
                 "open_issues": 4,
                 "owner": "zhugecaomao",
                 "repo": "ALTRun",
@@ -1971,7 +1971,7 @@
                 "open_issues": 40,
                 "owner": "phil294",
                 "repo": "AHK_X11",
-                "stars": 1022,
+                "stars": 1021,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:54:56.890Z"
@@ -2189,7 +2189,7 @@
                 "open_issues": 85,
                 "owner": "Pulover",
                 "repo": "PuloversMacroCreator",
-                "stars": 2034,
+                "stars": 2035,
                 "topics": [
                   "ahk",
                   "autohotkey",
@@ -2352,7 +2352,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T23:51:02.570Z",
+    "last_updated": "2026-11-06T23:31:14.315Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome AutoHotkey libraries, library distributions, scripts, tools and resources.",
@@ -2364,7 +2364,7 @@
       "open_issues": 27,
       "owner": "ahkscript",
       "repo": "awesome-AutoHotkey",
-      "stars": 3114,
+      "stars": 3116,
       "topics": []
     },
     "original_repository_sha": "125bf380e1f3f7d47ed6bbc7bcf78226311f29d0",
