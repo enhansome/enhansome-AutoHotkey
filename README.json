@@ -471,7 +471,7 @@
                 "open_issues": 14,
                 "owner": "iseahound",
                 "repo": "ImagePut",
-                "stars": 233,
+                "stars": 232,
                 "topics": [
                   "image-processing",
                   "pixelsearch",
@@ -932,7 +932,7 @@
                 "open_issues": 0,
                 "owner": "Pulover",
                 "repo": "Eval",
-                "stars": 31,
+                "stars": 30,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:54:56.890Z"
@@ -2189,7 +2189,7 @@
                 "open_issues": 85,
                 "owner": "Pulover",
                 "repo": "PuloversMacroCreator",
-                "stars": 2035,
+                "stars": 2037,
                 "topics": [
                   "ahk",
                   "autohotkey",
@@ -2352,7 +2352,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T23:31:14.315Z",
+    "last_updated": "2026-11-07T22:18:52.089Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome AutoHotkey libraries, library distributions, scripts, tools and resources.",
