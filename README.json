@@ -988,7 +988,7 @@
                 "open_issues": 17,
                 "owner": "G33kDude",
                 "repo": "Chrome.ahk",
-                "stars": 393,
+                "stars": 394,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:54:56.890Z"
@@ -1459,7 +1459,7 @@
                 "open_issues": 4,
                 "owner": "zhugecaomao",
                 "repo": "ALTRun",
-                "stars": 226,
+                "stars": 227,
                 "topics": [
                   "alfred",
                   "app-launcher",
@@ -1571,7 +1571,7 @@
                 "open_issues": 2,
                 "owner": "marius-sucan",
                 "repo": "KeyPress-OSD",
-                "stars": 414,
+                "stars": 415,
                 "topics": [
                   "ahk",
                   "autohotkey",
@@ -2189,7 +2189,7 @@
                 "open_issues": 85,
                 "owner": "Pulover",
                 "repo": "PuloversMacroCreator",
-                "stars": 2037,
+                "stars": 2040,
                 "topics": [
                   "ahk",
                   "autohotkey",
@@ -2352,7 +2352,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T22:18:52.089Z",
+    "last_updated": "2026-11-08T22:29:55.411Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome AutoHotkey libraries, library distributions, scripts, tools and resources.",
@@ -2364,7 +2364,7 @@
       "open_issues": 27,
       "owner": "ahkscript",
       "repo": "awesome-AutoHotkey",
-      "stars": 3116,
+      "stars": 3117,
       "topics": []
     },
     "original_repository_sha": "125bf380e1f3f7d47ed6bbc7bcf78226311f29d0",
