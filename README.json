@@ -899,7 +899,7 @@
                     "open_issues": 21,
                     "owner": "G33kDude",
                     "repo": "Neutron.ahk",
-                    "stars": 243,
+                    "stars": 244,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:54:56.890Z"
@@ -1374,10 +1374,10 @@
                 "language": "AutoHotkey",
                 "license": null,
                 "last_commit": "2021-04-06T21:42:43Z",
-                "open_issues": 44,
+                "open_issues": 46,
                 "owner": "aviaryan",
                 "repo": "Clipjump",
-                "stars": 395,
+                "stars": 396,
                 "topics": [
                   "autohotkey",
                   "clipboard",
@@ -1455,11 +1455,11 @@
                 "id": 670118185,
                 "language": "AutoHotkey",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-06T09:35:25Z",
-                "open_issues": 4,
+                "last_commit": "2026-11-10T01:18:29Z",
+                "open_issues": 7,
                 "owner": "zhugecaomao",
                 "repo": "ALTRun",
-                "stars": 227,
+                "stars": 230,
                 "topics": [
                   "alfred",
                   "app-launcher",
@@ -1971,7 +1971,7 @@
                 "open_issues": 40,
                 "owner": "phil294",
                 "repo": "AHK_X11",
-                "stars": 1021,
+                "stars": 1022,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:54:56.890Z"
@@ -2189,7 +2189,7 @@
                 "open_issues": 85,
                 "owner": "Pulover",
                 "repo": "PuloversMacroCreator",
-                "stars": 2040,
+                "stars": 2042,
                 "topics": [
                   "ahk",
                   "autohotkey",
@@ -2352,7 +2352,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T22:29:55.411Z",
+    "last_updated": "2026-11-10T01:46:13.020Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome AutoHotkey libraries, library distributions, scripts, tools and resources.",
@@ -2364,7 +2364,7 @@
       "open_issues": 27,
       "owner": "ahkscript",
       "repo": "awesome-AutoHotkey",
-      "stars": 3117,
+      "stars": 3118,
       "topics": []
     },
     "original_repository_sha": "125bf380e1f3f7d47ed6bbc7bcf78226311f29d0",
