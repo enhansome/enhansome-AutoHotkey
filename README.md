@@ -1,6 +1,6 @@
 # Awesome AutoHotkey with stars
 
-A curated list of awesome [AutoHotkey](https://autohotkey.com/) libraries, library distributions, scripts, tools and resources. Inspired by the other [awesome lists](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,779 | 🐛 65 | 🌐 Ruby | 📅 2024-06-02. Please read [CONTRIBUTING.md](https://github.com/ahkscript/awesome-AutoHotkey/blob/master/.github/CONTRIBUTING.md) before contributing.
+A curated list of awesome [AutoHotkey](https://autohotkey.com/) libraries, library distributions, scripts, tools and resources. Inspired by the other [awesome lists](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,781 | 🐛 65 | 🌐 Ruby | 📅 2024-06-02. Please read [CONTRIBUTING.md](https://github.com/ahkscript/awesome-AutoHotkey/blob/master/.github/CONTRIBUTING.md) before contributing.
 
 Out-of-date or discontinued, but nonetheless historically relevant items can be found on [Historical.md](https://github.com/ahkscript/awesome-AutoHotkey/blob/master/Historical.md)
 
@@ -230,7 +230,7 @@ Development state:
 
 ### <a name="scripts-filesystem"></a>Filesystem
 
-* [ALTRun](https://github.com/zhugecaomao/ALTRun) ⭐ 230 | 🐛 7 | 🌐 AutoHotkey | 📅 2026-11-10 - A lightweight, open-source Alfred-style launcher for Windows. For apps, files (with Everything), web searches, calculations, clipboard history and snippets. Written in AutoHotkey v2.
+* [ALTRun](https://github.com/zhugecaomao/ALTRun) ⭐ 230 | 🐛 8 | 🌐 AutoHotkey | 📅 2026-11-10 - A lightweight, open-source Alfred-style launcher for Windows. For apps, files (with Everything), web searches, calculations, clipboard history and snippets. Written in AutoHotkey v2.
 * [Belvedere](https://github.com/adampash/belvedere) ⭐ 172 | 🐛 13 | 🌐 AutoHotkey | 📅 2013-12-01 - sets up rules for taking actions on files (move, copy, delete, etc) based on the name of a file, its extension, size, age, and more. More info [link](http://lifehacker.com/341950/belvedere-automates-your-self-cleaning-pc).
 * [QuickAccessPopup](https://github.com/JnLlnd/QuickAccessPopup) ⭐ 8 | 🐛 29 | 🌐 AutoHotkey | 📅 2026-11-01 - Multi purpose launcher and file switcher. Website [link](https://www.quickaccesspopup.com/).
 * [SpicyKeys](https://github.com/spicykeys/spicykeys.github.io) ⭐ 0 | 🐛 0 | 🌐 HTML | 📅 2024-05-27 - Use hotkeys to open or move/copy selected files in Windows Explorer. Forum thread: [link](https://www.autohotkey.com/boards/viewtopic.php?f=6\&t=97171)
@@ -256,13 +256,13 @@ Development state:
 
 ### Typing
 
-* [KeyPress OSD](https://github.com/marius-sucan/KeyPress-OSD) ⭐ 415 | 🐛 2 | 🌐 AutoHotkey | 📅 2026-04-02 - On-Screen Display which displays every key or mouse button press at a clearly visible text size. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6\&t=225)
+* [KeyPress OSD](https://github.com/marius-sucan/KeyPress-OSD) ⭐ 416 | 🐛 2 | 🌐 AutoHotkey | 📅 2026-04-02 - On-Screen Display which displays every key or mouse button press at a clearly visible text size. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6\&t=225)
 * [AutoComplete](https://github.com/Uberi/Autocomplete) ⭐ 220 | 🐛 9 | 🌐 AutoHotkey | 📅 2022-12-12 - Suggests and completes words as you type. Forum thread: [link](https://autohotkey.com/board/topic/60998-autocomplete/).
 * [TypingAid](https://github.com/ManiacDC/TypingAid/releases) ⭐ 161 | 🐛 56 | 🌐 AutoHotkey | 📅 2018-07-11 - Suggests and completes words as you type. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6\&t=5644) GitHub [link](https://github.com/ManiacDC/TypingAid) ⭐ 161 | 🐛 56 | 🌐 AutoHotkey | 📅 2018-07-11.
 * [Static Hands](https://github.com/almogtavor/static-hands) ⭐ 76 | 🐛 0 | 🌐 Shell | 📅 2026-03-13 - Super useful shortcuts with the CapsLock key that spare the need to move hands while typing. Super simple. No learning curve.
 * [DateHotkey](https://github.com/tiuub/DateHotkey) ⭐ 23 | 🐛 2 | 🌐 AutoHotkey | 📅 2023-07-05 - Hotkey to easily receive current, past or upcomming date strings. Forum thread: [link](https://www.autohotkey.com/boards/viewtopic.php?f=6\&t=89929)
 * [Layout Switch](https://github.com/shokurov/ahk-layout-switch) ⭐ 4 | 🐛 0 | 🌐 AutoHotkey | 📅 2026-10-22 - Shows the keyboard-layout code (EN, DE, …) in a badge right under the text caret on every layout change, like macOS' input source indicator, and cycles through a chosen list of languages with a macOS-style hotkey. Works over Win+S and the Start menu, follows the system accent colour, per-monitor DPI aware.
-* [AU accounting hotkeys](https://github.com/ryanduguid/au-accounting-hotkeys) ⭐ 0 | 🐛 0 | 🌐 AutoHotkey | 📅 2026-11-05 - Types Australian financial year dates and period labels, with a searchable picker, ABN and ACN formatting and draft workpaper snippets.
+* [AU accounting hotkeys](https://github.com/ryanduguid/au-accounting-hotkeys) ⭐ 0 | 🐛 0 | 🌐 AutoHotkey | 📅 2026-11-10 - Types Australian financial year dates and period labels, with a searchable picker, ABN and ACN formatting and draft workpaper snippets.
 * [Half-QWERTY](https://autohotkey.com/board/topic/1257-half-qwerty-one-handed-typing/page-6#entry216183) - One-handed Typing. Using the space bar as a modifier, the user can generate the characters of either side of a full-sized keyboard using only one hand. More information via Forum thread: [link](https://autohotkey.com/board/topic/1257-half-qwerty-one-handed-typing/)
 * [Lintalist](http://lintalist.github.io/) - Searchable interactive lists to copy & paste text with plugins. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6\&t=3378).
 * [Portable Keyboard Layout](http://pkl.sourceforge.net/) - helps people to learn better, more efficient keyboard layouts such as Dvorak, Colemak or Asset. Forum thread: [link](https://autohotkey.com/board/topic/25991-portable-keyboard-layout/).
@@ -271,7 +271,7 @@ Development state:
 ### Window Management
 
 * [bug.n](https://github.com/fuhsjr00/bug.n) ⭐ 3,435 | 🐛 119 | 🌐 AutoHotkey | 📅 2023-01-05 - Tiling Window Manager. Forum thread: [link](https://autohotkey.com/board/topic/30332-bugn-tiling-window-manager/)
-* [WindowPadX](https://github.com/hoppfrosch/WindowPadX) ⭐ 232 | 🐛 9 | 🌐 AutoHotkey | 📅 2024-02-29 - tool which provides some useful functionality within multi monitor environments. *WindowPadX is an enhancement of WindowPad, originally released by Lexikos, see original forum thread: [link](https://autohotkey.com/board/topic/19990-windowpad-window-moving-tool/)*
+* [WindowPadX](https://github.com/hoppfrosch/WindowPadX) ⭐ 231 | 🐛 9 | 🌐 AutoHotkey | 📅 2024-02-29 - tool which provides some useful functionality within multi monitor environments. *WindowPadX is an enhancement of WindowPad, originally released by Lexikos, see original forum thread: [link](https://autohotkey.com/board/topic/19990-windowpad-window-moving-tool/)*
 * [Open-Show-Apps](https://github.com/JuanmaMenendez/AutoHotkey-script-Open-Show-Apps) ⭐ 150 | 🐛 7 | 🌐 AutoHotkey | 📅 2025-07-06 - Open, restore or minimize the desired Window's or Chrome's Apps. Forum thread: [link](https://www.autohotkey.com/boards/viewtopic.php?f=6\&t=63579\&p=272220#p272220)
 * [SnapX](https://github.com/benallred/SnapX/releases) ⭐ 43 | 🐛 3 | 🌐 AutoHotkey | 📅 2020-08-12 - Enhances Windows/Aero Snap by taking over its hotkeys (Win+Left/Right, etc) and providing more fine-grained control over snap location and size. Works with multiple monitors, resolutions, and DPI levels.
 * [Automatic Window Manager](https://autohotkey.com/boards/viewtopic.php?f=6\&t=17907) - Save and restore last window position for each process. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6\&t=17907)
@@ -359,7 +359,7 @@ Development state:
 
 * [ahk](https://github.com/spyoungtech/ahk) ⭐ 1,037 | 🐛 12 | 🌐 Python | 📅 2026-11-02 - A Python wrapper for AutoHotkey - Forum thread: [link](https://www.autohotkey.com/boards/viewtopic.php?f=6\&t=63184)
 * [Exo-Javascript](https://github.com/Aurelain/Exo) ⚠️ Archived - Write AHK with JavaScript - Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6\&t=5714), Exo-CLI (Interactive Command-line) [link](https://github.com/joedf/Exo-CLI.ahk) ⭐ 10 | 🐛 1 | 🌐 JavaScript | 📅 2018-01-28.
-* [AutoHotkey.py](https://github.com/Perlence/AutoHotkey.py) ⭐ 82 | 🐛 7 | 🌐 Python | 📅 2023-04-29 - Write AutoHotkey scripts in Python - Forum thread: [link](https://www.autohotkey.com/boards/viewtopic.php?f=6\&t=86025)
+* [AutoHotkey.py](https://github.com/Perlence/AutoHotkey.py) ⭐ 82 | 🐛 7 | 🌐 Python | 📅 2026-11-10 - Write AutoHotkey scripts in Python - Forum thread: [link](https://www.autohotkey.com/boards/viewtopic.php?f=6\&t=86025)
 * [AutoHotkey.dll](https://hotkeyit.github.io/v2/docs/AutoHotkeyDll.htm) - Part of the [AutoHotkey\_H](#autohotkey_h) distribution. Load the autohotkey.dll from your other language, and pass normal AHK code to the dll file for execution. See here for a list of the [exported functions](https://hotkeyit.github.io/v2/docs/AHKH_Features.htm). Some older links: [python example](https://autohotkey.com/board/topic/56938-simple-python-intergration-example/), [c/c++ example](https://autohotkey.com/board/topic/39588-autohotkeydll/page-10#entry321945), [forum link](https://autohotkey.com/board/topic/39588-autohotkeydll/)
 * [.NET Framework Interop (CLR, C#, VB)](https://autohotkey.com/boards/viewtopic.php?f=6\&t=4633) - Forum thread and documentation for the CLR library. The original download ~~[link](https://dl.dropbox.com/u/20532918/Lib/CLR-1.2.zip)~~ is no longer available.
 * [ActiveScript - Host VBScript and JScript in-process](https://autohotkey.com/boards/viewtopic.php?f=6\&t=4555) - Provides an interface to Active Scripting languages like VBScript and JScript, without relying on Microsoft's ScriptControl, which is not available to 64-bit programs.
