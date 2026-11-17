@@ -1,6 +1,6 @@
 # Awesome AutoHotkey with stars
 
-A curated list of awesome [AutoHotkey](https://autohotkey.com/) libraries, library distributions, scripts, tools and resources. Inspired by the other [awesome lists](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,787 | 🐛 66 | 🌐 Ruby | 📅 2024-06-02. Please read [CONTRIBUTING.md](https://github.com/ahkscript/awesome-AutoHotkey/blob/master/.github/CONTRIBUTING.md) before contributing.
+A curated list of awesome [AutoHotkey](https://autohotkey.com/) libraries, library distributions, scripts, tools and resources. Inspired by the other [awesome lists](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,790 | 🐛 66 | 🌐 Ruby | 📅 2024-06-02. Please read [CONTRIBUTING.md](https://github.com/ahkscript/awesome-AutoHotkey/blob/master/.github/CONTRIBUTING.md) before contributing.
 
 Out-of-date or discontinued, but nonetheless historically relevant items can be found on [Historical.md](https://github.com/ahkscript/awesome-AutoHotkey/blob/master/Historical.md)
 
@@ -224,15 +224,15 @@ Development state:
 
 ### <a name="scripts-clipboard"></a>Clipboard
 
-* [Clipjump](http://clipjump.sourceforge.net/) - is a Multiple-Clipboard management utility for Windows. Source code: [GitHub](https://github.com/aviaryan/Clipjump) ⭐ 395 | 🐛 46 | 🌐 AutoHotkey | 📅 2021-04-06. Forum threads: [link 1](https://autohotkey.com/boards/viewtopic.php?f=6\&t=401), [link 2](https://autohotkey.com/board/topic/91488-clipjump-the-ultimate-clipboard-manager-updated-0708/).
+* [Clipjump](http://clipjump.sourceforge.net/) - is a Multiple-Clipboard management utility for Windows. Source code: [GitHub](https://github.com/aviaryan/Clipjump) ⭐ 396 | 🐛 46 | 🌐 AutoHotkey | 📅 2021-04-06. Forum threads: [link 1](https://autohotkey.com/boards/viewtopic.php?f=6\&t=401), [link 2](https://autohotkey.com/board/topic/91488-clipjump-the-ultimate-clipboard-manager-updated-0708/).
 * [CL3](https://github.com/hi5/CL3) ⭐ 101 | 🐛 5 | 🌐 AutoHotkey | 📅 2026-02-21 - A clipboard manager (text only) with plugins (Search, predefined Slots, ClipChain, FIFO, Editor and more). Forum thread [link](https://autohotkey.com/boards/viewtopic.php?f=6\&t=814).
 * [ClipBoardMonitor](https://github.com/536/my-startup-ahk-scripts/blob/master/startup/ClipBoardMonitor/ClipBoardMonitor.ahk) ⭐ 1 | 🐛 0 | 🌐 AutoHotkey | 📅 2024-04-29 - Monitor clipboard changes, show  tooltip of word count for text or a temporary GUI for pictures.
 
 ### <a name="scripts-filesystem"></a>Filesystem
 
-* [ALTRun](https://github.com/zhugecaomao/ALTRun) ⭐ 238 | 🐛 11 | 🌐 AutoHotkey | 📅 2026-11-15 - A lightweight, open-source Alfred-style launcher for Windows. For apps, files (with Everything), web searches, calculations, clipboard history and snippets. Written in AutoHotkey v2.
+* [ALTRun](https://github.com/zhugecaomao/ALTRun) ⭐ 243 | 🐛 4 | 🌐 AutoHotkey | 📅 2026-11-17 - A lightweight, open-source Alfred-style launcher for Windows. For apps, files (with Everything), web searches, calculations, clipboard history and snippets. Written in AutoHotkey v2.
 * [Belvedere](https://github.com/adampash/belvedere) ⭐ 172 | 🐛 13 | 🌐 AutoHotkey | 📅 2013-12-01 - sets up rules for taking actions on files (move, copy, delete, etc) based on the name of a file, its extension, size, age, and more. More info [link](http://lifehacker.com/341950/belvedere-automates-your-self-cleaning-pc).
-* [QuickAccessPopup](https://github.com/JnLlnd/QuickAccessPopup) ⭐ 8 | 🐛 29 | 🌐 AutoHotkey | 📅 2026-11-01 - Multi purpose launcher and file switcher. Website [link](https://www.quickaccesspopup.com/).
+* [QuickAccessPopup](https://github.com/JnLlnd/QuickAccessPopup) ⭐ 9 | 🐛 29 | 🌐 AutoHotkey | 📅 2026-11-01 - Multi purpose launcher and file switcher. Website [link](https://www.quickaccesspopup.com/).
 * [SpicyKeys](https://github.com/spicykeys/spicykeys.github.io) ⭐ 0 | 🐛 0 | 🌐 HTML | 📅 2024-05-27 - Use hotkeys to open or move/copy selected files in Windows Explorer. Forum thread: [link](https://www.autohotkey.com/boards/viewtopic.php?f=6\&t=97171)
 
 ### <a name="scripts-graphics"></a>Graphics
@@ -336,7 +336,7 @@ Development state:
 
 ### Script Recorders and Writers
 
-* [Pulover’s Macro Creator](http://www.macrocreator.com/) - a Free Automation Tool and Script Generator. Recommended for beginners. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6\&t=143). GitHub [link](https://github.com/Pulover/PuloversMacroCreator) ⭐ 2,045 | 🐛 85 | 🌐 AutoHotkey | 📅 2022-07-25.
+* [Pulover’s Macro Creator](http://www.macrocreator.com/) - a Free Automation Tool and Script Generator. Recommended for beginners. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6\&t=143). GitHub [link](https://github.com/Pulover/PuloversMacroCreator) ⭐ 2,046 | 🐛 85 | 🌐 AutoHotkey | 📅 2022-07-25.
 
 ### Web Syntax Highlighters
 
@@ -428,4 +428,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._
