@@ -1377,7 +1377,7 @@
                 "open_issues": 46,
                 "owner": "aviaryan",
                 "repo": "Clipjump",
-                "stars": 396,
+                "stars": 397,
                 "topics": [
                   "autohotkey",
                   "clipboard",
@@ -1455,11 +1455,11 @@
                 "id": 670118185,
                 "language": "AutoHotkey",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-19T09:14:13Z",
-                "open_issues": 24,
+                "last_commit": "2026-11-21T16:18:57Z",
+                "open_issues": 27,
                 "owner": "zhugecaomao",
                 "repo": "ALTRun",
-                "stars": 365,
+                "stars": 370,
                 "topics": [
                   "alfred",
                   "app-launcher",
@@ -1730,8 +1730,8 @@
                 "homepage": "https://duguid.com.au/",
                 "id": 1406747979,
                 "language": "AutoHotkey",
-                "license": "NOASSERTION",
-                "last_commit": "2026-11-20T09:05:09Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-11-21T22:07:36Z",
                 "open_issues": 0,
                 "owner": "ryanduguid",
                 "repo": "au-accounting-hotkeys",
@@ -1971,7 +1971,7 @@
                 "open_issues": 40,
                 "owner": "phil294",
                 "repo": "AHK_X11",
-                "stars": 1021,
+                "stars": 1022,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:54:56.890Z"
@@ -2352,7 +2352,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T00:17:20.753Z",
+    "last_updated": "2026-11-21T23:36:00.512Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome AutoHotkey libraries, library distributions, scripts, tools and resources.",
