@@ -230,9 +230,9 @@ Development state:
 
 ### <a name="scripts-filesystem"></a>Filesystem
 
-* [ALTRun](https://github.com/zhugecaomao/ALTRun) ⭐ 374 | 🐛 31 | 🌐 AutoHotkey | 📅 2026-11-22 - A lightweight, open-source Alfred-style launcher for Windows. For apps, files (with Everything), web searches, calculations, clipboard history and snippets. Written in AutoHotkey v2.
+* [ALTRun](https://github.com/zhugecaomao/ALTRun) ⭐ 390 | 🐛 17 | 🌐 AutoHotkey | 📅 2026-11-24 - A lightweight, open-source Alfred-style launcher for Windows. For apps, files (with Everything), web searches, calculations, clipboard history and snippets. Written in AutoHotkey v2.
 * [Belvedere](https://github.com/adampash/belvedere) ⭐ 172 | 🐛 13 | 🌐 AutoHotkey | 📅 2013-12-01 - sets up rules for taking actions on files (move, copy, delete, etc) based on the name of a file, its extension, size, age, and more. More info [link](http://lifehacker.com/341950/belvedere-automates-your-self-cleaning-pc).
-* [QuickAccessPopup](https://github.com/JnLlnd/QuickAccessPopup) ⭐ 9 | 🐛 29 | 🌐 AutoHotkey | 📅 2026-11-22 - Multi purpose launcher and file switcher. Website [link](https://www.quickaccesspopup.com/).
+* [QuickAccessPopup](https://github.com/JnLlnd/QuickAccessPopup) ⭐ 9 | 🐛 29 | 🌐 AutoHotkey | 📅 2026-11-23 - Multi purpose launcher and file switcher. Website [link](https://www.quickaccesspopup.com/).
 * [SpicyKeys](https://github.com/spicykeys/spicykeys.github.io) ⭐ 0 | 🐛 0 | 🌐 HTML | 📅 2024-05-27 - Use hotkeys to open or move/copy selected files in Windows Explorer. Forum thread: [link](https://www.autohotkey.com/boards/viewtopic.php?f=6\&t=97171)
 
 ### <a name="scripts-graphics"></a>Graphics
@@ -256,13 +256,13 @@ Development state:
 
 ### Typing
 
-* [KeyPress OSD](https://github.com/marius-sucan/KeyPress-OSD) ⭐ 416 | 🐛 2 | 🌐 AutoHotkey | 📅 2026-04-02 - On-Screen Display which displays every key or mouse button press at a clearly visible text size. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6\&t=225)
+* [KeyPress OSD](https://github.com/marius-sucan/KeyPress-OSD) ⭐ 417 | 🐛 2 | 🌐 AutoHotkey | 📅 2026-04-02 - On-Screen Display which displays every key or mouse button press at a clearly visible text size. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6\&t=225)
 * [AutoComplete](https://github.com/Uberi/Autocomplete) ⭐ 220 | 🐛 9 | 🌐 AutoHotkey | 📅 2022-12-12 - Suggests and completes words as you type. Forum thread: [link](https://autohotkey.com/board/topic/60998-autocomplete/).
 * [TypingAid](https://github.com/ManiacDC/TypingAid/releases) ⭐ 161 | 🐛 56 | 🌐 AutoHotkey | 📅 2018-07-11 - Suggests and completes words as you type. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6\&t=5644) GitHub [link](https://github.com/ManiacDC/TypingAid) ⭐ 161 | 🐛 56 | 🌐 AutoHotkey | 📅 2018-07-11.
 * [Static Hands](https://github.com/almogtavor/static-hands) ⭐ 77 | 🐛 0 | 🌐 Shell | 📅 2026-03-13 - Super useful shortcuts with the CapsLock key that spare the need to move hands while typing. Super simple. No learning curve.
 * [DateHotkey](https://github.com/tiuub/DateHotkey) ⭐ 23 | 🐛 2 | 🌐 AutoHotkey | 📅 2023-07-05 - Hotkey to easily receive current, past or upcomming date strings. Forum thread: [link](https://www.autohotkey.com/boards/viewtopic.php?f=6\&t=89929)
 * [Layout Switch](https://github.com/shokurov/ahk-layout-switch) ⭐ 4 | 🐛 0 | 🌐 AutoHotkey | 📅 2026-11-12 - Shows the keyboard-layout code (EN, DE, …) in a badge right under the text caret on every layout change, like macOS' input source indicator, and cycles through a chosen list of languages with a macOS-style hotkey. Works over Win+S and the Start menu, follows the system accent colour, per-monitor DPI aware.
-* [AU accounting hotkeys](https://github.com/ryanduguid/au-accounting-hotkeys) ⭐ 0 | 🐛 0 | 🌐 AutoHotkey | 📅 2026-11-22 - Types Australian financial year dates and period labels, with a searchable picker, ABN and ACN formatting and draft workpaper snippets.
+* [AU accounting hotkeys](https://github.com/ryanduguid/au-accounting-hotkeys) ⭐ 0 | 🐛 0 | 🌐 AutoHotkey | 📅 2026-11-23 - Types Australian financial year dates and period labels, with a searchable picker, ABN and ACN formatting and draft workpaper snippets.
 * [Half-QWERTY](https://autohotkey.com/board/topic/1257-half-qwerty-one-handed-typing/page-6#entry216183) - One-handed Typing. Using the space bar as a modifier, the user can generate the characters of either side of a full-sized keyboard using only one hand. More information via Forum thread: [link](https://autohotkey.com/board/topic/1257-half-qwerty-one-handed-typing/)
 * [Lintalist](http://lintalist.github.io/) - Searchable interactive lists to copy & paste text with plugins. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6\&t=3378).
 * [Portable Keyboard Layout](http://pkl.sourceforge.net/) - helps people to learn better, more efficient keyboard layouts such as Dvorak, Colemak or Asset. Forum thread: [link](https://autohotkey.com/board/topic/25991-portable-keyboard-layout/).
@@ -315,7 +315,7 @@ Development state:
 
 ### Integrated Development Environment
 
-* [SublimeAutoHotkey](https://github.com/ahkscript/SublimeAutoHotkey) ⭐ 211 | 🐛 17 | 🌐 Python | 📅 2022-05-05 - AutoHotkey AHK language package for SublimeText including syntax highlighting, comments toggling, auto-completions, build system definitions, commands for ahkrun, ahkcompile, ahkrunpiped.
+* [SublimeAutoHotkey](https://github.com/ahkscript/SublimeAutoHotkey) ⭐ 210 | 🐛 17 | 🌐 Python | 📅 2022-05-05 - AutoHotkey AHK language package for SublimeText including syntax highlighting, comments toggling, auto-completions, build system definitions, commands for ahkrun, ahkcompile, ahkrunpiped.
 * [AutoHotFlow](https://www.dropbox.com/s/99cwiqpzlx4mtuz/AutoHotFlow%20Installation.exe?dl=1) - Draw your applications. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6\&t=6399). GitHub [link](https://github.com/bichlepa/AutoHotFlow) ⭐ 74 | 🐛 3 | 🌐 AutoHotkey | 📅 2026-11-02.
 * [vim-AHKcomplete](https://github.com/huleiak47/vim-AHKcomplete) ⭐ 14 | 🐛 0 | 🌐 Python | 📅 2018-06-27 - Vim plugin to add auto-completion. (omni-completion)
 * [Vim autohotkey-ahk](https://github.com/vim-scripts/autohotkey-ahk) ⭐ 14 | 🐛 0 | 🌐 VimL | 📅 2010-10-19 - Vim plugin to add syntax highlighting for AutoHotkey.
@@ -396,7 +396,7 @@ Development state:
 
 ### Documentation
 
-* [Official documentation](https://autohotkey.com/docs/AutoHotkey.htm) - Official uptodate AutoHotkey documentation. GitHub [link](https://github.com/Lexikos/AutoHotkey_L-Docs) ⭐ 503 | 🐛 0 | 🌐 AutoHotkey | 📅 2026-11-20.
+* [Official documentation](https://autohotkey.com/docs/AutoHotkey.htm) - Official uptodate AutoHotkey documentation. GitHub [link](https://github.com/Lexikos/AutoHotkey_L-Docs) ⭐ 504 | 🐛 0 | 🌐 AutoHotkey | 📅 2026-11-20.
 
 ### Books
 
@@ -428,4 +428,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._
