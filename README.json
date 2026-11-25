@@ -899,7 +899,7 @@
                     "open_issues": 21,
                     "owner": "G33kDude",
                     "repo": "Neutron.ahk",
-                    "stars": 244,
+                    "stars": 245,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:54:56.890Z"
@@ -1404,7 +1404,7 @@
                 "open_issues": 5,
                 "owner": "hi5",
                 "repo": "CL3",
-                "stars": 101,
+                "stars": 102,
                 "topics": [
                   "autohotkey",
                   "clipboard",
@@ -1455,11 +1455,11 @@
                 "id": 670118185,
                 "language": "AutoHotkey",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-24T03:51:04Z",
-                "open_issues": 17,
+                "last_commit": "2026-11-25T02:30:11Z",
+                "open_issues": 14,
                 "owner": "zhugecaomao",
                 "repo": "ALTRun",
-                "stars": 390,
+                "stars": 401,
                 "topics": [
                   "alfred",
                   "app-launcher",
@@ -1731,7 +1731,7 @@
                 "id": 1406747979,
                 "language": "AutoHotkey",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-23T21:23:05Z",
+                "last_commit": "2026-11-25T00:15:30Z",
                 "open_issues": 0,
                 "owner": "ryanduguid",
                 "repo": "au-accounting-hotkeys",
@@ -2352,7 +2352,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T04:05:42.228Z",
+    "last_updated": "2026-11-25T02:48:13.304Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome AutoHotkey libraries, library distributions, scripts, tools and resources.",
