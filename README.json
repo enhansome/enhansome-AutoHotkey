@@ -1455,11 +1455,11 @@
                 "id": 670118185,
                 "language": "AutoHotkey",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-26T00:29:43Z",
-                "open_issues": 8,
+                "last_commit": "2026-11-26T04:17:12Z",
+                "open_issues": 12,
                 "owner": "zhugecaomao",
                 "repo": "ALTRun",
-                "stars": 413,
+                "stars": 420,
                 "topics": [
                   "alfred",
                   "app-launcher",
@@ -1571,7 +1571,7 @@
                 "open_issues": 2,
                 "owner": "marius-sucan",
                 "repo": "KeyPress-OSD",
-                "stars": 417,
+                "stars": 418,
                 "topics": [
                   "ahk",
                   "autohotkey",
@@ -1648,9 +1648,9 @@
                 "description": "Don't move your hands; type faster ⚡",
                 "homepage": "https://almogtavor.github.io/static-hands/",
                 "id": 362348464,
-                "language": "Shell",
+                "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-03-13T11:22:17Z",
+                "last_commit": "2026-11-26T23:08:49Z",
                 "open_issues": 0,
                 "owner": "almogtavor",
                 "repo": "static-hands",
@@ -1731,7 +1731,7 @@
                 "id": 1406747979,
                 "language": "AutoHotkey",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-25T10:26:36Z",
+                "last_commit": "2026-11-26T02:16:42Z",
                 "open_issues": 0,
                 "owner": "ryanduguid",
                 "repo": "au-accounting-hotkeys",
@@ -1769,7 +1769,7 @@
                 "open_issues": 119,
                 "owner": "fuhsjr00",
                 "repo": "bug.n",
-                "stars": 3433,
+                "stars": 3432,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:54:56.890Z"
@@ -2189,7 +2189,7 @@
                 "open_issues": 85,
                 "owner": "Pulover",
                 "repo": "PuloversMacroCreator",
-                "stars": 2048,
+                "stars": 2049,
                 "topics": [
                   "ahk",
                   "autohotkey",
@@ -2352,7 +2352,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T01:57:07.374Z",
+    "last_updated": "2026-11-27T01:57:16.295Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome AutoHotkey libraries, library distributions, scripts, tools and resources.",
