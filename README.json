@@ -1456,10 +1456,10 @@
                 "language": "AutoHotkey",
                 "license": "GPL-3.0",
                 "last_commit": "2026-11-26T04:17:12Z",
-                "open_issues": 12,
+                "open_issues": 14,
                 "owner": "zhugecaomao",
                 "repo": "ALTRun",
-                "stars": 420,
+                "stars": 423,
                 "topics": [
                   "alfred",
                   "app-launcher",
@@ -1663,6 +1663,7 @@
                   "developer-tools",
                   "keybindings",
                   "keyboard",
+                  "macbook",
                   "shortcut",
                   "shortcuts",
                   "windows-10"
@@ -1731,7 +1732,7 @@
                 "id": 1406747979,
                 "language": "AutoHotkey",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-26T02:16:42Z",
+                "last_commit": "2026-11-27T14:45:02Z",
                 "open_issues": 0,
                 "owner": "ryanduguid",
                 "repo": "au-accounting-hotkeys",
@@ -2282,7 +2283,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-11-18T07:24:43Z",
-                "open_issues": 11,
+                "open_issues": 10,
                 "owner": "spyoungtech",
                 "repo": "ahk",
                 "stars": 1037,
@@ -2352,7 +2353,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T01:57:16.295Z",
+    "last_updated": "2026-11-28T01:40:11.963Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome AutoHotkey libraries, library distributions, scripts, tools and resources.",
@@ -2364,7 +2365,7 @@
       "open_issues": 29,
       "owner": "ahkscript",
       "repo": "awesome-AutoHotkey",
-      "stars": 3123,
+      "stars": 3124,
       "topics": []
     },
     "original_repository_sha": "125bf380e1f3f7d47ed6bbc7bcf78226311f29d0",
